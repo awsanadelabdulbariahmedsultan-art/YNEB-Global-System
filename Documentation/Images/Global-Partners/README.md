@@ -1,5 +1,5 @@
 ---
-© 2024 YNEB Global System | Intellectual Property & Software Ownership
+© 2026 YNEB Global System | Intellectual Property & Software Ownership
 Author & Architect: Eng. Awsan Adel Abdulbari Ahmed Sultan
 Nationality: YEMEN | ID: 01010305468
 Contacts: +967 777852433 | +967 776633003
@@ -37,4 +37,4 @@ This folder contains the strategic documentation and roles of the five major wor
 *   **Role:** Ensuring long-term energy demand and refining synergy.
 
 ---
-> **Governance Note:** All partnerships and financial settlements are governed by the **AWSAN AI** system, ensuring 100% transparency and neutral operations, protected by the sovereign intellectual property of Eng. Awsan Sultan.
+> **Governance Note:** All partnerships and financial settlements are governed by the **AWSAN AI** system, ensuring 100% transparency and neutral operations, protected by the sovereign intellectual property of Eng. Awsan Adel Abdulbari Ahmed Sultan Sultan.
