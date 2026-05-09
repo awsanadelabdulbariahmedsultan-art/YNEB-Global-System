@@ -3,7 +3,7 @@
 > **Nationality:** YEMEN | **ID:** 01010305468
 > **Contacts:** +967 777852433 | +967 776633003
 > **Email:** AWSAN.SULTAN@GMAIL.COM
-> *© 2024 YNEB Global System. All Rights Reserved.*
+> *© 2026 YNEB Global System. All Rights Reserved.*
 
 ---
 
