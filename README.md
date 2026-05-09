@@ -1,4 +1,3 @@
----
 © 2026 YNEB Global System | Sovereign Property
 Author: Eng. Awsan Adel Abdulbari Ahmed Sultan
 YEMEN | ID: 01010305468 | Contacts: +967 777852433
@@ -27,3 +26,5 @@ YEMEN | ID: 01010305468 | Contacts: +967 777852433
 
 ---
 > **Legal Disclaimer:** This system is governed by **AWSAN AI**. All financial settlements are executed via the **Digital Rial (YRD)**, ensuring 100% transparent and neutral operations.
+
+
