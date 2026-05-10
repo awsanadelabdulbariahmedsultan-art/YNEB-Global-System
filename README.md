@@ -39,7 +39,7 @@ Select a module below to view the technical documentation and strategic maps.
 *Autonomous governance via AWSAN AI and the Digital Rial (YRD).*
 
 *   **[🧠 AWSAN AI Governance Framework](./Documentation/Technical-Financial-System/AWSAN_AI_Governance_Framework.md)**
-    *   *Visual Guide:* [📷 System Logic](./Documentation/Images/Financial-System/Image_02.png)
+    *   *Visual Guide:* [📷 System Logic](Image_02.png)
 *   **[💎 Digital Rial (YRD) & AST Token](./Documentation/Technical-Financial-System/Digital_Rial_YRD_Settlement_Currency.md)**
     *   *Visual Guide:* [📷 Financial Ecosystem](./Documentation/Images/Financial-System/Image_32.png)
 *   **[🛡️ Sovereign Smart Contracts (AES)](./Documentation/Technical-Financial-System/Sovereign_Smart_Contracts_AES_Logic.md)**
