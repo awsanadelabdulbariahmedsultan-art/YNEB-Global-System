@@ -5,10 +5,15 @@
 ---
 
 ### 🛡️ Sovereign Intellectual Property & Ownership
-© **2026 YNEB Global System | Sovereign Property**  
+
+© **2026 YNEB Global System | Sovereign Property** 
+
 👤 **Author:** Eng. Awsan Adel Abdulbari Ahmed Sultan  
+
 📍 **Origin:** YEMEN | **ID:** 01010305468  
+
 📞 **Contacts:** +967 777852433 / +967 776633003
+
 👤 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
 ---
 
