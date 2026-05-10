@@ -30,7 +30,7 @@ Select a module below to view the technical documentation and strategic maps.
 | **Shabwah** | The Launch Engine & Rapid ROI | [📷 View Map](Image_08.png) | [📄 Documentation](./Documentation/Geo-Hubs/Shabwah_Hub_Launch_Engine.md) |
 | **Hadhramaut**| Expansion Power & Global LNG | [📷 View Map](./Documentation/Images/Geo-Hubs/Image_13.png) | [📄 Documentation](./Documentation/Geo-Hubs/Hadhramaut_Hub_Expansion_Power.md) |
 | **Mareb** | Stability Anchor & Social Energy | [📷 View Map](./Documentation/Images/Geo-Hubs/Image_12.png) | [📄 Documentation](./Documentation/Geo-Hubs/Mareb_Hub_Stability_Anchor.md) |
-| **Socotra** | Ocean Gate & Global Bunkering | [📷 View Map](Image_11.png.png) | [📄 Documentation](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) |
+| **Socotra** | Ocean Gate & Global Bunkering | [📷 View Map](Image_11.png) | [📄 Documentation](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) |
 | **Border Hubs**| Saada, Jawf & Hajjah Stability | [📷 View Map](./Documentation/Images/Geo-Hubs/Image_22.png) | [📄 Documentation](./Documentation/Geo-Hubs/Border_Hubs_Development_Saada_Jawf_Hajjah.md) |
 
 ---
