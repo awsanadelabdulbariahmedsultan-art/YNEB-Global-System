@@ -1,4 +1,4 @@
-# 📈 Hadhramaut Hub: The Expansion Power of YNEB
+# 📈 Hadhramout Hub: The Expansion Power of YNEB
 > **Global LNG Gateway & Strategic Energy Reserve | محور حضرموت: قوة التوسع وبوابة الغاز المسال العالمية**
 
 ---
@@ -12,7 +12,7 @@
 ---
 
 ## 🏗️ 1. Strategic Role & Resource Capacity
-Hadhramaut serves as the primary sovereign reservoir for Oil and Gas, designed to attract massive international capital and provide long-term economic growth for Yemen.
+Hadhramout serves as the primary sovereign reservoir for Oil and Gas, designed to attract massive international capital and provide long-term economic growth for Yemen.
 
 ## 🚢 2. Sovereign Logistic Assets | المنشآت اللوجستية السيادية
 *   **Dhabbah Terminal:** The central hub for crude oil export and storage, optimized for high-capacity production.
