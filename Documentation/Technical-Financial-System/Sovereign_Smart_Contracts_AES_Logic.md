@@ -30,7 +30,7 @@ To ensure equitable wealth distribution, the AES protocol enforces the sovereign
 *   **AAS Protocol Integration:** Linking physical assets in the ground to digital certificates of ownership, preventing any unauthorized tampering with national resource data.
 
 ## 🛡️ 5. The "Sovereign Master Key"
-While the system is autonomous, a **"Sovereign Master Key"** is held by the Founder (**Eng. Awsan Sultan**) to act as a safety valve, ensuring the AI governance remains aligned with national interests and humanitarian goals.
+While the system is autonomous, a **"Sovereign Master Key"** is held by the Founder (**Eng. Awsan Adel Abdulbari Ahmed Sultan**) to act as a safety valve, ensuring the AI governance remains aligned with national interests and humanitarian goals.
 
 ---
 
