@@ -28,8 +28,11 @@ n# 🧠 AWSAN AI GOVERNANCE SYSTEM: The Sovereign Governance & Technical Framewo
 *   **Central Bank Synergy:** The system acts as a sovereign digital bridge connected to international clearing houses.
    
 *   **Asset Tokenization (AAS):** Proof of ownership for oil, gas, and infrastructure is issued as non-fungible digital certificates (NFTs), making them secure and tradable assets.
-     * | **AAS PROTOCOL** | [📷 View Protocol](AAS Protocol.png)
-     * (https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) |
+     
+**| [**AAS PROTOCOL**]([(https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol)]) **
+
+       *Visual Protocol:*
+      [📷 PROTOCOL LOGO](AAS Protocol.png)
 
 
 ### 4. Blockchain Transparency
