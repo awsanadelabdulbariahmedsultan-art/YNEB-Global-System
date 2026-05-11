@@ -30,8 +30,8 @@ YRD acts as the "Sovereign Bridge" to all other digital assets in the system:
 *   **Remittance Efficiency:** Provides a low-cost, high-speed digital channel for Yemeni expatriates to transfer funds back home, boosting domestic liquidity.
 
 ## 🧠 5. AWSAN AI Governance & The Master Key
-*   **Stateless Management:** The supply and circulation of YRD are managed by **AWSAN AI** algorithms based on real-time production data and economic KPIs.
-*   **The Safety Valve:** The **"Master Key"** held by **Eng. Awsan Sultan** ensures that monetary policy remains aligned with national peace and humanitarian development.
+*   **Stateless Management:** The supply and circulation of YRD are managed by **AWSAN AI Governance System** algorithms based on real-time production data and economic KPIs.
+*   **The Safety Valve:** The **"Master Key"** held by **Eng. Awsan Ade Abdulbari Ahmed Sultan** ensures that monetary policy remains aligned with national peace and humanitarian development.
 
 ---
 
