@@ -33,7 +33,7 @@ The Mareb Hub is designed to transform energy resources into immediate social st
 ---
 
 ## 📅 6. Execution Timeline
-Within a **12-month parallel plan**, Mareb's files are processed alongside Shabwah and Hadhramaut to ensure a unified sovereign recovery.
+Within a **3-month to 12-month parallel plan**, Mareb's files are processed alongside Shabwah and Hadhramaut to ensure a unified sovereign recovery.
 
 ---
 **Technical Note:** This document defines the operational logic for the `Mareb-Hub` sub-directory and its connection to the Saudi energy grid.
