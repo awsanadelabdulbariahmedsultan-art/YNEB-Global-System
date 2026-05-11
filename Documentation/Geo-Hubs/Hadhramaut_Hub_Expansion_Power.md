@@ -36,7 +36,7 @@ Due to the scale of investment, operations are led by a high-tier international 
 ---
 
 ## 🚀 Conclusion
-Hadhramaut is the "Industrial Heart" of the YNEB system. It provides the scale and stability required by global energy giants while ensuring that Yemen becomes a key player in the international LNG market.
+Hadhramout is the "Industrial Heart" of the YNEB system. It provides the scale and stability required by global energy giants while ensuring that Yemen becomes a key player in the international LNG market.
 
 ---
 **Technical Note:** This document defines the operational framework for the `Hadhramaut-Hub` sub-directory and its integration with global energy markets.
