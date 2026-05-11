@@ -29,8 +29,8 @@ Due to the scale of investment, operations are led by a high-tier international 
 *   **Months 6-9:** Signing initial concession agreements and commencement of technical exploration.
 *   **Months 12+:** Full-scale commercial production launch.
 
-## 🧠 5. Governance & Financial Impact (AWSAN AI)
-*   **Direct Revenue Routing:** All revenues from Hadhramaut are audited by **AWSAN AI** and routed directly to the **Digital Rial (YRD)** ledger.
+## 🧠 5. Governance & Financial Impact (AWSAN AI GOVERNANCE SYSTEM)
+*   **Direct Revenue Routing:** All revenues from Hadhramout are audited by **AWSAN AI GOVERNANCE SYSTEM** and routed directly to the **Digital Rial (YRD)** ledger.
 *   **Social Subsidy:** A portion of the production is dedicated to local "Social Power" projects, providing subsidized fuel to ensure domestic stability.
 
 ---
