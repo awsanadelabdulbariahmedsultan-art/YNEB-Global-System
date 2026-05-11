@@ -1,4 +1,4 @@
-# 💳 Digital Rial (YRD): The Sovereign Settlement Currency
+# 💳 Yemeni Rial Digital (YRD): The Sovereign Settlement Currency
 > **The Backbone of Yemen’s Digital Energy Economy | الريال اليمني الرقمي: عملة التسوية السيادية**
 
 ---
