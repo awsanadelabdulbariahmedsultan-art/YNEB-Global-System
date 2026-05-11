@@ -25,7 +25,7 @@ The USA provides the necessary "Political Umbrella" to attract global capital:
 
 ## ⚖️ 3. Governance & ESG Standards | الحوكمة والمعايير العالمية
 *   **ESG Leadership:** Applying American standards in Environmental, Social, and Governance (ESG) to attract Western institutional investors.
-*   **Transparency:** Implementing anti-corruption protocols that align with the Foreign Corrupt Practices Act (FCPA) and **AWSAN AI** mandates.
+*   **Transparency:** Implementing anti-corruption protocols that align with the Foreign Corrupt Practices Act (FCPA) and **AWSAN AI GOVERNANCE SYSTEM** mandates.
 
 ## 🚢 4. Leadership within the Big 5 Alliance
 *   **Energy & Maritime Sector:** Leading the "Energy and Navigation" sector within the Project's Global Board.
