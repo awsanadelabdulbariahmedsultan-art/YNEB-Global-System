@@ -31,7 +31,7 @@ The YNEB system implements a "Geographic Intelligence" strategy to link Mareb’
 To ensure equitable growth, these regions benefit from:
 *   **Revenue Allocation:** 20% of the sovereign fund is dedicated to fixing the "Service Deficit" in these specific governorates.
 *   **KYC Direct Dividends:** Citizens receive automated shares of energy and mining profits directly in their **National Digital Wallets**, ensuring they remain the primary guardians of stability.
-*   **AWSAN AI Oversight:** Automated auditing of all infrastructure projects to prevent the diversion of funds.
+*   **AWSAN AI GOVERNANCE SYSTEM Oversight:** Automated auditing of all infrastructure projects to prevent the diversion of funds.
 
 ---
 
