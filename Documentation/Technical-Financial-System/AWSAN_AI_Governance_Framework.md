@@ -47,7 +47,7 @@ n# 🧠 AWSAN AI GOVERNANCE SYSTEM: The Sovereign Governance & Technical Framewo
 
 ### 4. Blockchain Transparency
 *   **End-to-End Tracking:** Every barrel of oil or unit of gas is tracked from the wellhead to the final consumer on a public-private ledger, eliminating smuggling and "black market" leakage.
-*   **The Master Key (Safety Valve):** A sovereign override held by the Architect (Eng. Awsan Sultan) to ensure the system never deviates from its primary humanitarian and economic goals.
+*   **The Master Key (Safety Valve):** A sovereign override held by the Architect (Eng. Awsan Adel Abdulbari Ahmed Sultan) to ensure the system never deviates from its primary humanitarian and economic goals.
 
 ---
 
