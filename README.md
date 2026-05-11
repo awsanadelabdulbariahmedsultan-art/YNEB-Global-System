@@ -31,7 +31,7 @@ Select a module below to view the technical documentation and strategic maps.
 | **Hadhramaut**| Expansion Power & Global LNG | [📷 View Map](Image_13.png) | [📄 Documentation](./Documentation/Geo-Hubs/Hadhramaut_Hub_Expansion_Power.md) |
 | **Mareb** | Stability Anchor & Social Energy | [📷 View Map](Image_12.png) | [📄 Documentation](./Documentation/Geo-Hubs/Mareb_Hub_Stability_Anchor.md) |
 | **Socotra** | Ocean Gate & Global Bunkering | [📷 View Map](Image_11.png) | [📄 Documentation](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) |
-| **Border Hubs**| Saada, Jawf & Hajjah Stability | [📷 View Map](./Documentation/Images/Geo-Hubs/Image_22.png) | [📄 Documentation](./Documentation/Geo-Hubs/Border_Hubs_Development_Saada_Jawf_Hajjah.md) |
+| **Border Hubs**| Saada, Jawf & Hajjah Stability | [📷 View Map](Image_22.png) | [📄 Documentation](./Documentation/Geo-Hubs/Border_Hubs_Development_Saada_Jawf_Hajjah.md) |
 
 ---
 
@@ -70,7 +70,7 @@ Select a module below to view the technical documentation and strategic maps.
 *   **🇦🇪 UAE Synergy:** [Global Logistics & LNG](./Documentation/Global-Partners/UAE_DPWorld_ADNOC_Logistics_Gas_Strategy.md)
 *   **🇮🇳 India Synergy:** [Market Demand & Refining](./Documentation/Global-Partners/Global_Alliance_Big5_Structure.md)
 
-> **Visual Matrix:** [📷 Alliance Map](./Documentation/Images/Global-Partners/Image_06.png)
+> **Visual Matrix:** [📷 Alliance Map](Image_06.png)
 
 ---
 
