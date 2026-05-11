@@ -36,7 +36,7 @@ n# 🧠 AWSAN AI GOVERNANCE SYSTEM: The Sovereign Governance & Technical Framewo
 
 | **Resource** | **Link & Access** |
 | :--- | :--- |
-| **Official Repository** | [**🔗 YNEB-AAS-Protocol**](https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) |
+| **Official Repository in GITHUB** | [**🔗 YNEB-AAS-Protocol**](https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) |
 | **Visual Protocol Logo** | [![AAS Protocol Logo](AAS%20Protocol.png)](https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) |
 
 > *ملاحظة: اضغط على الشعار أو الرابط أعلاه للدخول المباشر إلى المستودع التقني.*
