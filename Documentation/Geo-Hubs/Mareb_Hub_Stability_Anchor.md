@@ -24,7 +24,7 @@ The Mareb Hub is designed to transform energy resources into immediate social st
 
 ## 🤝 4. Governance & Joint Leadership
 *   **Field Management:** Operated under a joint Yemeni-Saudi technical leadership to ensure balance between local needs and regional security.
-*   **AWSAN AI GOVERNANCE SYSTEM Oversight:** All developmental funding and infrastructure tenders are managed by **AWSAN AI** to ensure zero corruption and maximum efficiency.
+*   **AWSAN AI GOVERNANCE SYSTEM Oversight:** All developmental funding and infrastructure tenders are managed by **AWSAN AI GOVERNANCE SYSTEM** to ensure zero corruption and maximum efficiency.
 
 ## 👥 5. The "Community Guardian" Model
 *   **Direct Dividends:** Citizens in Mareb and connected governorates receive direct shares via the **KYC National Wallet**, turning the population into the primary protectors of oil and gas assets.
