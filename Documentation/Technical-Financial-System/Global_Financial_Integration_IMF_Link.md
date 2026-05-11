@@ -18,7 +18,7 @@ The linkage with the **International Monetary Fund (IMF)** provides the "Final S
 
 ## 🏦 2. Yemen as a "Global Clearing House"
 By integrating with international banking standards, the YNEB system transforms Yemen into the **"Switzerland of the Middle East"**:
-*   **Automated Settlements:** All energy contracts with the **Big 5 Alliance** (Aramco, ExxonMobil, etc.) are settled via a digital "Clearing House" governed by **AWSAN AI**.
+*   **Automated Settlements:** All energy contracts with the **Big 5 Alliance** (Aramco, ExxonMobil, etc.) are settled via a digital "Clearing House" governed by **AWSAN Adel Abdulbari Ahmed Sultan AI**.
 *   **Instant Liquidity:** Converting raw "Underground Assets" into "Digital Liquidity" that is immediately available for the national budget and regional development.
 
 ## ⚖️ 3. Transparency & Global Auditing
