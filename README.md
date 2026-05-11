@@ -44,7 +44,8 @@ Select a module below to view the technical documentation and strategic maps.
       
 *   **[💎 Digital Rial (YRD) & AST Token](./Documentation/Technical-Financial-System/Digital_Rial_YRD_Settlement_Currency.md)**
     *   *Visual Guide:
-        [📷 Financial Ecosystem (YER.CBDC)](Y.CBDC.png) | [📷 Financial Ecosystem (AST)](Image_32.png)
+        [📷 Financial Ecosystem (YER.CBDC)](Y.CBDC.png) |
+        [📷 Financial Ecosystem (AST)](Image_32.png)
           
  *   **[🛡️ Sovereign Smart Contracts (AES)](./Documentation/Technical-Financial-System/Sovereign_Smart_Contracts_AES_Logic.md)**
 
