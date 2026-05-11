@@ -22,7 +22,7 @@ The Socotra Hub is designed to transform the island into a world-class logistics
 *   **US-China Tech Synergy:** 
     *   **USA (ExxonMobil/Chevron):** Leading deep-water drilling and 3D seismic mapping for exploration Oil and gas for an Offshore.
     *   **China (CNOOC):** Construction of offshore platforms and subsea infrastructure.
-*   **Immediate Goal:** Launching the first offshore production platform in Eastern South Yemen (Sovereign Water) post-technical study.
+*   **Immediate Goal:** Launching the first offshore production platform in Eastern South for Yemen (Sovereign Water) post-technical study.
 
 ## 🤝 4. Operational Leadership (The Big 5)
 *   **UAE (DP World):** Managing port operations and Free Zones.
