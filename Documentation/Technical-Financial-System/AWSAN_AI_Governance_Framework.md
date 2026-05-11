@@ -29,10 +29,20 @@ n# 🧠 AWSAN AI GOVERNANCE SYSTEM: The Sovereign Governance & Technical Framewo
    
 *   **Asset Tokenization (AAS):** Proof of ownership for oil, gas, and infrastructure is issued as non-fungible digital certificates (NFTs), making them secure and tradable assets.
      
-**| [**AAS PROTOCOL**]([(https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol)]) **
+---
 
-       *Visual Protocol:*
-      [📷 PROTOCOL LOGO](AAS Protocol.png)
+### 🌐 AAS Protocol Gateway | بوابة بروتوكول AAS
+
+
+| **Resource** | **Link & Access** |
+| :--- | :--- |
+| **Official Repository** | [**🔗 YNEB-AAS-Protocol**](https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) |
+| **Visual Protocol Logo** | [![AAS Protocol Logo](AAS%20Protocol.png)](https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) |
+
+> *ملاحظة: اضغط على الشعار أو الرابط أعلاه للدخول المباشر إلى المستودع التقني.*
+
+---
+
 
 
 ### 4. Blockchain Transparency
