@@ -36,7 +36,7 @@ Select a module below to view the technical documentation and strategic maps.
 ---
 
 ### 💰 2. Technical & Financial System (المنظومة المالية والتقنية)
-*Autonomous governance via AWSAN AI and the Digital Rial (YRD).*
+*Autonomous governance via AWSAN AI GOVERNANCE SYSTEM and the YEMENI RIAL Digital (YRD).*
 
 *   **[🧠 AWSAN AI Governance Framework](./Documentation/Technical-Financial-System/AWSAN_AI_Governance_Framework.md)**
 
