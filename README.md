@@ -43,7 +43,7 @@ Select a module below to view the technical documentation and strategic maps.
        *Visual Guide:*
       [📷 System Logic](Image_02.png)
       
-*   **[💎 Digital Rial (YRD) & AST Token](./Documentation/Technical-Financial-System/Digital_Rial_YRD_Settlement_Currency.md)**
+*   **[💎 Yemeni Rial Digital (YRD) & AST Token](./Documentation/Technical-Financial-System/Digital_Rial_YRD_Settlement_Currency.md)**
 
       *Visual Guide:*
         [📷 Financial Ecosystem (YRD.CBDC)](Y.CBDC.png) |
