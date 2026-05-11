@@ -26,7 +26,10 @@
 
 ### 3. Monetary Sovereignty & Digital Assets
 *   **Central Bank Synergy:** The system acts as a sovereign digital bridge connected to international clearing houses.
+   
 *   **Asset Tokenization (AAS):** Proof of ownership for oil, gas, and infrastructure is issued as non-fungible digital certificates (NFTs), making them secure and tradable assets.
+     * | **AAS PROTOCOL** | (https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) | [📷 View Protocol](AAS Protocol.png)
+
 
 ### 4. Blockchain Transparency
 *   **End-to-End Tracking:** Every barrel of oil or unit of gas is tracked from the wellhead to the final consumer on a public-private ledger, eliminating smuggling and "black market" leakage.
