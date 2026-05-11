@@ -1,4 +1,4 @@
-# 🗺️ Border Hubs Development: Saada, Al-Jawf, & Hajjah
+# 🗺️ Border Hubs Development: Sada'a, Al-Jawf, & Hajjah
 > **Transforming Border Regions into Economic Gateways | تنمية محاور الحواف: صعدة، الجوف، وحجة**
 
 ---
@@ -14,10 +14,10 @@
 ## 🏗️ 1. Strategic Vision: Conflict to Commerce
 The YNEB system implements a "Geographic Intelligence" strategy to link Mareb’s energy surplus with the developmental needs of Saada, Al-Jawf, and Hajjah, creating a buffer zone of prosperity and stability.
 
-## ⛏️ 2. Saada Hub: Mining & International Link | صعدة: التعدين والربط الدولي
-*   **Grid Integration:** Transforming Saada into a primary node for the Yemen-Saudi electricity interconnection.
+## ⛏️ 2. Sada'a Hub: Mining & International Link | صعدة: التعدين والربط الدولي
+*   **Grid Integration:** Transforming Sada'a into a primary node for the Yemen-Saudi electricity interconnection.
 *   **Solar Powerhouse:** Partnering with **ACWA Power (KSA)** to build the region's largest solar farms to power local industry.
-*   **Global Mining Center:** Utilizing Saada’s rich mineral reserves (Marble, Granite) to create an international export hub via the **Al-Khadra Crossing**.
+*   **Global Mining Center:** Utilizing Sadaa’s rich mineral reserves (Marble, Granite) to create an international export hub via the **Al-Khadra Crossing**.
 
 ## 🌾 3. Al-Jawf Hub: The Digital Food Basket | الجوف: سلة الغذاء الرقمية
 *   **Sovereign Food Security:** Implementing the **"Digital Al-Jawf Basket"** project, using AI-driven irrigation and sustainable farming.
@@ -36,7 +36,7 @@ To ensure equitable growth, these regions benefit from:
 ---
 
 ## 🚀 Conclusion
-By integrating Saada, Al-Jawf, and Hajjah into the YNEB energy grid, we eliminate the economic roots of conflict and replace them with a sustainable, AI-managed sovereign economy linked to regional markets.
+By integrating Sada'a, Al-Jawf, and Hajjah into the YNEB energy grid, we eliminate the economic roots of conflict and replace them with a sustainable, AI-managed sovereign economy linked to regional markets.
 
 ---
 **Technical Note:** This document provides the development logic for the northern border sub-directories within `Geo-Hubs`.
