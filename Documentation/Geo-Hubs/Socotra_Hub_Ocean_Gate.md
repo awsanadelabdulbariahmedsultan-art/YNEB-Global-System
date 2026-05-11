@@ -1,5 +1,5 @@
 # 🌊 Socotra Island Hub: The Ocean Gate of YNEB
-> **The Global Transit & Offshore Energy Frontier | محور سقطرى: بوابة المحيط والإنتاج البحري**
+> **The Global Transit & Offshore Energy Frontier | محور جزيرة سقطرى: بوابة المحيط والإنتاج البحري**
 
 ---
 
