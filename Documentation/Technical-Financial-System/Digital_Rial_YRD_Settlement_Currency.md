@@ -12,7 +12,7 @@
 ---
 
 ## 🏗️ 1. Global Settlement Engine | محرك التسوية الدولي
-The **Digital Rial (YRD)** is designed as a high-tier settlement currency for all energy exports within the YNEB ecosystem.
+The **Yemeni Rial Digital (YRD)** is designed as a high-tier settlement currency for all energy exports within the YNEB ecosystem.
 *   **Mandatory Use:** Global partners (Aramco, ExxonMobil, Sinopec, etc.) are required to settle all production royalties, local labor costs, and service fees in YRD.
 *   **Global Demand:** By linking YRD to oil and gas exports, the system creates a permanent international demand, stabilizing the national economy and protecting it from global inflation.
 
