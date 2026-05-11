@@ -18,7 +18,7 @@ The **Yemeni Rial Digital (YRD)** is designed as a high-tier settlement currency
 
 ## 🔗 2. Integration with Digital Assets
 YRD acts as the "Sovereign Bridge" to all other digital assets in the system:
-*   **Asset Gateway:** YRD is the primary currency used to acquire **AST (Sultan Tokens)**, ensuring that investment capital flows through the national digital ledger.
+*   **Asset Gateway:** YRD is the primary currency used to acquire **AST (Awsan Sultan Token)**, ensuring that investment capital flows through the national digital ledger.
 *   **AAS (Art Units) Link:** Valuation of sovereign NFTs (AAS) representing physical energy reserves is denominated exclusively in YRD.
 
 ## ⚖️ 3. Transparency & Anti-Corruption (Blockchain)
