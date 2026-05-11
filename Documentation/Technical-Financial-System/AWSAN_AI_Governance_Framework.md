@@ -1,4 +1,4 @@
-n# 🧠 AWSAN AI GOVERNANCE SYSTEM: The Sovereign Governance & Technical Framework
+### 🧠 AWSAN AI GOVERNANCE SYSTEM: The Sovereign Governance & Technical Framework
 > **Core Architecture of the YNEB Global System | الإطار الحاكم لمنظومة أوسان للذكاء الاصطناعي**
 
 ---
