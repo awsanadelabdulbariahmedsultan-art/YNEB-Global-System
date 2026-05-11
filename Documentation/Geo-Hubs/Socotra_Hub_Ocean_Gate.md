@@ -15,7 +15,7 @@
 The Socotra Hub is designed to transform the island into a world-class logistics station, connecting global trade routes in the Indian Ocean with the energy production of mainland Yemen.
 
 ## ⛽ 2. Global Bunkering & Transit Hub | محطة تموين السفن والترانزيت
-*   **Bunkering Services:** Utilizing oil and gas surplus from **Shabwah** and **Hadhramaut** to refuel over **20,000 ships** annually passing near the island.
+*   **Bunkering Services:** Utilizing oil and gas surplus from **Shabwah** and **Hadhramaut** to refuel over **200,000 ships** annually passing near the island.
 *   **International Connectivity:** Establishing Socotra as a "Tranzit" hub linked to major global ports like Singapore, Rotterdam, and Shanghai.
 
 ## 🛢️ 3. Offshore Exploration (Deep Sea Mining) | استخراج النفط والغاز البحري
