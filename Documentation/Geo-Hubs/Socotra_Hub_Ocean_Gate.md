@@ -30,7 +30,7 @@ The Socotra Hub is designed to transform the island into a world-class logistics
 *   **USA:** Ensuring international maritime protection and geopolitical shielding.
 
 ## 🌿 5. Environmental Governance (AWSAN AI GOVERNANCE SYSTEM)
-*   **"Zero Discharge" Policy:** Strict environmental standards managed by **AWSAN AI** to protect Socotra’s unique biodiversity.
+*   **"Zero Discharge" Policy:** Strict environmental standards managed by **AWSAN AI GOVERNANCE SYSTEM** to protect Socotra’s unique biodiversity.
 *   **Blue Economy:** A percentage of offshore revenues is dedicated to marine conservation and supporting the local island community via the **National Digital Wallet**.
 
 ---
