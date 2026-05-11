@@ -41,7 +41,7 @@ Select a module below to view the technical documentation and strategic maps.
 *   **[🧠 AWSAN AI Governance Framework](./Documentation/Technical-Financial-System/AWSAN_AI_Governance_Framework.md)**
     *   *Visual Guide:* [📷 System Logic](Image_02.png)
 *   ***   **[💎 Digital Rial (YRD) & AST Token](./Documentation/Technical-Financial-System/Digital_Rial_YRD_Settlement_Currency.md)**
-    *   *Visual Guide:* [📷 Financial Ecosystem (Image 1)](Y.CBDC.png) | [📷 Financial Ecosystem (Image 2)](Image_32.png)
+    *   *Visual Guide:* [📷 Financial Ecosystem (YER.CBDC)](Y.CBDC.png) | [📷 Financial Ecosystem (AST)](Image_32.png)
 
  *   **[🛡️ Sovereign Smart Contracts (AES)](./Documentation/Technical-Financial-System/Sovereign_Smart_Contracts_AES_Logic.md)**
     *   *Visual Guide:* [📷 Contract Logic](./Documentation/Images/Financial-System/Image_27.png)
