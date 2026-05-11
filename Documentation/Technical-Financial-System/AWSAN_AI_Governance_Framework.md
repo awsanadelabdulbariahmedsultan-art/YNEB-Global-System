@@ -28,8 +28,8 @@
 *   **Central Bank Synergy:** The system acts as a sovereign digital bridge connected to international clearing houses.
    
 *   **Asset Tokenization (AAS):** Proof of ownership for oil, gas, and infrastructure is issued as non-fungible digital certificates (NFTs), making them secure and tradable assets.
-     * | **AAS PROTOCOL** |
-     * (https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) | [📷 View Protocol](AAS Protocol.png)
+     * | **AAS PROTOCOL** | [📷 View Protocol](AAS Protocol.png)
+     * (https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol) |
 
 
 ### 4. Blockchain Transparency
