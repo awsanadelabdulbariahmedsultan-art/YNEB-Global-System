@@ -47,6 +47,7 @@ Select a module below to view the technical documentation and strategic maps.
         [📷 Financial Ecosystem (YER.CBDC)](Y.CBDC.png) | [📷 Financial Ecosystem (AST)](Image_32.png)
           
  *   **[🛡️ Sovereign Smart Contracts (AES)](./Documentation/Technical-Financial-System/Sovereign_Smart_Contracts_AES_Logic.md)**
+ *   
     *   *Visual Guide:*
      [📷 Contract Logic](.Image_27.png)
    
