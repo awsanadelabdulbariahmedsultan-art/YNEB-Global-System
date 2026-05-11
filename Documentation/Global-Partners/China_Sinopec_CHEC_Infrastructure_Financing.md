@@ -24,11 +24,11 @@
 *   **Integrated Logistics Zones:** Building smart free zones around the ports to attract international manufacturing and assembly firms.
 
 ## 💰 3. Financing & Cost Recovery Logic
-*   **Rapid ROI Model:** China’s participation is structured on a "Rapid Cost Recovery" basis, utilizing **AWSAN AI** to monitor production flows and automate royalty settlements.
+*   **Rapid ROI Model:** China’s participation is structured on a "Rapid Cost Recovery" basis, utilizing **AWSAN AI GOVERNANCE SYSTEM** to monitor production flows and automate royalty settlements.
 *   **CAPEX Optimization:** Allocating a fixed **1%** of port revenues to a "Infrastructure Expansion Fund" to ensure continuous maintenance and scaling.
 
 ## 🧠 4. Integration with AWSAN AI Governance
-*   **Operational Transparency:** All Chinese-led construction and logistics data are integrated into the **AWSAN AI** dashboard to prevent cost overruns and ensure 100% project integrity.
+*   **Operational Transparency:** All Chinese-led construction and logistics data are integrated into the **AWSAN AI GOVERNANCE SYSTEM** dashboard to prevent cost overruns and ensure 100% project integrity.
 *   **Neutrality:** China’s role is balanced within the **Big 5 Alliance**, ensuring that infrastructure remains a sovereign national asset governed by code.
 
 ---
