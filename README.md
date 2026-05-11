@@ -42,7 +42,6 @@ Select a module below to view the technical documentation and strategic maps.
     *   *Visual Guide:* [📷 System Logic](Image_02.png)
 *   ***   **[💎 Digital Rial (YRD) & AST Token](./Documentation/Technical-Financial-System/Digital_Rial_YRD_Settlement_Currency.md)**
     *   *Visual Guide:* [📷 Financial Ecosystem (YER.CBDC)](Y.CBDC.png) | [📷 Financial Ecosystem (AST)](Image_32.png)
-
  *   **[🛡️ Sovereign Smart Contracts (AES)](./Documentation/Technical-Financial-System/Sovereign_Smart_Contracts_AES_Logic.md)**
     *   *Visual Guide:* [📷 Contract Logic](./Documentation/Images/Financial-System/Image_27.png)
 *   **[🏦 IMF & Global Bank Integration](./Documentation/Technical-Financial-System/Global_Financial_Integration_IMF_Link.md)**
