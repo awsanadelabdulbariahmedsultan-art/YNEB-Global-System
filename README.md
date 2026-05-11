@@ -78,4 +78,4 @@ Select a module below to view the technical documentation and strategic maps.
 This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit to every Yemeni citizen via the **KYC National Wallet**.
 
 ---
-**Technical Note:** All operations are managed by **AWSAN AI** (Stateless Governance). 100% Transparency via Sovereign Blockchain.
+**Technical Note:** All operations are managed by **AWSAN AI Governance System** (Stateless Governance). 100% Transparency via Sovereign Blockchain.
