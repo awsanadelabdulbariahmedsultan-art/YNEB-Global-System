@@ -27,7 +27,7 @@ By integrating with international banking standards, the YNEB system transforms 
 
 ## 🛡️ 4. Geopolitical & Technological Shield
 *   **USA & Big 5 Protection:** Under the umbrella of the global alliance, the project is protected from local currency fluctuations and regional instability.
-*   **Zero-Corruption Guarantee:** By linking the **Digital Rial (YRD)** to international clearing houses, every unit of currency is verified, making it the world's most transparent energy-backed currency.
+*   **Zero-Corruption Guarantee:** By linking the **Yemeni Rial Digital (YRD)** to international clearing houses, every unit of currency is verified, making it the world's most transparent energy-backed currency.
 
 ---
 
