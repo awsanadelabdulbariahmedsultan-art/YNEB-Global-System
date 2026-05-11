@@ -13,7 +13,7 @@
 
 ## 🏗️ 1. International Recognition of Digital Assets
 The linkage with the **International Monetary Fund (IMF)** provides the "Final Security Layer" for the YNEB ecosystem:
-*   **Legal Status:** Both the **Digital Rial (YRD)** and the **AST Token** are recognized as asset-backed digital currencies (CBDCs), ensuring they can be traded and cleared on global markets.
+*   **Legal Status:** Both the **Yemeni Rial Digital (YRD)** and the **AST Token** are recognized as asset-backed digital currencies (CBDCs), ensuring they can be traded and cleared on global markets.
 *   **Fiscal Immunity:** This partnership protects national energy revenues from international legal disputes and ensures the smooth flow of billions of dollars into the sovereign digital ledger.
 
 ## 🏦 2. Yemen as a "Global Clearing House"
