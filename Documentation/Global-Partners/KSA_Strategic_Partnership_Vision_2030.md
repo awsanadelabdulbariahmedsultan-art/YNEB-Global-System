@@ -28,7 +28,7 @@ The KSA role is distributed to ensure maximum impact on stability:
 *   **Mareb Hub:** Joint Saudi-Yemeni leadership focused on energy-to-services, health, and food security.
 *   **Socotra Hub:** Strategic financier for the island's transition into a global maritime transit center.
 
-## 🧠 4. Governance & Digital Sovereignty (AWSAN AI)
+## 🧠 4. Governance & Digital Sovereignty (AWSAN AI GOVERNANCE SYSTEM)
 *   **Financial Compliance:** All Saudi-led investments are settled via the **Digital Rial (YRD)** and monitored by **AWSAN AI** for 100% transparency.
 *   **Social Justice (20-40-40):** Ensuring that regional production directly benefits the citizens via the **KYC National Wallet**, under the strict auditing of the sovereign AI layer.
 
