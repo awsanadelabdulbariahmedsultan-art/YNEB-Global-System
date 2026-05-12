@@ -15,7 +15,7 @@
 **DP World** serves as the primary technical lead for managing Yemen’s strategic gateways:
 *   **Operational Excellence:** Implementing the "Jebel Ali Model" in the ports of **Qana (Shabwah), Aden, Socotra, and Al-Mukha**.
 *   **Free Zone Development:** Transforming ports into integrated industrial and commercial free zones, attracting global shipping giants and logistics firms (e.g., FedEx).
-*   **Digital Integration:** All port operations are synchronized with **AWSAN AI** to ensure 100% transparency in customs, shipping fees, and logistics data.
+*   **Digital Integration:** All port operations are synchronized with **AWSAN AI GOVERNANCE SYSTEM** to ensure 100% transparency in customs, shipping fees, and logistics data.
 
 ## ❄️ 2. ADNOC: The Strategic LNG Partner
 **ADNOC** leads the investment and technical scaling of the gas sector:
