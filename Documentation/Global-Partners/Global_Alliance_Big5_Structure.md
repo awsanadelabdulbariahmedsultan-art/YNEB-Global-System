@@ -41,7 +41,7 @@
 ---
 
 ## ⚖️ The Balance of Interests | هندسة توازن القوى
-To ensure no single power dominates the decision-making process, **AWSAN AI** manages the operational leadership as follows:
+To ensure no single power dominates the decision-making process, **AWSAN AI GOVERNANCE SYSTEM** manages the operational leadership as follows:
 *   **Shabwah (Launch):** Joint China-UAE-USA management.
 *   **Hadhramaut (Expansion):** Joint KSA-USA-UAE management.
 *   **Mareb (Stability):** Joint KSA-Yemen management.
