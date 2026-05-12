@@ -16,7 +16,7 @@
 ### 1. 🇺🇸 USA (Technology & Global Security)
 *   **Role:** Providing "Political Shielding," securing maritime corridors, and ensuring IMF/World Bank compliance.
 *   **Target Partners:** ExxonMobil, Chevron, Halliburton, Schlumberger.
-*   **Focus:** Deep-well exploration, LNG technology, and Digital Integrity via **AWSAN AI** integration.
+*   **Focus:** Deep-well exploration, LNG technology, and Digital Integrity via **AWSAN AI GOVERNANCE SYSTEM** integration.
 
 ### 2. 🇨🇳 China (Infrastructure & Rapid Scaling)
 *   **Role:** The "Industrial Engine"—responsible for pipeline networks, port construction, and flexible funding.
