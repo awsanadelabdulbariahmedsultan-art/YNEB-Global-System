@@ -24,7 +24,7 @@
 *   **Global Gas Synergy:** Integrating Yemen’s gas production with the regional and global energy markets to ensure long-term demand stability.
 
 ## 💳 3. Digital Sovereignty & Financial Compliance
-*   **YRD Settlements:** All UAE-led logistics and energy operations are settled via the **Digital Rial (YRD)**, strengthening the national currency.
+*   **YRD Settlements:** All UAE-led logistics and energy operations are settled via the **Yemeni Rial Digital (YRD)**, strengthening the national currency.
 *   **Sovereign Protection:** Contracts are optimized for long-term stability (30 to 50 years) under the "Big 5 Alliance" geopolitical shield.
 *   **Reinvestment Fund:** 2% of maritime revenues are allocated to a **CAPEX/OPEX fund** for continuous infrastructure modernization.
 
