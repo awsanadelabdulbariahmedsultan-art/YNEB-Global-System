@@ -52,7 +52,7 @@ Select a module below to view the technical documentation and strategic maps.
  *   **[🛡️ Sovereign Smart Contracts (AES)](./Documentation/Technical-Financial-System/Sovereign_Smart_Contracts_AES_Logic.md)**
 
        *Visual Guide:*
-      [📷 Contract Logic](.Image_27.png)
+      [📷 Contract Logic](Image_27.png)
  
 *   **[🏦 IMF & Global Bank Integration](./Documentation/Technical-Financial-System/Global_Financial_Integration_IMF_Link.md)**
 
