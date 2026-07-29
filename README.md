@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="./YNEB_LOGO.png" alt="YNEB_LOGO" width="1254" height="1254"/>
+</p>
+
+---
+
 ### 🛡️ Sovereign Intellectual Property & Ownership
 
 © **2026 YNEB Global System | Sovereign Property** 
