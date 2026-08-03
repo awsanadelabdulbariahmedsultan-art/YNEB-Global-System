@@ -71,6 +71,9 @@ Select a module below to view the technical documentation and strategic maps.
 
 
 ---
+---
+
+
 
 ### 💰 2. Technical & Financial System (المنظومة المالية والتقنية)
 *Autonomous governance via AWSAN AI GOVERNANCE SYSTEM and the YEMENI RIAL Digital (YRD).*
@@ -127,6 +130,7 @@ Select a module below to view the technical documentation and strategic maps.
 </p>
 
 ---
+---
 
 ### 🤝 3. Global Big 5 Alliance (التحالف الخماسي العالمي)
 *The multi-polar partnership securing international investment.*
@@ -157,6 +161,7 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 
 
 
+---
 ---
 
 
@@ -235,7 +240,7 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 
 
 
-
+---
 ---
 
 ### 💰 2. المنظومة المالية والتقنية (Technical & Financial System)
@@ -287,7 +292,7 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 
 
 ---
-
+---
 ### 🤝 3. التحالف الخماسي العالمي (Global Big 5 Alliance)
 *الشراكة متعددة الأقطاب لتأمين وحماية الاستثمارات الدولية.*
 
