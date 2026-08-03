@@ -102,7 +102,7 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 ---
 
 <p align="center">
-  <img src="./YNEB_LOGO.png" alt="شعار نظام YNEB العالمي" width="1254" height="1254"/>
+  <img src="./Image_06.png" alt="Image_06" width="1254" height="1254"/>
 </p>
 
 ---
