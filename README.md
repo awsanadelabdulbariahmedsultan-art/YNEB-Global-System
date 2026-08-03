@@ -105,6 +105,12 @@ Select a module below to view the technical documentation and strategic maps.
 ---
 
 <p align="center">
+  <img src="./Y.CBDC.png" alt="Y.CBDC" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
   <img src="./Image_32.png" alt="Image_32" width="1254" height="1254"/>
 </p>
 
@@ -251,6 +257,12 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 
 <p align="center">
   <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Y.CBDC.png" alt="Y.CBDC" width="1254" height="1254"/>
 </p>
 
 ---
