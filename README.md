@@ -41,6 +41,37 @@ Select a module below to view the technical documentation and strategic maps.
 
 ---
 
+<p align="center">
+  <img src="./Image_08.png" alt="Image_08" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_13.png" alt="Image_13" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_12.png" alt="Image_06" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_11.png" alt="Image_06" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_22.png" alt="Image_06" width="1254" height="1254"/>
+</p>
+
+
+---
+
 ### 💰 2. Technical & Financial System (المنظومة المالية والتقنية)
 *Autonomous governance via AWSAN AI GOVERNANCE SYSTEM and the YEMENI RIAL Digital (YRD).*
 
@@ -64,6 +95,12 @@ Select a module below to view the technical documentation and strategic maps.
 
      *Visual Guide:*
        [📷 Global Settlement](Image_33.png)
+
+---
+
+
+
+
 
 ---
 
