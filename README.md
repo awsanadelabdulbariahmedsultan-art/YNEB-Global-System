@@ -54,19 +54,19 @@ Select a module below to view the technical documentation and strategic maps.
 ---
 
 <p align="center">
-  <img src="./Image_12.png" alt="Image_06" width="1254" height="1254"/>
+  <img src="./Image_12.png" alt="Image_12" width="1254" height="1254"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Image_11.png" alt="Image_06" width="1254" height="1254"/>
+  <img src="./Image_11.png" alt="Image_11" width="1254" height="1254"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Image_22.png" alt="Image_06" width="1254" height="1254"/>
+  <img src="./Image_22.png" alt="Image_22" width="1254" height="1254"/>
 </p>
 
 
@@ -98,9 +98,27 @@ Select a module below to view the technical documentation and strategic maps.
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
+---
 
+<p align="center">
+  <img src="./Image_32.png" alt="Image_32" width="1254" height="1254"/>
+</p>
 
+---
+
+<p align="center">
+  <img src="./Image_27.png" alt="Image_27" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_33.png" alt="Image_33" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -114,6 +132,12 @@ Select a module below to view the technical documentation and strategic maps.
 *   **🇮🇳 India Synergy:** [Market Demand & Refining](./Documentation/Global-Partners/Global_Alliance_Big5_Structure.md)
 
 > **Visual Matrix:** [📷 Alliance Map](Image_06.png)
+---
+
+
+<p align="center">
+  <img src="./Image_06.png" alt="Image_06" width="1254" height="1254"/>
+</p>
 
 ---
 
