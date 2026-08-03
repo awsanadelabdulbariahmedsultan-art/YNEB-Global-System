@@ -199,6 +199,39 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 
 ---
 
+<p align="center">
+  <img src="./Image_08.png" alt="Image_08" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_13.png" alt="Image_13" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_12.png" alt="Image_12" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_11.png" alt="Image_11" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_22.png" alt="Image_22" width="1254" height="1254"/>
+</p>
+
+
+
+
+---
+
 ### 💰 2. المنظومة المالية والتقنية (Technical & Financial System)
 *إدارة وحوكمة مستقلة عبر "نظام أوسان للحوكمة بالذكاء الاصطناعي" والريال اليمني الرقمي (YRD).*
 
@@ -216,6 +249,33 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_32.png" alt="Image_32" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_27.png" alt="Image_27" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Image_33.png" alt="Image_33" width="1254" height="1254"/>
+</p>
+
+
+
+
+---
+
 ### 🤝 3. التحالف الخماسي العالمي (Global Big 5 Alliance)
 *الشراكة متعددة الأقطاب لتأمين وحماية الاستثمارات الدولية.*
 
@@ -226,6 +286,12 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 *   **🇮🇳 الشراكة الهندية:** [تلبية الطلب في السوق وتكرير النفط](./Documentation/Global-Partners/Global_Alliance_Big5_Structure.md)
 
 > **المصفوفة البصرية للتحالف:** [📷 خريطة التحالف الدولي](Image_06.png)
+
+---
+
+<p align="center">
+  <img src="./Image_06.png" alt="Image_06" width="1254" height="1254"/>
+</p>
 
 ---
 
