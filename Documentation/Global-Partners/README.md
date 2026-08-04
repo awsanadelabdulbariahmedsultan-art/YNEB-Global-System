@@ -1,43 +1,80 @@
 > ### 🛡️ Intellectual Property & Sovereign Ownership
-> **Author & Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
-> **Nationality:** YEMEN | **ID:** 01010305468
+> **Author & Lead Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
+> **Nationality:** YEMEN | **National ID:** 01010305468
 > **Contacts:** +967 777852433 | +967 776633003
 > **Email:** AWSAN.SULTAN@GMAIL.COM
-> *© 2024 YNEB Global System. All Rights Reserved. Unauthorized duplication or redistribution is strictly prohibited.*
+> *© 2026 YNEB Global System. All Rights Reserved. Unauthorized duplication or redistribution is strictly prohibited under international law and ISO/TC 307 compliance standards.*
 
 ---
 
 # 🤝 The Big 5 Global Alliance
-### Strategic Partners & Technology Providers
+## Strategic Partners & Technology Providers Detailed Framework
 
-This folder contains the strategic documentation and roles of the five major world powers and their industrial giants involved in the **YNEB Global System**.
+This folder contains the master strategic documentation, operational mandates, and technical roles of the five major world powers and their industrial giants involved in the **YNEB Global System**.
 
 ---
 
-## 🏗️ Partnership Structure
+## 🏗️ High-Level Partnership Structure
 
 ### 1. 🇺🇸 USA (Technology & Security)
-*   **Key Partners:** ExxonMobil, Chevron, Halliburton, GE.
-*   **Role:** Technical oversight, digital integrity, and maritime security.
+*   **Key Partners:** ExxonMobil, Chevron, Halliburton, Schlumberger, GE Energy.
+*   **Role:** Technical oversight, reservoir management, deepwater drilling, digital field integrity, and maritime security corridor coordination.
 
 ### 2. 🇨🇳 China (Construction & Finance)
-*   **Key Partners:** Sinopec, CHEC (China Harbour), UEG.
-*   **Role:** Rapid infrastructure development (Pipelines & Ports) and flexible funding.
+*   **Key Partners:** SINOPEC, CHEC (China Harbour), United Energy Group (UEG), ZhenHua Oil, CNOOC.
+*   **Role:** Rapid infrastructure development (Strategic Pipeline Corridors & Port Expansion via Port Readiness protocols), offshore platforms scaling, and flexible financing models.
 
 ### 3. 🇸🇦 Saudi Arabia (Stability & Regional Integration)
-*   **Key Partners:** PIF, Aramco, ACWA Power.
-*   **Role:** Sovereign investment and linking Yemen to **Saudi Vision 2030**.
+*   **Key Partners:** Public Investment Fund (PIF), Saudi Aramco, ACWA Power, SDRPY.
+*   **Role:** Heavy sovereign infrastructure investment, utility-scale renewable deployment, upstream/downstream technical coalition, and linking Yemen directly to the Gulf fabric via **Saudi Vision 2030** and the GCC grid.
 
-### 4. 🇦🇪 UAE (Logistics & Gas Excellence)
+### 🇦🇪 4. UAE (Logistics & Gas Excellence)
 *   **Key Partners:** DP World, ADNOC.
-*   **Role:** Global port management (Jebel Ali Model) and LNG operations.
+*   **Role:** Global port automation and maritime terminal management using the **Jebel Ali Model**, and midstream LNG operations at Balhaf.
 
-### 5. 🇮🇳 India (Global Market & Demand)
-*   **Key Partners:** Reliance Industries.
-*   **Role:** Ensuring long-term energy demand and refining synergy.
+### 🇮🇳 5. India (Global Market & Demand)
+*   **Key Partners:** Reliance Industries, Adani Ports.
+*   **Role:** Ensuring long-term energy demand offtake, modular refining chemistry synergy, specialized commodity terminals management, and digital supply chain integration.
 
 ---
-> **Governance Note:** All partnerships and financial settlements are governed by the **AWSAN AI** system, ensuring 100% transparency and neutral operations, protected by the sovereign intellectual property of Eng. Awsan Sultan.
+
+## 🗺️ Asset Allocation & Granular Operational Matrix
+
+### 🇺🇸 1. United States Wing (High-Tech, Advanced Drilling & Digital Surveillance)
+*   **Halliburton:** Appointed for full midstream and asset-level **Digital Oversight** across primary fields and maritime gateways—specifically focused on the **Al-Dhabbah Terminal** and coastal grids—to systematically eliminate any manipulation of extracted or exported volumes. Leads high-tier well mechanics, advanced horizontal drilling, and digital reservoir management.
+*   **Schlumberger:** Delivering extreme high-tier reservoir modeling, physics-based well optimization, and automated surveillance tracking starting directly from the point of initial field extraction.
+*   **ExxonMobil:** Driving complex operations across deeply seated subterranean/offshore oil and gas reservoirs, executing strategic high-resolution 3D/4D Seismic Mapping and deepwater drilling within the **Socotra Hub** maritime zone, and co-leading the full reactivation and commercial expansion of the **Balhaf LNG Facility**.
+*   **Chevron:** Managing major deep-horizon exploration blocks and subsea gas reserves to maximize daily output capacity and maintain steady revenue inflows into the sovereign digital bank.
+*   **GE Energy:** Assuming total technical authority, preventative engineering maintenance, safety inspections, and operational execution for midstream gas assets and pipelines to secure maximum uptime. Leads the development and integration of utility-scale hybrid wind and solar technologies to anchor low-cost, zero-carbon electricity into the sovereign national grid.
+
+### 🇨🇳 2. China Wing (The Heavy EPC Engineering Engine & Accelerated Infrastructure Scaling)
+*   **SINOPEC:** Acting as the master EPC contractor for the construction, structural welding, and automated routing of the **Strategic Cross-Country Pipeline Networks** connecting inland fields directly to coastal terminals and automated modular refinery complexes.
+*   **China Harbour Engineering Company (CHEC):** Leading heavy maritime civil engineering, dredging deeper deep-water navigational channels to handle ultra-large crude carriers (ULCC), expanding export berths, preparing automated logistical warehouses, and executing the *Port Readiness Clause* in perfect parallel synchronization with SINOPEC’s pipeline milestones.
+*   **United Energy Group (UEG):** Operating as the primary tactical upstream field operator and rapid production acceleration lead; managing infrastructure upgrades in close coordination with global sovereign funds to prepare specialized export terminals and fuel reception facilities.
+*   **ZhenHua Oil:** Mobilizing operational units for fast-track exploratory scaling and immediate extraction acceleration across promising hydro-carbon blocks to achieve a 12-month recovery timeline.
+*   **CNOOC:** Dedicated deep-sea offshore exploration arm responsible for the fast-track fabrication, transit, and mooring of specialized floating production platforms (FPSO) and deepwater drilling systems in maritime zones (e.g., Socotra and Al-Mokha).
+
+### 🇸🇦 3. Saudi Arabia Wing (Sovereign Capital Engine & Sustainable Regional Integration)
+*   **Saudi Aramco:** Conducting advanced upstream consulting, technical drilling collaboration, and taking executive operational leadership over strategic global export corridors at the **Al-Dhabbah Terminal** and **Aden Port** to secure unhindered access to international markets.
+*   **ACWA Power:** Directing and constructing utility-scale wind and solar clean energy complexes to establish independent green grids for specialized free zones and regional communities.
+*   **Public Investment Fund (PIF):** Serving as the core sovereign institutional investor for financing heavy infrastructure, deepwater port projects (e.g., modernizing **Nashatun Port** and linking it with international overland transport networks), international premium luxury hospitality chains, and eco-tourism hubs. Co-leads alongside ACWA Power the physical deployment of the **GCC Electricity Grid Interconnection Axis** to transform northern frontier zones (Saada, Hajjah, Al-Jawf) into highly reliable economic zones.
+
+### 🇦🇪 4. United Arab Emirates Wing (Global Logistics & Automated Port Operations)
+*   **DP World:** Directing full-scale operational logistics and maritime management across all regional gateways (Qana, Al-Nushaymah, Socotra, Al-Mokha, Al-Hodeidah, and Nashatun) by deploying the world-renowned **"Jebel Ali Model"** for automated hub management, automated customs processing, and supply chain connectivity.
+*   **ADNOC:** Co-investing and operating alongside ExxonMobil to manage and expand the **Balhaf LNG Plant** while overseeing the structural integrity of midstream liquefied gas pipeline grids.
+
+### 🇮🇳 5. India Wing (Strategic Downstream Offtake & Digital Logistics Management)
+*   **Reliance Industries:** Serving as the master commercial off-taker for heavy crude procurement, large-scale downstream refining, and petrochemical market integration, while deploying advanced data tracking technologies to link physical logistics with the sovereign ledger.
+*   **Adani Ports:** Managing specialized bulk commodity nodes, service cargo terminals, and commercial shipping bays at **Al-Hodeidah Port** and **Nashatun Port** to maximize regional supply chain safety and cargo traffic.
+
+### 🇫🇷 6. France Wing (Liquefied Natural Gas Midstream Tech)
+*   **TotalEnergies:** Reintegrating the former production partner (Total) into the midstream LNG infrastructure and Balhaf operations, strictly bound by **rigid contractual frameworks and international legal enforcement mechanisms** to prevent any manipulation of sovereign laws while securing stable production lines.
+
+### 🇬🇧 7. Independent International Audit Layer
+*   **Deloitte:** Appointed as the independent, tier-one international body responsible for the end-to-end financial auditing, transaction ledger compliance, and accounts verification of the entire project from inception, ensuring total transparency before the IMF and World Bank.
+
+---
+> **Governance Note:** All frameworks, international concession allocations, technical service level agreements (SLAs), joint venture shares, and automated financial settlements are digitally governed by the **AWSAN AI** system. This sovereign layer ensures 100% transparency, zero human bias, and neutral operations, protecting the absolute intellectual property rights of Eng. Awsan Adel Abdulbari Ahmed Sultan.
 
 
 ---
@@ -398,6 +435,88 @@ The northern frontier is established as a highly secure "Smart Free Zone" fully 
 
 ---
 > **Technical Note:** This master document establishes the definitive engineering and operational framework for the `Financial-System`, `Global-Partners`, and the geographic sub-directories `Geo-Hubs/Al-Mokha` and `Geo-Hubs/Northern-Frontier`. All parameters are strictly audited by the sovereign code layer.
+
+
+
+---
+> ### 🛡️ نظام الملكية الفكرية والسيادة الوطنية المطلقة
+> **المؤلف والمهندس المصمم الرئيسي:** المهندس أوسان عادل عبدالباري أحمد سلطان
+> **الجنسية:** الجمهورية اليمنية | **رقم الهوية الوطنية:** 01010305468
+> **بيانات الاتصال:** 777852433 967+ | 776633003 967+
+> **البريد الإلكتروني:** AWSAN.SULTAN@GMAIL.COM
+> *© 2026 نظام YNEB العالمي. جميع الحقوق محفوظة. يُحظر تماماً النسخ أو إعادة التوزيع غير المصرح به بموجب معايير الامتثال الدولية معيار ISO/TC 307.*
+
+---
+
+# 🤝 التحالف الخماسي العالمي
+## الإطار الهيكلي التفصيلي للشركاء الاستراتيجيين ومزودي التكنولوجيا
+
+يحتوي هذا المجلد على الوثائق الاستراتيجية الرئيسية، والالتزامات التشغيلية، والأدوار الفنية لكبرى القوى العالمية وعمالقتها الصناعيين المشاركين في تنفيذ وتأمين **نظام YNEB العالمي**.
+
+---
+
+## 🏗️ الهيكلية العامة للشراكة الدولية
+
+### 1. 🇺🇸 الولايات المتحدة الأمريكية (التكنولوجيا والأمن العالمي)
+*   **الشركاء الرئيسيون:** إكسون موبيل، شيفرون، هاليبرتون، شلمبرجير، جي إي إنرجي.
+*   **الدور الاستراتيجي:** الإشراف الفني والتقني، إدارة المكامن، الحفر في المياه العميقة، النزاهة الرقمية للحقول، وتنسيق ممرات الحماية والأمن البحري السيادي.
+
+### 2. 🇨🇳 جمهورية الصين الشعبية (هندسة البنية التحتية والتمويل المرن)
+*   **الشركاء الرئيسيون:** سينوبك، الشركة الصينية لهندسة الموانئ (CHEC)، مجموعة يونايتد إنرجي (UEG)، تشنهوا للنفط، CNOOC.
+*   **الدور الاستراتيجي:** التوسع المتسارع للبنية التحتية الفيزيائية (عقود EPC لشبكات الأنابيب وتوسعة الموانئ عبر بروتوكولات جاهزية الميناء)، بناء وتطوير المنصات البحرية، وتقديم نماذج التمويل المرن.
+
+### 3. 🇸🇦 المملكة العربية السعودية (الاستقرار والتكامل والربط الإقليمي)
+*   **الشركاء الرئيسيون:** صندوق الاستثمارات العامة (PIF)، أرامكو السعودية، أكوا باور، البرنامج السعودي لتنمية وإعمار اليمن (SDRPY).
+*   **الدور الاستراتيجي:** ضخ الاستثمارات السيادية في البنية التحتية الثقيلة، نشر مشاريع الطاقة المتجددة الكبرى، التحالف الفني واللوجستي لقطاعات الإنتاج والتصدير، وربط اليمن مباشرة بالنسيج الاقتصادي الخليجي عبر **رؤية السعودية 2030** والشبكة الكهربائية الموحدة.
+
+### 4. 🇦🇪 دولة الإمارات العربية المتحدة (إدارة اللوجستيات وتميز قطاع الغاز)
+*   **الشركاء الرئيسيون:** موانئ دبي العالمية، أدنوك.
+*   **الدور الاستراتيجي:** الأتمتة الكاملة وإدارة وتشغيل الموانئ البحرية وفق "نموذج جبل علي" العالمي، وإدارة العمليات التشغيلية والاستثمارية للغاز الطبيعي المسال (LNG) في منشأة بلحاف.
+
+### 5. 🇮🇳 جمهورية الهند (سوق الطاقة الاستراتيجي وتكامل التكرير)
+*   **الشركاء الرئيسيون:** ريلاينس للصناعات، موانئ أداني.
+*   **الدور الاستراتيجي:** استيعاب وتأمين الطلب الاستهلاكي طويل الأجل للصادرات، تحقيق التآزر الكيميائي في مصافي التكرير والصناعات التحويلية، إدارة موانئ السلع والخدمات المتخصصة، والربط الرقمي لسلاسل الإمداد.
+
+---
+
+## 🗺️ مصفوفة توزيع الأصول والأدوار التشغيلية الميدانية التفصيلية
+
+### 🇺🇸 1. الجناح الأمريكي (التكنولوجيا الفائقة، الحفر المتقدم، والرقابة الرقمية)
+*   **هاليبرتون (Halliburton):** تفعيل الرقابة والتدقيق الرقمي الصارم (Digital Oversight) على مستوى الحقول والموانئ البحرية—وتحديداً في **ميناء الضبة النفطي** وبقية الموانئ عموماً—للقضاء برمجياً على أي تلاعب بالكميات المستخرجة أو المصدرة. قيادة هندسة حفر الآبار العالية، الحفر الأفقي المتقدم، وإدارة المكامن رقمياً.
+*   **شلمبرجير (Schlumberger):** تقديم حلول التكنولوجيا العالية في هندسة نمذجة الحقول، فيزياء المكامن، وتفعيل أنظمة المراقبة الرقمية والمؤتمتة بدءاً من نقطة الاستخراج الميداني الفوري.
+*   **إكسون موبيل (ExxonMobil):** قيادة العمليات البترولية المعقدة في مكامن النفط والغاز العميقة والبرية والبحرية، تنفيذ عمليات المسح السيزمي المتقدم ثلاثي ورباعي الأبعاد والحفر في المياه العميقة لـ **محور جزيرة سقطرى**، وإعادة إنعاش وتطوير وتشغيل والتوسع العالمي لمنشأة **بلحاف للغاز الطبيعي المسال**.
+*   **شيفرون (Chevron):** إدارة قطاعات الاستكشاف والإنتاج في الآبار البرية والبحرية العميقة لرفع الطاقة الإنتاجية لمكامن الغاز، وتأمين تدفقات الإيرادات السيادية المستدامة للبنك الرقمي.
+*   **جي إي إنرجي (GE Energy):** تولي المسؤولية والتشغيل والصيانة التقنية الكاملة للمنشآت الغازية وشبكات الأنابيب لضمان أعلى درجات كفاءة الإنتاج. قيادة وتطوير مشاريع الطاقة الهجينة المتجددة (الرياح والشمس) لربط وتثبيت طاقة نظيفة، مستدامة، ومنخفضة التكلفة بالشبكة الكهربائية الوطنية.
+
+### 🇨🇳 2. الجناح الصيني (المحرك الهندسي الثقيل والتوسع المتسارع للبنية التحتية)
+*   **سينوبك (SINOPEC):** المقاول الرئيسي لعقود الـ EPC والتنفيذ الفيزيائي والربط لـ **شبكة الأنابيب الاستراتيجية لخطوط الإنتاج**، لربط كافة الحقول البرية والمنصات الساحلية بمحطات التصدير ومجمعات مصافي التكرير النمطية المؤتمتة.
+*   **الشركة الصينية لهندسة الموانئ (CHEC):** قيادة مشاريع الهندسة المدنية البحرية الثقيلة، جرف وتعميق القنوات الملاحية لاستقبال السفن والناقلات العملاقة، توسعة أرصفة التصدير، وتشييد المستودعات اللوجستية الذكية (تنفيذ بند جاهزية الميناء بالتزامن والتوازي الهندسي التام مع خطوط أنابيب سينوبك).
+*   **مجموعة يونايتد إنرجي (UEG):** المشغل الرئيسي للإنتاج الميداني التكتيكي وقيادة النمو السريع للحقول؛ إدارة وتطوير البنية التحتية بالتنسيق مع الصناديق السيادية لتجهيز أرصفة التصدير ومنشآت استقبال الوقود.
+*   **تشنهوا للنفط (ZHENHUA OIL):** حشد الوحدات التشغيلية والاستثمارية الميدانية لتحقيق التوسع المتسارع في قطاعات الحفر لزيادة معدلات الضخ اليومية وتحقيق مستهدفات التعافي خلال 12 شهراً.
+*   **CNOOC:** الذراع المتخصص في الاستكشاف والإنتاج البحري (Offshore)، الهندسة السريعة لبناء المنصات البحرية العائمة العميقة ونشر منشآت التخزين والتفريغ (FPSO) في المحاور البحرية (مثل سقطرى والمخا).
+
+### 🇸🇦 3. الجناح السعودي (المرتكز المالي السيادي والربط التنموي الإقليمي)
+*   **أرامكو السعودية (Saudi Aramco):** تقديم الاستشارات والتعاون الفني المتقدم في الحفر والإنتاج، وتولي القيادة والتشغيل واللوجستيات لممرات التصدير العالمية في **ميناء الضبة النفطي** و**ميناء عدن** لضمان وصول الصادرات الوطنية إلى البورصات العالمية بأعلى كفاءة.
+*   **أكوا باور (ACWA Power):** قيادة وتطوير محطات طاقة شمسية وطاقة رياح عملاقة لتوليد طاقة نظيفة ومستدامة، وتأسيس شبكات كهربائية خضراء مستقلة للمناطق الحرة والمجتمعات المحلية.
+*   **صندوق الاستثمارات العامة (PIF):** الممول المؤسسي السيادي الرئيسي لبناء وتطوير البنية التحتية الثقيلة، مشاريع الموانئ العملاقة (مثل ترقية وتحديث **ميناء نشطون** وربطه بالخطوط البرية الدولية وممرات التجارة)، وتشييد الفنادق العالمية والمناطق الحرة الحيوية. يقود بالتكامل مع أكوا باور بروتوكول **الربط بالشبكة الكهربائية الخليجية الموحدة** لتحويل المحاور الحدودية (صعدة، حجة، الجوف) إلى مناطق اقتصادية نشطة ومؤمنة طاقياً على مدار الساعة.
+
+### 🇦🇪 4. الجناح الإماراتي (الريادة اللوجستية وإدارة الموانئ الذكية)
+*   **موانئ دبي العالمية (DP World):** تولي الإشراف والإدارة اللوجستية والتشغيل الملاحي الفعال لجميع البوابات البحرية والمنافذ الاستراتيجية (قنا، النشيمة، سقطرى، المخا، الحديدة، ونشطون) عبر تطبيق "نموذج جبل علي" العالمي الناجح للأتمتة والجمارك الرقمية وسلاسل الإمداد.
+*   **أدنوك (ADNOC):** الاستثمار والتشغيل المشترك مع شركة إكسون موبيل لإدارة وتطوير منشأة **بلحاف للغاز الطبيعي المسال (LNG)**، والإشراف الفني على سلامة الأنابيب وشبكات نقل الغاز الإقليمية.
+
+### 🇮🇳 5. الجناح الهندي (تأمين الطلب الاستهلاكي والصناعات التحويلية)
+*   **ريلاينس للصناعات (Reliance Industries):** الشريك التجاري والصناعي الاستراتيجي لعمليات الشراء الضخم للنفط الخام وتكريره، وتحقيق الاستفادة التكنولوجية البرمجية والتحويلية القصوى من صناعات التكرير واللوجستيات (Downstream) لربطها بالمنظومة الرقمية للشبكة.
+*   **موانئ أداني (Adani Ports):** إدارة وتشغيل موانئ السلع، المحطات التجارية، والمنشآت الخدمية المتخصصة في **ميناء الحديدة** و**ميناء نشطون** لتأمين حركة الشحن والتداول اللوجستي وتحقيق الأمن الغذائي.
+
+### 🇫🇷 6. الجناح الأوروبي - فرنسا (الشراكة التقنية لقطاع الغاز)
+*   **توتال إنرجيز (TotalEnergies):** إعادة دمج الشريك السابق للإنتاج (Total) في البنية التحتية لمنشأة بلحاف، شريطة الخضوع الصارم للاتفاقيات المحدثة والمعايير القانونية الدولية لضمان الإنتاج المستقر والآمن وحظر أي تلاعب بالاتفاقات.
+
+### 🇬🇧 7. طبقة التدقيق والنزاهة المالية الدولية المستقلة - بريطانيا
+*   **ديلويت (Deloitte):** الجهة الدولية المعتمدة والمسؤولة عن التدقيق المالي الشامل والحوكمة المحاسبية للمشروع بأكمله من بداية إنشاءه؛ لضمان الشفافية المطلقة والامتثال التام أمام معايير صندوق النقد والبنك الدوليين.
+
+---
+> **ملاحظة حوكمة النظام:** تخضع كافة الأطر والاتفاقيات، وتوزيع حصص عقود الامتياز، واتفاقيات مستوى الخدمة (SLAs)، والتسويات الماليّة المؤتمتة لحوكمة وإشراف **نظام أوسان للذكاء الاصطناعي (AWSAN AI)**. تضمن هذه الطبقة السيادية الشفافية المطلقة بنسبة 100% وانعدام العنصر البشري، مما يحمي ويحصن حقوق الملكية الفكرية والسيادية الكاملة للمهندس المبتكر أوسان سلطان.
+
 
 
 
