@@ -376,7 +376,7 @@ The financial core of the project relies on absolute transparency, executed on a
     *   **20%:** Allocated to the National Treasury and Emergency Reserves.
     *   **40%:** Allocated to Infrastructure Reinvestment, CAPEX/OPEX Funds, and Clean Energy Expansions.
     *   **40%:** Distributed as direct citizen dividends directly into verified **KYC National Digital Wallets**.
-*   **IP Royalty Protection:** A fixed **0.01% Intellectual Property Royalty** is automated and preserved directly on-chain for the Architect (**Eng. Awsan Sultan**).
+*   **IP Royalty Protection:** A fixed **0.01% Intellectual Property Royalty** is automated and preserved directly on-chain for the Architect (**Eng. Awsan Adel Abdulbari Ahmed Sultan**).
 
 ---
 > **Technical Note for Developers:** This repository serves as the high-level configuration index for the `Financial-System`, `Global-Partners`, `Infrastructure`, and `Geo-Hubs` directories. Any structural shift or configuration update must pass the autonomous cryptographic verification of the `AWSAN-AI-GOVERNANCE` subsystem.
@@ -758,7 +758,7 @@ The financial core of the project relies on absolute transparency, executed on a
     *   **20%:** تتوجه آلياً إلى الخزينة الوطنية العامة والاحتياطيات الاستراتيجية للدولة لإنعاش الاقتصاد.
     *   **40%:** تتوجه آلياً لصالح صناديق النفقات الرأسمالية والتشغيلية (CAPEX/OPEX)، وتحديث البنية التحتية والموانئ، وتوسعة مشاريع الطاقة الخضراء.
     *   **40%:** تُوزع آلياً كـ "عوائد ومنافع اجتماعية دورية مباشرة" للمواطنين وتُودع في حسابات **المحافظ الوطنية الرقمية الموثقة (KYC)**.
-*   **حقوق الملكية الفكرية والابتكار:** يتم تفعيل واستقطاع نسبة ثابتة ومحصنة تبلغ **0.01% كحقوق ملكية فكرية (IP Royalty)** وتوجيهها ومزامنتها برمجياً على الشبكة لصالح المهندس المبتكر والمصمم (**المهندس أوسان سلطان**).
+*   **حقوق الملكية الفكرية والابتكار:** يتم تفعيل واستقطاع نسبة ثابتة ومحصنة تبلغ **0.01% كحقوق ملكية فكرية (IP Royalty)** وتوجيهها ومزامنتها برمجياً على الشبكة لصالح المهندس المبتكر والمصمم (**المهندس أوسان عادل عبدالباري احمد سلطان**).
 
 ---
 > **ملاحظة فنية للمطورين والمهندسين:** يعمل هذا المستند الشامل بمثابة ملف الإعداد الفني الرئيسي لضبط والتحقق من ملفات المجلد المالي `Financial-System`، مجلد الشركاء `Global-Partners`، مجلد البنية التحتية `Infrastructure`، ومجلد المحاور الجغرافية `Geo-Hubs`. ويتطلب إجراء أي تعديل برمي بالهيكلية اجتياز نظام التحقق التلقائي للشيفرات المشفرة للنظام الفرعي `AWSAN-AI-GOVERNANCE`.
