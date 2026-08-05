@@ -289,23 +289,6 @@ To secure absolute geopolitical shielding and zero risk for multi-billion dollar
 
 ---
 
-## 🗺️ 3. Geographic Hubs Mapping & Spatial Infrastructure
-
-The system operates via synchronized geographic pillars, distributed according to strict regional competitive advantages:
-
-| Geographic Hub | Principal Mission | Primary Industrial Partners | Infrastructure Target |
-| :--- | :--- | :--- | :--- |
-| **🚀 Shabwah Hub** | Rapid fiscal initialization & immediate oil export revival. | DP World, SINOPEC, CHEC, UEG, Reliance, ExxonMobil, ADNOC, TotalEnergies, GE. | Qana Port, Al-Nushaymah Terminal, Balhaf LNG Plant. |
-| **📈 Hadhramaut Hub** | LNG macro-operations, upstream expansion & industrial refining scaling. | Saudi Aramco, Reliance Industries, Halliburton, UEG, ExxonMobil, ADNOC, GE Energy. | Al-Dhabbah Terminal, Balhaf Expansion, Regional Grid Sync. |
-| **⚓ Mareb Hub** | Domestic energy security, gas-to-power networks & local grid stabilization. | Saudi Aramco, KSA Joint Committees, Local Administrative Nodes. | Mareb Gas Power Station, Local Grid Distribution. |
-| **🌊 Socotra Hub** | Global ocean gate, deep offshore drilling & super-scale maritime fueling. | DP World, CHEC, Adani Ports, CNOOC, Halliburton, Schlumberger, ExxonMobil, Chevron, UEG, ZhenHua, PIF, ACWA Power, GE. | Ultra-Scale Bunkering Station (200k+ Ships/Year), Deepwater Marine FPSO, 100% Green Energy Lab. |
-| **🚢 Al-Hodeidah Hub** | Red Sea shipping corridor, automated storage & food security logistics. | Adani Ports, DP World, CHEC, SINOPEC, UEG. | Al-Hodeidah Deep Docks, Smart Warehouse Complexes, Concurrent Pipeline Corridor. |
-| **📍 Al-Mahrah Hub** | International land link, eastern maritime gate & international highways. | Saudi Aramco, ACWA Power, PIF, Adani Ports, CHEC, DP World. | Nashatun Port Upgrade, Overland Logistics Express Highways. |
-| **⛏️ Northern Frontier** *(Saada, Hajjah, Al-Jawf)* | Subterranean mineral mining zone, GCC power interconnection & food basket labs. | Saudi Aramco, ACWA Power, PIF, Regional Agriculture Investors. | GCCIA Power Grid Interconnection, Digital Al-Jawf Agriculture Basin, Heavy Mining Hubs. |
-
----
-
-
 
 ## 🗺️ 3. Geographic Axes Matrix & Spatial Logistic Infrastructure Development
 
@@ -757,23 +740,6 @@ The financial core of the project relies on absolute transparency, executed on a
 ### 🇮🇳 الجناح الهندي (تأمين وبناء الطلب الاستهلاكي وتكامل مصافي التكرير اللوجستية)
 *   **ريلاينس للصناعات (Reliance Industries):** الشريك التجاري والصناعي الاستراتيجي لعمليات الشراء الضخم للنفط الخام وتكريره لتعظيم عوائد القيمة المضافة لقطاع الصناعات التحويلية (Downstream).
 *   **موانئ أداني (Adani Ports):** تولي الإشراف الإداري والتشغيلي لموانئ السلع والخدمات اللوجستية والتجارية وتحديداً في **ميناء الحديدة** و**ميناء نشطون (المهرة)** لضمان استقرار سلاسل الإمداد والأمن الغذائي وتكاملها مع المنظومة الرقمية للشبكة.
-
----
-
-
-## 🗺️ 3. مصفوفة المحاور الجغرافية وتطوير البنية اللوجستية المكانية
-
-تتوزع القيادة الفنية والتشغيلية الميدانية عبر محاور جغرافية متزامنة، تم تخطيطها وصياغتها بناءً على الميزات التنافسية لكل منطقة:
-
-| المحور الجغرافي | المهمة الإنتاجية والاستراتيجية الرئيسية | الشركاء الصناعيين والتنفيذيين الرئيسيين | البنية التحتية والمستهدف اللوجستي الميداني |
-| :--- | :--- | :--- | :--- |
-| **🚀 محور شبوة** | التفعيل المالي الخاطف، وبدء الإنتاج والتدفق النقدي وإحياء صادرات الغاز الفورية. | موانئ دبي العالمية، سينوبك، CHEC، مجموعة UEG، ريلاينس، إكسون موبيل، أدنوك، توتال إنرجيز، جي إي. | ميناء قنا، ميناء النشيمة، منشأة بلحاف للغاز المسال، مصافي التكرير النمطية. |
-| **📈 محور حضرموت** | قيادة العمليات الكبرى للغاز المسال، التوسع الصناعي والتكرير، والربط بالشبكات الإقليمية. | أرامكو السعودية، ريلاينس للصناعات، هاليبرتون، مجموعة UEG، إكسون موبيل، أدنوك، جي إي إنرجي. | ميناء الضبة النفطي، توسعة منشأة بلحاف، الربط المتزامن للشبكة الإقليمية. |
-| **⚓ محور مأرب** | تأمين أمن الطاقة المحلي، توليد الكهرباء بالغاز، واستقرار الشبكة الوطنية وتنمية الخدمات. | أرامكو السعودية، اللجان الفنية اليمنية-السعودية المشتركة، الدوائر الإدارية المحلية. | محطة مأرب الغازية لتوليد الطاقة، شبكات التوزيع والممرات المحلية. |
-| **🌊 محور سقطرى** | بوابة المحيط، مركز الترانزيت العالمي لتموين السفن، آفاق الإنتاج والاستكشاف البحري العميق. | موانئ دبي، CHEC، موانئ أداني، CNOOC، هاليبرتون، شلمبرجير، إكسون موبيل، شيفرون، UEG، تشنهوا، صندوق الاستثمارات السعودي، أكوا باور، جي إي. | محطة تموين وتزويد السفن بالوقود (200 ألف سفينة سنوياً)، منصات الحفر الأوفشور العائمة، مختبر الطاقة الخضراء 100%. |
-| **🚢 محور الحديدة** | ممر الشحن اللوجستي في البحر الأحمر، وتجهيز البنية التحتية للمخازن الذكية والأمن الغذائي. | موانئ أداني، موانئ دبي العالمية، CHEC، سينوبك، مجموعة UEG. | أرصفة الحديدة العميقة والممرات الملاحية، مستودعات التخزين اللوجستية، ممر خط الأنابيب الموازي. |
-| **📍 محور المهرة** | ممر ترانزيت دولي بري، البوابة الملاحية الشرقية والربط اللوجستي مع شبكات دول الخليج. | أرامكو السعودية، أكوا باور، صندوق الاستثمارات السعودي (PIF)، موانئ أداني، CHEC، موانئ دبي العالمية. | تطوير وتوسعة ميناء نشطون، الخطوط والممرات البرية اللوجستية الدولية السريعة. |
-| **⛏️ المحاور الشمالية** *(صعدة، حجة، الجوف)* | منطقة تعدين ومعادن عالمية حرة، الربط بالكهرباء الخليجية الموحدة، وسلة التنمية والأمن الغذائي. | أرامكو السعودية، أكوا باور، صندوق الاستثمارات السعودي (PIF)، كبار المستثمرين الزراعيين الدوليين والإقليميين. | ممر الربط بالشبكة الخليجية الموحدة (GCCIA)، مشروع سلة الجوف الرقمية للزراعة المستدامة، حقول التعدين الثقيلة. |
 
 ---
 
