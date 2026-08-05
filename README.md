@@ -1014,9 +1014,7 @@ The financial core of the project relies on absolute transparency, executed on a
 
 ---
 
-## 🌐 القسم الأول A
-
-
+## 🌐 القسم الأول B
 
 
 ---
