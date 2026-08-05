@@ -316,19 +316,26 @@ Technical and operational field leadership is distributed across synchronized ge
 
 ### 🔗 The "Port Readiness Clause"
 To eliminate dead capital and guarantee immediate returns on investment, the system enforces a strict synchronization rule for infrastructure development:
-*   **SINOPEC** leads the physical welding of cross-country pipeline networks connecting fields to coastlines.
-*   **China Harbour (CHEC)** executes dredging and docks expansion concurrently.
-*   *System Rule:* SINOPEC’s pipeline construction must perfectly match CHEC's port preparation. The entire corridor must be fully integrated and **"Ship-Ready"** on day one of commercial production, monitored by **AWSAN AI**.
+*   **SINOPEC** leads the physical welding of cross-country pipeline networks connecting fields to coastlines, activating advanced telemetry links for production streams.
+*   **China Harbour (CHEC)** executes deep-water dredging and docks expansion concurrently.
+*   *System Rule:* SINOPEC’s pipeline construction must perfectly match CHEC's port preparation. For the **Taiz Zone (Al-Mokha Port)**, this mandates SINOPEC's coastal pipeline deployment to align precisely with CHEC's berth dredging down to a **-24.5m Max Depth** to safely accommodate **25k+ DWT** vessels. The entire corridor must be fully integrated and **"Ship-Ready"** on day one of commercial production, monitored by **AWSAN AI**.
 
 ### ⚖️ The Balance of Interests Framework
 To prevent monopolistic influence and protect national sovereignty, the AI governance layer distributes operational zones as follows:
 *   **Shabwah Zone:** Joint China-UAE-USA technical management.
 *   **Hadhramaut Zone:** Joint KSA-USA-UAE energy management.
 *   **Mareb Zone:** Joint KSA-Yemen stability management.
+*   **Taiz Zone (Al-Mokha Port):** Distributed strategic transit and renewable energy management matrix:
+    *   *Logistics & Automated Terminal Operations:* Managed by UAE's **DP World**.
+    *   *Infrastructure, Storage & Exploration:* Jointly executed by China's **CHEC** (maritime engineering), **SINOPEC** (pipeline networks), alongside **UEG**, **CNOOC**, and **ZhenHua Oil** (upstream scaling and deep-sea exploration).
+    *   *Sovereign Macro-Energy & Infrastructure:* Spearheaded by Saudi Arabia via **ACWA Power** (**335 MWp Solar / 198 MW Wind**), **Saudi Aramco** (regional grid telemetry integration), and the Public Investment Fund (**PIF**) for core infrastructure and smart warehouse scaling.
 *   **Socotra Axis:** Multi-national technical coalition.
 *   *Concession Cap:* No single nation can hold more than **35%** of total concession areas within any given hub.
 
+
 ---
+
+
 
 ## 💳 5. Financial Sovereignty & Social Distribution Matrix
 
