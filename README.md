@@ -21,6 +21,8 @@
 📞 **Contacts:** +967 777852433 / +967 776633003
 
 👤 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+
+
 ---
 
 
@@ -34,11 +36,15 @@
 <p align="center">
   <img src="./Socatra_Super_Hub&Bunkering_Station.png" alt="Socatra_Super_Hub&Bunkering_Station.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
   <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
@@ -50,18 +56,20 @@
 <p align="center">
   <img src="./Nashatun_development_Port.png" alt="Nashatun_development_Port.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
   <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
   <img src="./AlHodeidah_Port_Expansion.png" alt="AlHodeidah_Port_Expansion.png" width="1254" height="1254"/>
 </p>
-
-
 
 
 ---
@@ -483,11 +491,15 @@ The financial core of the project relies on absolute transparency, executed on a
 <p align="center">
   <img src="./Socatra_Super_Hub&Bunkering_Station.png" alt="Socatra_Super_Hub&Bunkering_Station.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
   <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
@@ -499,11 +511,15 @@ The financial core of the project relies on absolute transparency, executed on a
 <p align="center">
   <img src="./Nashatun_development_Port.png" alt="Nashatun_development_Port.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
   <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal.png" width="1254" height="1254"/>
 </p>
+
+
 ---
 
 <p align="center">
@@ -511,15 +527,7 @@ The financial core of the project relies on absolute transparency, executed on a
 </p>
 
 
-
-
 ---
-
-
-
-
-
-
 ---
 
 ## 🏛️ لوحة التحكم الاستراتيجية الرئيسية (Master Strategic Dashboard)
