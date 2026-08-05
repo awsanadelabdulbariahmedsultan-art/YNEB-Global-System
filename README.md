@@ -483,6 +483,67 @@ To secure absolute geopolitical shielding and zero risk for multi-billion dollar
 ---
 
 
+
+
+---
+
+
+<p align="center">
+  <img src="./Socatra_Super_Hub&Bunkering_Station.png" alt="Socatra_Super_Hub&Bunkering_Station.png" width="1254" height="1254"/>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="./AlMokha_Port_Development_Project.png" alt="AlMokha_Port_Development_Project" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Nashatun_development_Port.png" alt="Nashatun_development_Port" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Alnashima_Specialized_Oil_Port.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./AlHodeidah_Port_Expansion.png" alt="AlHodeidah_Port_Expansion" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization" width="1254" height="1254"/>
+</p>
+
+
+
+
+
+---
+
+
+
+
+---
+
+
+
+
 ## 🗺️ 3. Geographic Hubs Mapping & Spatial Infrastructure
 
 The system operates via synchronized geographic pillars, distributed according to strict regional competitive advantages:
