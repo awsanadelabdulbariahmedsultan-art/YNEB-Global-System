@@ -308,6 +308,87 @@ Technical and operational field leadership is distributed across synchronized ge
 
 
 
+
+
+---
+
+<p align="center">
+  <img src="./Hadhramaut_Ports.png" alt="Hadhramaut_Ports" width="1254" height="1254"/>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="./Mokha_Port_Developer_Project2.png" alt="Mokha_Port_Developer_Project2" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Strategic_Mokha_Port_Development_Project.png" alt="Strategic_Mokha_Port_Development_Project" width="1254" height="1254"/>
+</p>
+
+---
+
+
+
+---
+
+<p align="center">
+  <img src="./New_Mokha_Port_Development_Project.png" alt="New_Mokha_Port_Development_Project" width="1254" height="1254"/>
+<
+  /p>
+
+---
+
+<p align="center">
+  <img src="./Mokha_Port_Developer.png" alt="Mokha_Port_Developer" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Mokha_Port.png" alt="Mokha_Port" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Mokha_Port_Developer_Project.png" alt="Mokha_Port_Developer_Project" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Alnashima_Specialized_Oil_Port.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./Alnashima_Specialized_Oil_Port.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Socotra&Balhaf_Stratiguc_Port_System2.png" alt="Socotra&Balhaf_Stratiguc_Port_System2" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Socotra&Balhaf_Stratiguc_Port_System.png" alt="Socotra&Balhaf_Stratiguc_Port_System" width="1254" height="1254"/>
+</p>
+
+
+
+---
+
+
+
 ---
 
 
