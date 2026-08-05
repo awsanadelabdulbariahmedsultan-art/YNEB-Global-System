@@ -23,6 +23,49 @@
 👤 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
 ---
 
+
+<p align="center">
+  <img src="./Sovereign_Maritime_Seaport_Expansion.png" alt="Sovereign_Maritime_Seaport_Expansion.png" width="1254" heigh
+    t="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Socatra_Super_Hub&Bunkering_Station.png" alt="Socatra_Super_Hub&Bunkering_Station.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./AlMokha_Port_Development_Project.png" alt="AlMokha_Port_Development_Project.png" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Nashatun_development_Port.png" alt="Nashatun_development_Port.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./AlHodeidah_Port_Expansion.png" alt="AlHodeidah_Port_Expansion.png" width="1254" height="1254"/>
+</p>
+
+
+
+
+---
+
 ## 🏛️ Master Strategic Dashboard | لوحة التحكم الاستراتيجية
 
 Select a module below to view the technical documentation and strategic maps.
@@ -427,6 +470,55 @@ The financial core of the project relies on absolute transparency, executed on a
 📞 **للتواصل:** 777852433 967+ / 776633003 967+
 
 👤 **لينكد إن:** [رابط الملف الشخصي](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+---
+
+
+<p align="center">
+  <img src="./Sovereign_Maritime_Seaport_Expansion.png" alt="Sovereign_Maritime_Seaport_Expansion.png" width="1254" heigh
+    t="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Socatra_Super_Hub&Bunkering_Station.png" alt="Socatra_Super_Hub&Bunkering_Station.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./AlMokha_Port_Development_Project.png" alt="AlMokha_Port_Development_Project.png" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Nashatun_development_Port.png" alt="Nashatun_development_Port.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal.png" width="1254" height="1254"/>
+</p>
+---
+
+<p align="center">
+  <img src="./AlHodeidah_Port_Expansion.png" alt="AlHodeidah_Port_Expansion.png" width="1254" height="1254"/>
+</p>
+
+
+
+
+---
+
+
+
+
+
 
 ---
 
