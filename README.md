@@ -329,8 +329,6 @@ Technical and operational field leadership is distributed across synchronized ge
   <img src="./Strategic_Mokha_Port_Development_Project.png" alt="Strategic_Mokha_Port_Development_Project" width="1254" height="1254"/>
 </p>
 
----
-
 
 
 ---
@@ -368,7 +366,7 @@ Technical and operational field leadership is distributed across synchronized ge
 
 
 <p align="center">
-  <img src="./Alnashima_Specialized_Oil_Port.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
+  <img src="./Alnashima_Specialized_Oil_Port2.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
 </p>
 
 ---
@@ -906,7 +904,7 @@ The financial core of the project relies on absolute transparency, executed on a
 
 
 <p align="center">
-  <img src="./Alnashima_Specialized_Oil_Port.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
+  <img src="./Alnashima_Specialized_Oil_Port2.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
 </p>
 
 ---
