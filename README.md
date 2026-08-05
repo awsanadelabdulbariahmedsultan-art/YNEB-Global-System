@@ -879,19 +879,19 @@ The financial core of the project relies on absolute transparency, executed on a
 ---
 
 <p align="center">
-  <img src="./Mokha_Port_Developer.png" alt="Mokha_Port_Developer" width="1254" height="1254"/>
+  <img src="./AlMokha_Port_Development_Project.png" alt="AlMokha_Port_Development_Project" width="1254" height="1254"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Mokha_Port.png" alt="Mokha_Port" width="1254" height="1254"/>
+  <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal" width="1254" height="1254"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Mokha_Port_Developer_Project.png" alt="Mokha_Port_Developer_Project" width="1254" height="1254"/>
+  <img src="./Nashatun_development_Port.png" alt="Nashatun_development_Port" width="1254" height="1254"/>
 </p>
 
 ---
@@ -904,13 +904,13 @@ The financial core of the project relies on absolute transparency, executed on a
 
 
 <p align="center">
-  <img src="./Alnashima_Specialized_Oil_Port2.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
+  <img src="./AlHodeidah_Port_Expansion.png" alt="AlHodeidah_Port_Expansion" width="1254" height="1254"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Socotra&Balhaf_Stratiguc_Port_System2.png" alt="Socotra&Balhaf_Stratiguc_Port_System2" width="1254" height="1254"/>
+  <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization" width="1254" height="1254"/>
 </p>
 
 ---
@@ -1037,6 +1037,61 @@ The financial core of the project relies on absolute transparency, executed on a
 
 
 ---
+
+
+
+---
+
+<p align="center">
+  <img src="./AlMokha_Port_Development_Project.png" alt="AlMokha_Port_Development_Project" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Nashatun_development_Port.png" alt="Nashatun_development_Port" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Alnashima_Specialized_Oil_Port.png" alt="Alnashima_Specialized_Oil_Port" width="1254" height="1254"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./AlHodeidah_Port_Expansion.png" alt="AlHodeidah_Port_Expansion" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization" width="1254" height="1254"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./Socotra&Balhaf_Stratiguc_Port_System.png" alt="Socotra&Balhaf_Stratiguc_Port_System" width="1254" height="1254"/>
+</p>
+
+
+
+---
+
+
+
+---
+
+
 
 
 
