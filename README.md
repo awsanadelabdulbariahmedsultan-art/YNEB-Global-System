@@ -539,26 +539,6 @@ To secure absolute geopolitical shielding and zero risk for multi-billion dollar
 
 
 
----
-
-
-
-
-## 🗺️ 3. Geographic Hubs Mapping & Spatial Infrastructure
-
-The system operates via synchronized geographic pillars, distributed according to strict regional competitive advantages:
-
-| Geographic Hub | Principal Mission | Primary Industrial Partners | Infrastructure Target |
-| :--- | :--- | :--- | :--- |
-| **🚀 Shabwah Hub** | Rapid fiscal initialization & immediate oil export revival. | DP World, SINOPEC, CHEC, UEG, Reliance, ExxonMobil, ADNOC, TotalEnergies, GE. | Qana Port, Al-Nushaymah Terminal, Balhaf LNG Plant. |
-| **📈 Hadhramaut Hub** | LNG macro-operations, upstream expansion & industrial refining scaling. | Saudi Aramco, Reliance Industries, Halliburton, UEG, ExxonMobil, ADNOC, GE Energy. | Al-Dhabbah Terminal, Balhaf Expansion, Regional Grid Sync. |
-| **⚓ Mareb Hub** | Domestic energy security, gas-to-power networks & local grid stabilization. | Saudi Aramco, KSA Joint Committees, Local Administrative Nodes. | Mareb Gas Power Station, Local Grid Distribution. |
-| **⚓ Taiz Hub (Al-Mokha Port)** | Geostrategic port redevelopment, deep-water berth dredging, renewable energy grid integration, and management of transit logistics and financial flows. | DP World, Saudi Aramco, ACWA Power, PIF, UEG, CHEC, SINOPEC, GE Energy, CNOOC, ZhenHua Oil. | Automated Container Terminal, Deepened Berths (-24.5m Max Depth) for 25k+ DWT Vessels, Coastal & Field Pipeline Telemetry Network, Solar Farm (335 MWp), Wind Farm (198 MW). |
-| **🌊 Socotra Hub** | Global ocean gate, deep offshore drilling & super-scale maritime fueling. | DP World, CHEC, Adani Ports, CNOOC, Halliburton, Schlumberger, ExxonMobil, Chevron, UEG, ZhenHua, PIF, ACWA Power, GE. | Ultra-Scale Bunkering Station (200k+ Ships/Year), Deepwater Marine FPSO, 100% Green Energy Lab. |
-| **🚢 Al-Hodeidah Hub** | Red Sea shipping corridor, automated storage & food security logistics. | Adani Ports, DP World, CHEC, SINOPEC, UEG. | Al-Hodeidah Deep Docks, Smart Warehouse Complexes, Concurrent Pipeline Corridor. |
-| **📍 Al-Mahrah Hub** | International land link, eastern maritime gate & international highways. | Saudi Aramco, ACWA Power, PIF, Adani Ports, CHEC, DP World. | Nashatun Port Upgrade, Overland Logistics Express Highways. |
-| **⛏️ Northern Frontier** *(Saada, Hajjah, Al-Jawf)* | Subterranean mineral mining zone, GCC power interconnection & food basket labs. | Saudi Aramco, ACWA Power, PIF, Regional Agriculture Investors. | GCCIA Power Grid Interconnection, Digital Al-Jawf Agriculture Basin, Heavy Mining Hubs. |
-
 
 
 
