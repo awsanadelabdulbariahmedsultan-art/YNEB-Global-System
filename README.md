@@ -239,8 +239,12 @@ This system implements the **20-40-40 Wealth Formula**, ensuring direct benefit 
 
 ---
 
-## 🌐 1. Executive Summary & Governance Logic
+## 🌐 PART A
 
+
+---
+
+## 🌐 1. Executive Summary & Governance Logic
 The **YNEB Global System** is a world-class, multi-polar sovereign digital infrastructure designed to transform Yemen's underground resources into immediate digital liquidity and long-term fiscal stability. By enforcing a **12-month parallel action plan (The Tri-Launch Framework)**, the system bypasses bureaucratic and administrative corruption, linking extraction directly to national services and global markets.
 
 ### 📊 Core Four-Layer System Architecture:
@@ -335,10 +339,15 @@ The financial core of the project relies on absolute transparency, executed on a
 > **Technical Note for Developers:** This repository serves as the high-level configuration index for the `Financial-System`, `Global-Partners`, `Infrastructure`, and `Geo-Hubs` directories. Any structural shift or configuration update must pass the autonomous cryptographic verification of the `AWSAN-AI-GOVERNANCE` subsystem.
 
 
+
 ---
 
+## 🌐 PART B
 
-## 🤝 2. The Big 5 Global Alliance: Multi-Polar Power Matrix (Part A)
+
+---
+
+## 🤝 1. The Big 5 Global Alliance: Multi-Polar Power Matrix (Part A)
 
 To secure absolute geopolitical shielding and zero risk for multi-billion dollar capital pools, the system establishes a precise equilibrium of interests among five global superpowers and their industrial giants:
 
@@ -358,7 +367,7 @@ To secure absolute geopolitical shielding and zero risk for multi-billion dollar
 
 
 
-## 🤝 3. The Big 5 Global Alliance: Multi-Polar Power Matrix (Part B)
+## 🤝 2. The Big 5 Global Alliance: Multi-Polar Power Matrix (Part B)
 
 ### 🇸🇦 Saudi Arabia Wing (Fiscal Anchor, Sovereign Capital & Regional Grid Connectivity)
 *   **Saudi Aramco:** Conducting high-tier technical collaboration, upstream drilling consultation, and taking operational leadership over global export corridors at **Al-Dhabbah** and **Aden Ports**.
@@ -378,7 +387,7 @@ To secure absolute geopolitical shielding and zero risk for multi-billion dollar
 ---
 
 
-## 🗺️ 4. Geographic Hubs Mapping & Spatial Infrastructure
+## 🗺️ 3. Geographic Hubs Mapping & Spatial Infrastructure
 
 The system operates via synchronized geographic pillars, distributed according to strict regional competitive advantages:
 
@@ -399,7 +408,7 @@ The system operates via synchronized geographic pillars, distributed according t
 
 
 
-## 🛣️ 5. Concurrent Engineering Protocols & System Rules
+## 🛣️ 4. Concurrent Engineering Protocols & System Rules
 
 ### 🔗 The "Port Readiness Clause"
 To eliminate dead capital and guarantee immediate returns on investment, the system enforces a strict synchronization rule for infrastructure development:
@@ -417,7 +426,7 @@ To prevent monopolistic influence and protect national sovereignty, the AI gover
 
 ---
 
-## 💳 6. Financial Sovereignty & Social Distribution Matrix
+## 💳 5. Financial Sovereignty & Social Distribution Matrix
 
 The financial core of the project relies on absolute transparency, executed on a sovereign blockchain ledger connected to international banking nodes:
 
