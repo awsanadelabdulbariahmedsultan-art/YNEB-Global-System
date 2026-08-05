@@ -1105,14 +1105,6 @@ The financial core of the project relies on absolute transparency, executed on a
   <img src="./Aden_Port&Refineey_Modernization.png" alt="Aden_Port&Refineey_Modernization" width="1254" height="1254"/>
 </p>
 
----
-
-
-<p align="center">
-  <img src="./Qana_Port_Alnushaymah_Terminal.png" alt="Qana_Port_Alnushaymah_Terminal.png" width="1254" height="1254"/>
-</p>
-
-
 
 
 
