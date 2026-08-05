@@ -411,6 +411,33 @@ The system operates via synchronized geographic pillars, distributed according t
 
 
 
+
+---
+
+
+
+
+## 🗺️ 3. Geographic Axes Matrix & Spatial Logistic Infrastructure Development
+
+Technical and operational field leadership is distributed across synchronized geographic axes, planned and formulated based on the competitive advantages of each region:
+
+| Geographic Axis | Primary Strategic & Production Mission | Key Industrial & Executive Partners | Field Infrastructure & Logistic Target |
+| :--- | :--- | :--- | :--- |
+| **🚀 Shabwah Axis** | Rapid financial activation, initiation of production, cash flow generation, and revival of spot LNG exports. | DP World, SINOPEC, CHEC, UEG Group, Reliance, ExxonMobil, ADNOC, TotalEnergies, GE. | Qana Port, Al-Nashima Port, Balhaf LNG Facility, Modular Refineries. |
+| **📈 Hadramout Axis** | Leading major LNG operations, industrial expansion, refining, and integration with regional networks. | Saudi Aramco, Reliance Industries, Halliburton, UEG Group, ExxonMobil, ADNOC, GE Energy. | Al-Dhabah Oil Terminal, Balhaf Facility Expansion, Synchronous Regional Grid Interconnection. |
+| **⚓ Marib Axis** | Securing domestic energy, gas-fired power generation, stabilizing the national grid, and developing local services. | Saudi Aramco, Joint Yemeni-Saudi Technical Committees, Local Administrative Directorates. | Marib Gas-Fired Power Plant, Distribution Networks, and Local Corridors. |
+| **⚓ Taiz Axis (Al-Mokha Port)** | Geostrategic port redevelopment, deep-water berth dredging, energy grid integration (Solar & Wind), and management of transit logistics and financial flows. | DP World, Saudi Aramco, ACWA Power, Public Investment Fund (PIF), UEG Group, CHEC, SINOPEC, GE Energy, CNOOC, ZhenHua Oil. | Automated Container Terminal, Deepened Berths (-24.5m Max Depth) for 25k+ DWT Vessels, Coastal & Field Pipeline Telemetry Network, Solar Farm (335 MWp), Wind Farm (198 MW). |
+| **🌊 Socotra Axis** | Gateway to the ocean, global transit hub for vessel bunkering, and horizons for deep-water offshore exploration and production. | DP World, CHEC, Adani Ports, CNOOC, Halliburton, Schlumberger, ExxonMobil, Chevron, UEG, ZhenHua, Saudi PIF, ACWA Power, GE. | Vessel Bunkering & Refueling Station (200k ships annually), Floating Offshore Drilling Platforms, 100% Green Energy Lab. |
+| **🚢 Al-Hudaydah Axis** | Red Sea shipping logistics corridor, and establishing infrastructure for smart warehouses and food security. | Adani Ports, DP World, CHEC, SINOPEC, UEG Group. | Al-Hudaydah Deep Berths & Shipping Lanes, Logistic Storage Warehouses, Parallel Pipeline Corridor. |
+| **📍 Al-Mahrah Axis** | International land transit corridor, eastern maritime gateway, and logistical integration with GCC networks. | Saudi Aramco, ACWA Power, Public Investment Fund (PIF), Adani Ports, CHEC, DP World. | Nishtun Port Development & Expansion, International High-Speed Land Logistic Corridors. |
+| **⛏️ Northern Axes** *(Saada, Hajjah, Al-Jawf)* | Free global mining and minerals zone, interconnection with the GCC unified power grid, and sustainable agricultural development basket. | Saudi Aramco, ACWA Power, Public Investment Fund (PIF), Major International & Regional Agricultural Investors. | GCCIA Interconnection Corridor, Al-Jawf Digital Sustainable Agriculture Basket Project, Heavy Mining Fields. |
+
+
+
+
+
+
+
 ---
 
 
