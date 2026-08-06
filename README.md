@@ -1459,7 +1459,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ### 🔐 6. بروتوكول إنترنت الأشياء الفوقية والتقنيات الكمومية المستقلة
 للاطلاع على المواصفات الفنية الكاملة لكثافة إنترنت الأشياء (Hyper-Dense IoT)، أنظمة التشفير الكمومي (Post-Quantum Cryptography)، ومعالجة الحافة (Edge AI)، يرجى مراجعة المستند الفني المستقل:
-👉 [اضغط هنا للاطلاع على البروتوكول السيادي للأمن والاتصال المشفر](./protocols/iot-quantum-security-protocol.md)
+👉 [اضغط هنا للاطلاع على البروتوكول السيادي للأمن والاتصال المشفر](./protocols/2iot-quantum-security-protocol.md)
 
 
 
