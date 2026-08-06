@@ -1,19 +1,18 @@
-## ⚖️ 7. براءة الاختراع وحقوق الملكية الفكرية السيادية (Intellectual Property & Copyright)
+## ⚖️ Patent, Intellectual Property & Sovereign Copyright Clause
 
-*   **⚠️ بيان الملكية الفكرية القانوني والمحمي دولياً:**
-    إن كافة التصاميم الهندسية، المعايير التقنية، المصفوفات الجيومكانية، الهياكل البرمجية، الخوارزميات التشغيلية، وبروتوكولات التزامن الميكانيكي والكمومي الواردة في هذا المشروع (بما في ذلك خطط التوسعة الفوق-عملاقة ومصفوفات الحوكمة الذكية لنظام أوسان AWSAN AI)، هي ملكية فكرية حصرية ومسجلة قانوناً باسم المبتكر والمطور السيادي:
-    *   **الاسم الكامل:** أوسان عادل عبدالباري أحمد سلطان (AWSAN ADEL ABDULBARI AHMED SULTAN)
-    *   **البلد المنشأ:** الجمهورية اليمنية (Yemen)
-    *   **رقم الهوية الوطنية السيادية:** Id.01010305468
-*   **🚫 حظر الاستخدام أو الاقتباس غير المصرح به:**
-    يحظر حظراً تاماً ومطلقاً نسخ، أو تعديل، أو إعادة هندسة (Reverse Engineering)، أو استخدام أي جزء من هذا النظام، أو بروتوكولاته، أو مخططاته الهندسية والبرمجية في أي مشاريع تشغيلية، أو مناقصات دولية، أو منصات رقمية دون الحصول على إذن كتابي رسمي وموقع ومختوم مباشرة من المالك الشرعي والوحيد للمشروع.
-*   **📞 قنوات الاتصال والامتثال القانوني الرسمي:**
-    للمراجعات القانونية، الشراكات الاستثمارية الرسمية، أو طلبات التراخيص التشغيلية، يرجى التواصل مباشرة عبر القنوات السيادية الرسمية التالية للمطور:
-    *   **الهاتف الجوال (الخط الأول):** `00967777852433`
-    *   **الهاتف الجوال (الخط الثاني):** `00967776633003`
-    *   **البريد الإلكتروني الرسمي:** `awsan.sultan@gmail.com`
+*   **⚠️ Internationally Protected IP Statement:**
+    All engineering blueprints, technical frameworks, geospatial matrices, programmatic core topologies, operational algorithms, and concurrent mechanical/quantum protocols detailed within this repository (including the Super-Mega Port expansion scale-ups and the structural governance networks of the AWSAN AI Engine) are the exclusive, legally registered intellectual property of the Sovereign Architect and Innovator:
+    *   **Full Legal Name:** AWSAN ADEL ABDULBARI AHMED SULTAN
+    *   **Country of Origin:** Republic of Yemen
+    *   **Sovereign National ID:** Id.01010305468
+*   **🚫 Restriction of Unauthorized Use & Replication:**
+    Any unauthorized replication, adaptation, modification, reverse engineering, or commercial/operational deployment of this system’s protocols, architectures, or frameworks in global tenders, maritime concessions, or digital ecosystems without a formally signed, sealed, and written concession agreement directly from the sole proprietor is strictly prohibited and subject to international legal prosecution.
+*   **📞 Official Legal & Commercial Communications:**
+    For official compliance audits, corporate inquiries, investment consortium tracking, or operational licensing requests, contact the proprietor directly via the verified communication nodes:
+    *   **Primary Telecom Node:** `00967777852433`
+    *   **Secondary Telecom Node:** `00967776633003`
+    *   **Sovereign Digital Mail:** `awsan.sultan@gmail.com`
 ---
-
 
 ## 🔐 Hyper-Dense IoT Matrix & Quantum-Safe Autonomous Protocols
 
@@ -60,7 +59,23 @@ To completely insulate vital maritime assets from catastrophic operational downt
 
 ---
 
-## 🔐 6. بروتوكول حزمة تكنولوجيا إنترنت الأشياء الفوقية والتقنيات الكمومية المستقلة
+## ⚖️ براءة الاختراع وحقوق الملكية الفكرية السيادية (Intellectual Property & Copyright)
+
+*   **⚠️ بيان الملكية الفكرية القانوني والمحمي دولياً:**
+    إن كافة التصاميم الهندسية، المعايير التقنية، المصفوفات الجيومكانية، الهياكل البرمجية، الخوارزميات التشغيلية، وبروتوكولات التزامن الميكانيكي والكمومي الواردة في هذا المشروع (بما في ذلك خطط التوسعة الفوق-عملاقة ومصفوفات الحوكمة الذكية لنظام أوسان AWSAN AI)، هي ملكية فكرية حصرية ومسجلة قانوناً باسم المبتكر والمطور السيادي:
+    *   **الاسم الكامل:** أوسان عادل عبدالباري أحمد سلطان (AWSAN ADEL ABDULBARI AHMED SULTAN)
+    *   **البلد المنشأ:** الجمهورية اليمنية (Yemen)
+    *   **رقم الهوية الوطنية السيادية:** Id.01010305468
+*   **🚫 حظر الاستخدام أو الاقتباس غير المصرح به:**
+    يحظر حظراً تاماً ومطلقاً نسخ، أو تعديل، أو إعادة هندسة (Reverse Engineering)، أو استخدام أي جزء من هذا النظام، أو بروتوكولاته، أو مخططاته الهندسية والبرمجية في أي مشاريع تشغيلية، أو مناقصات دولية، أو منصات رقمية دون الحصول على إذن كتابي رسمي وموقع ومختوم مباشرة من المالك الشرعي والوحيد للمشروع.
+*   **📞 قنوات الاتصال والامتثال القانوني الرسمي:**
+    للمراجعات القانونية، الشراكات الاستثمارية الرسمية، أو طلبات التراخيص التشغيلية، يرجى التواصل مباشرة عبر القنوات السيادية الرسمية التالية للمطور:
+    *   **الهاتف الجوال (الخط الأول):** `00967777852433`
+    *   **الهاتف الجوال (الخط الثاني):** `00967776633003`
+    *   **البريد الإلكتروني الرسمي:** `awsan.sultan@gmail.com`
+--+
+
+## 🔐 بروتوكول حزمة تكنولوجيا إنترنت الأشياء الفوقية والتقنيات الكمومية المستقلة
 
 يفرض النظام هذا البروتوكول السيادي والتقني كمعيار إلزامى معزول لإدارة وتأمين التدفقات التجارية والطاقية والمالية الكبرى لـ (محور تعز وميناء المخا ذو العمق الطبيعي -25 متر، ومحور ومصفاة عدن الرقمي الأكبر). يهدف البروتوكول إلى القضاء تماماً على أي نقاط عمياء (Blind Spots) ومنع تزوير بيانات الشحن أو التلاعب بالكميات المستخرجة والمصدرة.
 
