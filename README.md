@@ -1842,7 +1842,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 
-#### 📍 خامسا : محور صعدة والجوف وحجة :
+#### 📍 ثامنا : محور صعدة والجوف وحجة :
 
 
 ### ⛏️ 1. قطاع التعدين الثقيل والمعادن العالمية الحرة (صعدة وحجة والجوف)
