@@ -645,6 +645,12 @@ Operational execution across maritime and logistical hubs mandates the structura
 
 ---
 
+<p align="center">
+  <img src="./ADEN_AXIS.png" alt="ADEN_AXIS" width="1254" height="1254"/>
+</p>
+
+---
+
 ### 🏗️ 1. Structural & Maritime Engineering Scale-Up for 70+ Million TEU (Mega Capacity Blueprint)
 
 To realistically anchor an annual throughput exceeding 70 Million TEU, the entire logistical topography of the Aden Axis is re-engineered from a regional hub into a consolidated, super-mega hyper-complex operating under the following parameters:
@@ -1352,6 +1358,11 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 
+<p align="center">
+  <img src="./ADEN_AXIS.png" alt="ADEN_AXIS" width="1254" height="1254"/>
+</p>
+
+---
 
 
 
