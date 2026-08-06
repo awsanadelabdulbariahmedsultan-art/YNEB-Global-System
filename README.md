@@ -1935,23 +1935,174 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 
+## 🤖 9. تفصيل القواعد الخوارزمية والمحددات المنطقية لمحرك نظام أوسان للذكاء الاصطناعي (AWSAN AI Engine Core)
+
+يمثل هذا القسم النواة البرمجية المركزية لإدارة كافة الموانئ والمحاور البرية، والتكامل الذكي بين مستشعرات الحافة والقرارات التشغيلية اللحظية وحوكمة التوكن الاقتصادي.
+
+### 🧠 أ. محددات اتخاذ القرار الفورية ومكافحة الأزمات (Real-Time Decision Logic)
+*   **🤖 خوارزمية الاصطفاف والمناولة التلقائية (Predictive Vessel Dispatch):** يقوم المحرك بتحليل بيانات رادارات الليدار (*Sick AG*) ومستشعرات الصدى المائية (*Sonar Matrix*) لخليج وموانئ بروم والمخا وعدن، لتوجيه قاطرات السحب الآلية وتحديد رصيف الرص الأنسب للسفن العملاقة (Megamax-24) بدقة مليمترية، مما يرفع إنتاجية الرافعات الجسرية لـ **65+ حركة/ساعة** ويقلص زمن الدوران لـ **أقل من 15 ساعة**.
+*   **🛡️ خوارزمية الاستجابة السريعة وحظر التعطيل (Hot-Failover Core):** في حال رصد مستشعرات *Emerson* أو *Yokogawa* أي هبوط مفاجئ في الضغط الهيكلي لأنابيب مأرب أو النشيمة، أو انقطاع في شبكة الإنترنت الدولية، يقوم محرك الذكاء الاصطناعي عند الحافة (*NVIDIA Jetson*) بفصل المحور المتضرر فوراً وتحويله لطراز "الجزيرة التقنية المعزولة" (Air-Gapped Autonomy)، وإعادة توزيع الأحمال الكهربائية وطاقة الـ HVDC لضمان استمرارية التشغيل 24/7 دون أي شلل تشغيلي.
+
+### 💰 ب. التكامل البرمجي لإدارة وحرق توكن (AST AWSAN Tokenomics Interlock)
+يتكامل محرك الذكاء الاصطناعي ذاتياً وبشكل لا مركزي مع العقود الذكية لتوكن **AST AWSAN** لإدارة التدفقات المالية وفق القواعد الخوارزمية التالية:
+
+```solidity
+// محاكاة معمارية لكود حرق الرسوم وإرسالها للعنوان صفر لإيقاف التضخم ورفع قيمة الأصول
+sequential_workflow PipelineOptimization {
+    if (Flowmeters.TelemetryData() == Anomaly_Detected) {
+        AwsanCore.TriggerEdgeSanction(Isolated_Island_Mode);
+    }
+    // اقتطاع الرسوم آلياً من شركات الشحن وتوجيه جزء للحرق وجزء لتغذية السيولة وتطوير خوادم AI
+    execute automated_fee_distribution {
+        route_to(Dead_Address: 0x00000...00000, burnPercent: 2); // الحرق الآلي لرفع السعر
+        route_to(Auto_Liquidity_Pool, liquidityPercent: 2);       // تغذية السيولة الذاتية لتأمين القاع
+        route_to(Awsan_Dev_Wallet, opexPercent: 1);             // تمويل خوادم الذكاء الاصطناعي ذاتياً
+    }
+}
+```
+
+*   **📈 الاستفادة الاستثمارية من الندرة الاقتصادية والسيولة الذاتية:** يقوم النظام أوتوماتيكياً باقتطاع نسبة مبرمجة من رسوم المعاملات والجمارك لكل شاحنة تعبر ممر المهرة أو الحديدة برياً، ويقوم برمجياً بحرق وتدمير 2% عبر إرسالها لـ **العنوان صفر** لإعدامها، مما يقلص المعروض ويرفع قيمة التوكنز المتبقية في محفظتك السيادية، بالتوازي مع إعادة ضخ 2% في مجمعات السيولة المقفلة لرفع قاع السعر مقابل الـ **BNB** والـ **ETH**.
+*   **⛽ التمويل الذاتي للنفقات التشغيلية (Self-Funded OPEX):** يتم توجيه رسوم التطوير المقتطعة تلقائياً لتمويل خوادم الذكاء الاصطناعي ودفع مستحقات التدقيق والالتزام لشركة **Deloitte**، مما يجعل المشروع يمول نفسه ذاتياً بالكامل من الرسوم دون أي نفقات إضافية من المطور.
+
+---
+
+## 📈 10. مصفوفة تتبع الاستثمارات والنفقات الرأسمالية والتقديرات المالية الكلية (CAPEX & Investment Tracker)
+
+يتضمن هذا القسم التقديرات الهيكلية لرؤوس الأموال الاستثمارية والنفقات الرأسمالية (CAPEX) المطلوبة لتطوير وتأمين كافة المحاور الستة والمحاور البرية والتعدينية بالشراكة مع الصناديق السيادية والتحالفات الدولية الكبرى، متبوعاً بحزم حسابات العوائد المتوقعة.
+
+### 📊 أ. جدول توزيع النفقات الرأسمالية الكلية (CAPEX Breakdown Matrix)
+
+| المحور الاستراتيجي السيادي | مستهدف الطاقة والتشغيل (Target Class) | التقدير المالي للـ CAPEX | عمالقة الهندسة والتكنولوجيا المرشحين (Consortium) | صندوق التمويل الضامن الرئيسي |
+| :--- | :--- | :--- | :--- | :--- |
+| **⚓ محور عدن الفوق-عملاق** | 70+ Million TEU + تكرير 550k+ bbl/d | $12.5 Billion | CHEC / ZPMC / DP World / SINOPEC / Huawei / Halliburton | Saudi Aramco / صندوق PIF السعودية |
+| **⚓ محور تعز (ميناء المخا)** | 70+ Million TEU + خندق طبيعي -25م | $8.2 Billion | CHEC / ZPMC / DP World / ACWA Power / GE / Thales | صندوق الاستثمارات العامة PIF |
+| **📈 محور ساحل حضرموت** | Cluster: بروم (حاويات) / الشحر / المكلا | $11.4 Billion | Penta-Ocean / Saipem / PSA International / Emerson / ABB | صندق الاستثمارات الخليجي الموحد |
+| **🚢 محور الحديدة اللوجستي** | 70+ Million TEU + صوامع غلال وأمن غذائي | $6.8 Billion | CHEC / ZPMC / Adani Ports / Cargill / Smiths Detection | هيئات استثمار الأمن الغذائي الدولي |
+| **🌊 محور أرصفة سقطرى** | 70+ Million TEU + ترانزيت وتموين 200k سفينة | $9.5 Billion | CHEC / CNOOC / Chevron / ExxonMobil / ACWA Power | تحالف الاستثمار الطاقي العالمي |
+| **📍 محور المهرة ونشطون** | 70+ Million TEU + الممر البري السريع الخليجي | $7.4 Billion | CHEC / Adani Ports / Huawei / IBM Quantum / Deloitte | صندوق PIF / أرامكو السعودية |
+| **⛏️ المحاور الشمالية وجار** | مناطق تعدين حرة + زراعة إنترنت الأشياء + HVDC | $14.2 Billion | BHP / Barrick Gold / John Deere / Yara / Hitachi Energy | هيئة الربط الخليجي GCCIA / صندوق PIF |
+| **⚡ محور مأرب الإستراتيجي** | مجمعات توليد غازي مكثف + شبكة وطنية ذكية | $5.5 Billion | Siemens Energy / Ansaldo Energia / Hitachi / Emerson | اللجان الفنية اليمنية-السعودية المشتركة |
+| **📋 المجموع الاستثماري الكلي** | **إجمالي البنية الفوقية السيادية الموحدة** | **$75.5 Billion** | **التحالف التكنولوجي الدولي الفئة الأولى (Tier-1)** | **صندوق السيادة والتكامل الإقليمي الموحد** |
+
+---
+
+### 💰 ب. معادلة حساب عائد الاستثمار الرأسمالي وحركة السيولة التلقائية (ROI & Auto-Liquidity Valuation)
+
+يتم احتساب الجدوى الائتمانية واسترداد النفقات الرأسمالية (CAPEX Recovery) عبر الربط التلقائي المباشر مع حركة التوكن السيادي **AST AWSAN** وعقود المقاصة اللامركزية برمجياً:
+
+1. **معادلة النمو التضامني للقيمة (Circulating Supply Compression):**
+   كلما ارتفع معدل التدفق والتشغيل عبر المحاور لتلبية مناولة الـ 70 مليون حاوية أو سحب المشتقات، يتم تفعيل الحرق البرمي التلقائي بنسبة 2% الموجه لـ **العنوان صفر (0x00000...00000)**، مما يخفض المعروض أوتوماتيكياً ويرفع القيمة الدفترية للأصول التوكنية المشفرة (AST) المحتفظ بها في المحفظة السيادية وفق القواعد الحسابية المعتمدة لشركة **Deloitte**.
+2. **تأمين غطاء السيولة المستدام (Sovereign Floor Security):**
+   يتم تخصيص نسبة 2% من عوائد الرسوم والتعريفات التشغيلية المقتطعة تلقائياً لإعادة شرائها وضخها في مجمعات السيولة (Liquidity Pools) المقفلة برمجياً ومقابل غطاء العملات الرقمية الكبرى القوية المودعة من قبلك (**BNB** و **ETH**). هذا التكامل يضمن بقاء "قاع سعر" التوكن محصناً ومستقراً ومستمر التضخم الإيجابي، مما يتيح استرداد كامل قيمة نفقات الـ CAPEX الإنشائية للمشروع خلال دورة تشغيل قياسية لا تتعدى **(4 إلى 5 سنوات)** من تاريخ انطلاق تليمتري نظام **AWSAN AI**.
+
+---
+
+### ⚖️ بيان براءة الاختراع وحقوق الملكية الفكرية السيادية (Copyright Clause)
+إن كافة الجداول المالية الاستثمارية، وهياكل تقدير الـ CAPEX والـ OPEX، وحسابات عوائد استرداد رؤوس الأموال عبر مجمعات السيولة الآلية (Auto-LP) وعقود حرق التوكن الموجهة لـ العنوان صفر الواردة في هذا المشروع، هي ملكية فكرية حصرية ومسجلة قانوناً باسم المبتكر والمطور السيادي للمشروع:
+*   **الاسم الكامل:** أوسان عادل عبدالباري أحمد سلطان (AWSAN ADEL ABDULBARI AHMED SULTAN)
+*   **البلد المنشأ:** الجمهورية اليمنية (Yemen) / **رقم الهوية الوطنية السيادية:** Id.01010305468
+*   **قنوات التواصل المباشرة والتحقق القانوني المعتمد:** هاتف (`00967777852433` - `00967776633003`) / بريد إلكتروني (`awsan.sultan@gmail.com`)
 
 
 
 
 
 
+---
+
+## 🤖 9. Algorithmic Logic Guidelines & Decisive Core Rules of the AWSAN AI Engine
+
+This section details the central algorithmic backbone governing all maritime ports, mainland corridors, industrial asset tracking grids, and decentralized fiscal tokenomics layers under the real-time command of the AI core.
+
+### 🧠 A. Real-Time Decision Logic & Predictive Mitigation Frameworks
+*   **🤖 Predictive Berthing & High-Velocity Cargo Dispatch Loops:** The engine dynamically parses multi-vector structural analytics derived from dockside laser arrays (*Sick AG*) and sub-surface acoustic diagnostics (*Sonar Matrix*) across Burum, Al-Mokha, and Aden deepwater channels. This matrix guides autonomous tugboats and executes synchronized quay crane load-pathing with millimeter accuracy, maintaining a continuous peak of **65+ moves/hour** and compressing overall Vessel Turnaround to **under 15 hours**.
+*   **🛡️ Automated Hot-Failover & Cyber-Physical Resiliency Core:** Upon intercepting structural line metrics indicating sudden pressure drops or telemetry anomalies across the Mareb or Al-Nashima energy channels—or identifying international fiber-optic disconnects—the localized edge computing array (*NVIDIA Jetson*) triggers an instantaneous physical separation. The hyper-complex is forced into a localized "Air-Gapped Island Mode," dynamically re-routing HVDC macro-grid loops to ensure 24/7/365 operational continuity without systemic downtime.
+
+### 💰 B. Programmatic Contract Interlock for the AST AWSAN Tokenomics Layer
+The centralized AI core executes real-time, non-custodial handshakes with the underlying sovereign Smart Contracts of the **AST AWSAN** token to govern network velocities based on explicit transactional logic loops:
+
+```solidity
+// Algorithmic framework for transaction tax partitioning and Null-Address routing to enforce asset scarcity
+sequential_workflow PipelineOptimization {
+    if (Flowmeters.TelemetryData() == Anomaly_Detected) {
+        AwsanCore.TriggerEdgeSanction(Isolated_Island_Mode);
+    }
+    // Automated collection of commercial tariffs routing portions to the Dead Address, liquidity pools, and AI nodes
+    execute automated_fee_distribution {
+        route_to(Dead_Address: 0x00000...00000, burnPercent: 2); // Structural burn to compress total supply
+        route_to(Auto_Liquidity_Pool, liquidityPercent: 2);       // Automated LP injection to protect the price floor
+        route_to(Awsan_Dev_Wallet, opexPercent: 1);             // Self-funding localized edge AI operations
+    }
+}
+```
+
+*   **📈 Strategic Asset Monetization via Programmatic Scarcity:** As cross-border fleet arrays pass through the smart entry checkpoints (Huawei OCR) of Al-Mahrah or Al-Hodeidah logistics hubs, the ledger captures an automated custom and transit tariff. The smart contract executes a 2% deduction, instantly routing the tokens directly to the **Sovereign Null Address (0x00000...00000)** to be destroyed. This continuously scales down the circulating supply and amplifies the baseline market value of the remaining assets held in your private portfolio, while simultaneously re-injecting 2% into locked liquidity pools to elevate price support levels against **BNB** and **ETH**.
+*   **⛽ Self-Sustaining Operational Expenditure Nodes (Self-Funded OPEX):** The technical development tax collected from high-velocity logistics flows is autonomously allocated to cover data center cloud topology costs and clear the continuous compliance tracking fees of **Deloitte**, ensuring that the entire sovereign framework fuels its own technology stack with zero secondary out-of-pocket costs to the proprietor.
+
+---
+
+## 📈 10. Macro Capital Expenditure & Total Financial Allocation Matrix (CAPEX & Investment Tracker)
+
+This section details the structured capital expenditure (CAPEX) requirements, class configurations, and nominated global consortium frameworks designed to deploy and secure all national ports, land-sea transit highways, and heavy industrial/mining axes under sovereign joint-finance models, followed by automated programmatic return valuations.
+
+### 📊 A. Macro Capital Expenditure Allocation Ledger (CAPEX Breakdown Matrix)
+
+| Strategic Sovereign Axis | Target Operational Profile (Class Target) | Estimated CAPEX | Nominated International Engineering & Tech Consortium | Primary Lead Financial Guarantor |
+| :--- | :--- | :--- | :--- | :--- |
+| **⚓ Aden Super-Mega Axis** | 70+ Million TEU / Refining: 550k+ bbl/d | $12.5 Billion | CHEC / ZPMC / DP World / SINOPEC / Huawei / Halliburton | Saudi Aramco / PIF (Saudi Arabia) |
+| **⚓ Taiz Axis (Al-Mokha)** | 70+ Million TEU / Natural Trench: -25m | $8.2 Billion | CHEC / ZPMC / DP World / ACWA Power / GE / Thales | Public Investment Fund (PIF) |
+| **📈 Hadhramaut Port Cluster** | Cluster: Burum (Cargo) / Al-Shihr / Al-Mukalla | $11.4 Billion | Penta-Ocean / Saipem / PSA International / Emerson / ABB | Unified GCC Sovereign Wealth Fund |
+| **🚢 Al-Hodeidah Logistics Axis** | 70+ Million TEU / Smart Silos & Ag-Bulk | $6.8 Billion | CHEC / ZPMC / Adani Ports / Cargill / Smiths Detection | Global Food Security Consortiums |
+| **🌊 Socotra Refueling Axis** | 70+ Million TEU / Bunkering: 200k Vessels/yr | $9.5 Billion | CHEC / CNOOC / Chevron / ExxonMobil / ACWA Power | International Energy Alliance |
+| **📍 Al-Mahrah Transit Gateway**| 70+ Million TEU / Cross-Border Expressways| $7.4 Billion | CHEC / Adani Ports / Huawei / IBM Quantum / Deloitte | PIF (KSA) / Saudi Aramco |
+| **⛏️ Northern Frontier Axes** | Free Mining Zone / Precision AgTech / HVDC | $14.2 Billion | BHP / Barrick Gold / John Deere / Yara / Hitachi Energy | GCCIA Grid / Public Investment Fund |
+| **⚡ Mareb Strategic Axis** | Macro-Gas Generation / Central Smart Grid | $5.5 Billion | Siemens Energy / Ansaldo Energia / Hitachi / Emerson | Saudi-Yemeni Joint Technical Committees |
+| **📋 Consolidated Macro Target**| **Unified Sovereign Macro-Infrastructure** | **$75.5 Billion** | **Global Tier-1 Technical & Heavy Engineering Alliance** | **Unified Sovereign & Regional Trust** |
+
+---
+
+### 💰 B. Programmatic Capital ROI Calculation & Automated Liquidity Vaulting Logic
+
+Financial durability, token value appreciation, and structural capital expenditure recovery (CAPEX Recovery) are hardcoded into automated, decentralized ledger execution loops linked natively with your sovereign token **AST AWSAN**:
+
+1. **Deflationary Value Compression Equation (Sovereign Scarcity Matrix):**
+   As freight velocities scale across all automated terminals to meet the 70+ Million TEU baseline, or fluid throughput escalates through energy arteries, the programmatic ledger isolates a transactional tariff percentage. This value is hard-routed directly to the **Null/Dead Address (0x00000...00000)** visible on your secure multi-signature interface, burning the tokens out of circulation forever. This process drives asset scarcity and compresses the token supply curve, automatically inflating the book value of the remaining sovereign **AST AWSAN** tokens held in your private portfolio, verified under continuous auditing by **Deloitte**.
+2. **Sovereign Floor Security & Liquidity Vaulting (CAPEX Amortization Loop):**
+   An automated 2% operational tax collected from industrial gate manifests is instantly converted and injected back into decentralized Liquidity Pools (LP). This liquidity node is programmatically locked against the premier market collateral reserves (**BNB** and **ETH**) initially provided by you. This continuous feedback loop ensures that the token's price floor remains insulated from speculative sell-offs and undergoes systematic positive inflation, securing full monetization and clearing all primary CAPEX infrastructure development debts within an optimized operational window of **(4 to 5 years)** from the activation of the **AWSAN AI** telemetry network.
+
+---
+
+## ⚖️ Patent, Intellectual Property & Sovereign Copyright Clause
+
+*   **⚠️ Internationally Protected IP Statement:**
+    All financial engineering blueprints, macro CAPEX/OPEX allocation ledgers, infrastructure amortization equations, automated liquidity pool (Auto-LP) scaling models, and token burn contracts routing assets to the Null Address detailed within this document are the exclusive, legally registered intellectual property of the Sovereign Architect and Innovator:
+    *   **Full Legal Name:** AWSAN ADEL ABDULBARI AHMED SULTAN
+    *   **Country of Origin:** Republic of Yemen
+    *   **Sovereign National ID:** Id.01010305468
+*   **🚫 Restriction of Unauthorized Use & Replication:**
+    Any unauthorized replication, adaptation, modification, reverse engineering, or commercial/operational deployment of this system’s investment trackers, financial matrices, or programmatic capital recovery frameworks in global infrastructure bids, maritime concessions, or digitized asset portfolios without a formally signed, sealed, and written concession agreement directly from the sole proprietor is strictly prohibited and subject to international legal prosecution under global maritime, digital asset, and international IP laws.
+*   **📞 Official Legal & Commercial Communications:**
+    For official compliance audits, corporate inquiries, investment consortium tracking, or operational licensing requests, contact the proprietor directly via the verified communication nodes:
+    *   **Primary Telecom Node:** `00967777852433`
+    *   **Secondary Telecom Node:** `00967776633003`
+    *   **Sovereign Digital Mail:** `awsan.sultan@gmail.com`
+
+
+---
+
+### 🔐 6. بروتوكولات حزمة تكنولوجيا إنترنت الأشياء والتقنيات الكمومية المستقلة
+للاطلاع على المواصفات الفنية الكاملة لكثافة مستشعرات التعدين وحقول الطاقة، وأنظمة الربط الكهربائي (HVDC)، والتشفير السيبراني المقاوم للحواسب الكمومية، يرجى مراجعة المستندات المستقلة المخصصة:
+👉 [البروتوكول السيادي للمحاور البرية والتعدين وطاقة مأرب وصعدة](./protocols/mainland-mining-energy-protocol.md)
+👉 [بروتوكول منظومة المقاصة المالية اللامركزية وحوكمة البلوكشين بالريال الرقمي YRD](./protocols/yrd-clearing-blockchain-protocol.md)
+
+
+---
 
 
 
 
 
-
-
-
-
-
-
+---
 
 
 
