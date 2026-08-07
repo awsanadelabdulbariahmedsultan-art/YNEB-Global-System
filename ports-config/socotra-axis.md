@@ -6,10 +6,12 @@
 *   **Geomorphic Infrastructure:** Deep-sea Floating Production Storage and Offloading (FPSO) units and massive Floating Platforms to protect the island's rare coral reef biodiversity (Zero Siltation, Zero Coastal Dredging OPEX).
 *   **Marine Depth Configuration:** Unrestricted deep ocean mooring access utilizing high-capacity sub-sea anchors and flexible hydrocarbon pipelines.
 
-### ⚙️ 2. Automated Superstructure Asset Allocation
-*   **Ship-to-Shore (STS) Quay Cranes:** 40 Units (Mounted on dynamic offshore floating structures, 65+ moves/hour peak via AWSAN AI control loops).
-*   **Automated Stacking Cranes (ASC):** 140 Units (High-density vertical automated container storage modules).
-*   **Autonomous Marine Tugboats:** 16 Units (Laser-guided, LiDAR-driven automated vessel alignment arrays operating 24/7/365).
+### ⚙️ 2. Automated Offshore Floating Superstructure Asset Allocation (Socotra Metrics)
+Heavy structures and floating platforms are deployed entirely in the deep open-ocean waters of the Indian Ocean to preserve the ecosystem and eliminate traditional coastal dredging constraints:
+*   **🌊 Offshore Floating Platforms & FPSO Interlocks:** Strategic deployment of **3 macro-scale floating offshore marine platforms operating simultaneously**, paired with 2 heavy Floating Production Storage and Offloading (**FPSO**) units, accepting deep-draft container fleets and VLCCs.
+*   **🏗️ Floating Ship-to-Shore (STS) Quay Cranes:** Allocation of **6 automated dynamic quay cranes operating in parallel per single platform** (totaling **18 Super Post-Panamax STS Units** across the 3 platforms), integrated with programmatic dynamic balancing stabilization loops to maintain **65+ moves/hour** under extreme wave actions.
+*   **🤖 Vertical Stacking Cranes & Autonomous Marine Tugboats:** Baseline deployment of **63 vertical high-density Automated Stacking Cranes (ASC)** integrated on platforms, interlocked with **12 crewless Autonomous Tugboats** running LiDAR-driven (*Sick AG*) acoustic vessel alignment arrays for minutes-quick ocean docking.
+
 
 ### 📡 3. Hyper-Dense Industrial IoT Matrix (750,000 active nodes)
 *   **Environmental Ocean Telemetry:** Sub-sea Eco-IoT marine sensors and sonar matrix arrays transmitting real-time ocean current and marine biomass metadata to safeguard floating terminal stability.
@@ -33,10 +35,11 @@
 *   **البنية التحتية الجيومكانية:** بناء أرصفة حاويات ووحدات إنتاج وتخزين وتفريغ عائمة عملاقة (Offshore FPSO) في عرض البحر لحماية التنوع البيئي النادر والشعب المرجانية للجزيرة (تأثير بيئي صفري، ونفقات تجريف دوري Zero Dredging OPEX).
 *   **تهيئة الأعماق البحرية:** ملاحة وحرية حركة مطلقة في أعماق المحيط السحيقة باستخدام أنظمة مرابط أوفشور عالية القدرة وأنابيب هيدروكربونية مرنة تحت الماء.
 
-### ⚙️ 2. توزيع الأصول الآلية للبنية الفوقية
-*   **رافعات الرصيف الجسرية (STS):** 40 وحدة (مثبتة فوق أرصفة عائمة ديناميكية، تعمل بمعدل مناولة خارق 65+ حركة/ساعة بتوجيه من خوارزميات AWSAN AI).
-*   **رافعات الساحة الآلية الرأسية (ASC):** 140 وحدة (مجمعات تخزين حاويات آلية عمودية فائقة الكثافة يدار برمجياً 100%).
-*   **قاطرات السحب والاصطفاف الآلي:** 16 وحدة (ذاتية القيادة، موجهة بالليزر والرادارات والرصد الموجي عالي الدقة تعمل على مدار الساعة 24/7/365).
+### ⚙️ 2. توزيع الأصول والمنصات والأساطيل العائمة أوفشور (Socotra Floating Asset Matrix)
+يتم بناء وتوزيع المعدات والمنصات بالكامل في عرض البحر المفتوح للمحيط الهندي دون أي تدخل بري أو تجريف ساحلي لحماية البيئة والشعب المرجانية:
+*   **🌊 منصات الأوفشور ووحدات الـ FPSO العائمة:** تشييد وتثبيت **3 منصات أوفشور عائمة عملاقة بالتزامن**، مع دمج وحدتين إنتاج وتخزين وتفريغ عائمة (**FPSO**) ووحدات مكامن التموين، مجهزة لاستقبال متزامن لأضخم ناقلات الحاويات والـ VLCC.
+*   **🏗️ رافعات الرصيف الجسرية العائمة (Floating Ship-to-Shore - STS):** تركيب **6 رافعات جسرية عملاقة تعمل بالتوازي لكل منصة عائمة** (بإجمالي **18 رافعة STS** فئة Super Post-Panamax للمنصات الـ 3). مجهزة بأنظمة توازن تليمتيرية ودقة حركة تعادل قراءات الأمواج لرفع معدل المناولة لـ **65+ حركة/ساعة** لكل رافعة وتصفير اهتزاز الحاويات (Anti-Sway).
+*   **🤖 رافعات الساحة المعلقة والآليات الليدارية (ASC & Autonomous Tugboats):** تشغيل **63 رافعة ساحة آلية عمودية (ASC)** فائقة الكثافة مدمجة بالمنصات، بالتكامل مع **12 قاطرة سحب آلية ذاتية القيادة (Autonomous Tugboats)** موجهة بالليزر والليدار (*Sick AG*) للاصطفاف الذاتي المؤتمت للسفن العملاقة في عرض المحيط خلال دقائق.
 
 ### 📡 3. مصفوفة مستشعرات الكثافة الفائقة لإنترنت الأشياء (750,000 مستشعر نشط)
 *   **تليمتري المحيط والبيئة البحرية:** مستشعرات إنترنت أشياء بيئية بحرية (Eco-IoT) ومستشعرات صدى صوتية (Sonar Matrix) تحت الماء لبث بيانات التيارات البحرية وتضاريس قاع المحيط لحظياً لضمان استقرار المنصات العائمة.
