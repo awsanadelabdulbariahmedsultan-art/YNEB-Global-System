@@ -14,6 +14,11 @@ Mechanical and electrical grid infrastructure profiles are deployed to drive ext
 *   **🔌 Digitized Distribution Substations & Automated Transformers (Smart Grid Matrix):** Construction of 4 primary digitized high-voltage substations by Hitachi Energy, provisioning 32 automated software-actuated distribution transformers responding natively to AWSAN AI algorithmic load-balancing overrides via high-speed telemetry interlocks.
 
 ---
+### 🧪 5. بروتوكول تسييل وتحويل الغاز صافر إلى سوائل نفطية فاخرة (The Qatar GTL Model)
+لحوكمة وأتمتة عمليات تحويل فائض الغاز إلى ديزل أخضر وكيروسين طائرات وتسييله كرايوجينياً، تم دمج وتطوير البروتوكول الفني والشركات المنفذة (QatarEnergy & Shell) في مستند مستقل مخصص:
+👉 [اضغط هنا للاطلاع على بروتوكول التسييل وتحويل الغاز السيادي GTL/LNG](./protocols/safer-gtl-lng-liquefaction-protocol.md)
+
+---
 
 ### 📡 III. Core Governance Software Interlock & Hyper-Dense IoT Telemetry Matrix (Safer Fields)
 
