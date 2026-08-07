@@ -1807,6 +1807,9 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ## 📈 سابعا : محور حضرموت (ميناء الضبة وموانئ التوسع الصناعي) - عاصمة الغاز المسال والتكرير
 
 
+<p align="center">
+  <img src="./Hadhramaut_Port_Cluster.png" alt="Hadhramaut_Port_Cluster" width="1254" height="1254"/>
+</p>
 
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية لمنظومة موانئ حضرموت المتشابكة (مستهدف 70+ مليون حاوية)
