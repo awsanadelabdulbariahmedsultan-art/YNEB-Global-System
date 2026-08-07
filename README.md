@@ -1369,6 +1369,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 
+<p align="center">
+  <img src="./Aden_Port_Super.png" alt="Aden_Port_Super" width="1254" height="1254"/>
+</p>
+
+---
+
 ### 🏗️ 1. التوسعة الهيكلية والهندسية لمستهدف 70+ مليون حاوية مكافئة (Mega Scale-Up)
 
 
