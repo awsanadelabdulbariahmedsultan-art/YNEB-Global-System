@@ -1365,7 +1365,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 
-#### ⚓ أولاً: محور عدن (ميناء ومصفاة عدن) 
+## ⚓ أولاً: محور عدن (ميناء ومصفاة عدن) 
 
 
 
@@ -1465,7 +1465,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
-#### ⚓ ثانياً: محور تعز (ميناء المخا) - بوابة الترانزيت الجيواستراتيجية والطاقة المتجددة
+## ⚓ ثانياً: محور تعز (ميناء المخا) - بوابة الترانزيت الجيواستراتيجية والطاقة المتجددة
 
 
 <p align="center">
@@ -1542,7 +1542,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
-#### 🌊 ثالثا: محور سقطرى - بوابة المحيط ومركز الترانزيت العالمي لتموين السفن
+## 🌊 ثالثا: محور سقطرى - بوابة المحيط ومركز الترانزيت العالمي لتموين السفن
 
 
 
@@ -1611,7 +1611,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
-#### 🚢 رابعاً: محور الحديدة - ممر الشحن اللوجستي والأمن الغذائي الذكي في البحر الأحمر
+## 🚢 رابعاً: محور الحديدة - ممر الشحن اللوجستي والأمن الغذائي الذكي في البحر الأحمر
 
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية المستدامة لمستهدف 70+ مليون حاوية (طراز الحديدة الفوق-عملاق)
@@ -1666,7 +1666,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
-#### 📍 خامسا : محور المهرة (ميناء نشطون) - البوابة الشرقية وممر الترانزيت البري الخليجي
+## 📍 خامسا : محور المهرة (ميناء نشطون) - البوابة الشرقية وممر الترانزيت البري الخليجي
 
 
 
@@ -1731,7 +1731,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 
-#### ⚓ سادسا : محور شبوه (ميناء النشيمه و ميناء قنا) 
+## ⚓ سادسا : محور شبوه (ميناء النشيمه و ميناء قنا) 
 
 
 
@@ -1793,7 +1793,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 
-#### 📈 سابعا : محور حضرموت (ميناء الضبة وموانئ التوسع الصناعي) - عاصمة الغاز المسال والتكرير
+## 📈 سابعا : محور حضرموت (ميناء الضبة وموانئ التوسع الصناعي) - عاصمة الغاز المسال والتكرير
 
 
 
@@ -1848,7 +1848,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 
-#### 📍 ثامنا : محور صعدة والجوف وحجة :
+## 📍 ثامنا : محور صعدة والجوف وحجة :
 
 
 ### ⛏️ 1. قطاع التعدين الثقيل والمعادن العالمية الحرة (صعدة وحجة والجوف)
@@ -1897,7 +1897,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 
-#### 📈 تاسعا : محور مأرب :
+## 📈 تاسعا : محور مأرب :
 
 ### ⚡ 1. البنية التحتية الهيكلية والتوليد الغازي الفائق لمحور مأرب (طراز استقرار الطاقة)
 
