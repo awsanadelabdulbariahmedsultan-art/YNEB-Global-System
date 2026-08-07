@@ -6,10 +6,11 @@
 *   **Target Generation Capacity:** Hyper-scale gas-fired electrical output covering all national regional grid frameworks.
 *   **Grid Stability Matrix:** Centralized load-balancing network deploying digital automated transformers to completely eliminate blackout risks.
 
-### ⚙️ 2. Automated Industrial Asset Allocation
-*   **Gas Generation Turbines:** High-efficiency heavy-duty gas turbine units integrated with secondary Combined-Cycle Gas Systems (CCGT).
-*   **Distribution Substations:** Digitized step-up transformation loops mmapped via localized algorithmic overrides by AWSAN AI.
-*   **Industrial Automation Modules:** Software-actuated valve-control arrays governing fluid distribution at upstream field blocks.
+### ⚙️ 2. Automated Energy Superstructure Asset Allocation & Substation Grids (Mareb Metrics)
+Mechanical and electrical grid infrastructure profiles are deployed to drive extreme thermal efficiency and isolate grid cascading frequency anomalies automatically:
+*   **🔥 Next-Gen Gas Turbines & Combined-Cycle (CCGT) Infrastructures:** Installation and modernization of **6 high-efficiency heavy-duty gas turbine units by Siemens Energy**, structurally paired with **3 integrated Combined-Cycle Gas waste-heat systems (CCGT) by Ansaldo Energia** to capture exhaust thermal flows and inject clear megawattage with zero incremental fuel burn.
+*   **🔌 Digitized Distribution Substations & Automated Transformers (Smart Grid Matrix):** Construction of **4 primary digitized high-voltage substations by Hitachi Energy**, provisioning **32 automated software-actuated distribution transformers** responding natively to AWSAN AI algorithmic load-balancing overrides.
+*   **🛢️ Automated Valve-Control Telemetry Infrastructure (Safer Fields):** Strategic deployment of **48 software-actuated automated hydraulic valves and digitized flow regulators** across the Safer field boundaries, integrated into Emerson fluid control software loops.
 
 ### 📡 3. Hyper-Dense Industrial IoT Matrix (750,000 active nodes)
 *   **Upstream Flow Control Telemetry:** Heavy-duty ultrasonic flowmeters, thermal pressure transmitters, and acoustic leakage sensors tracking Safer oilfield pipeline vectors every 25 meters.
@@ -34,10 +35,11 @@
 *   **الطاقة الإنتاجية والتوزيعية المستهدفة:** رفع طاقة التوليد الإجمالية لمحطة مأرب الغازية لتغطية كامل خارطة الشبكة الوطنية عبر النظم المؤتمتة بالكامل.
 *   **مصفوفة استقرار الشبكة (Smart Grid Matrix):** بناء ممرات طاقة رقمية مجهزة بمحولات توزيع آلية يتم إدارتها خوارزمياً لإعادة توزيع الأحمال أوتوماتيكياً وتصفير مخاطر انقطاع التيار (Blackouts).
 
-### ⚙️ 2. توزيع الأصول والآليات الصناعية المؤتمتة بالكامل
-*   **توربينات الغاز من الجيل الأحدث:** توربينات توليد غازي عملاقة مكاملة بأنظمة الدورة المركبة (CCGT) لتدوير الطاقة الحرارية المهدورة وتوليد كهرباء إضافية بدون استهلاك وقود إضافي.
-*   **محطات التحويل الرقمية الفائقة:** خطوط نقل ومحطات تحويل ومحولات يتم التحكم بها برمجياً وعبر أوامر تجاوز فورية من محرك الذكاء الاصطناعي أوسان.
-*   **منظومة التحكم التليمتري بحقول صافر:** صمامات تحكم ومحابس هيدروليكية مؤتمتة مبرمجة بالكامل لإدارة توجيه وضخ الغاز والوقود المحلي.
+### ⚙️ 2. توزيع الأصول والتوربينات الغازية ومحطات الشبكة الذكية (Mareb Energy Asset Matrix)
+يتم هيكلة الأصول الميكانيكية والكهربائية لضمان الكفاءة الحرارية القصوى وحماية الشبكة الوطنية من الـ Blackouts أوتوماتيكياً:
+*   **🔥 توربينات الغاز ومجمعات الدورة المركبة (CCGT Heavy Turbines):** تركيب وتحديث **6 توربينات غاز عملاقة وفائقة الكفاءة من الجيل الأحدث لـ Siemens Energy**، مكاملة هندسياً مع **3 أنظمة دورة مركبة (Combined-Cycle) لـ Ansaldo Energia** لتدوير الطاقة الحرارية العادمة وتوليد كهرباء إضافية مكثفة بدون استهلاك وقود أحفوري إضافي.
+*   **🔌 محطات التحويل وتوزيع الشبكة الذكية (Smart Sub-stations Matrix):** بناء **4 محطات تحويل توزيع رقمية رئيسية** لـ *Hitachi Energy*، مجهزة بـ **32 محول تيار مؤتمت مبرمج برمجياً**، تعمل بالاتصال التليمتري اللحظي المعزول لإعادة توزيع الأحمال الكهربائية أوتوماتيكياً عبر أوامر محرك أوسان.
+*   **🛢️ صمامات ومحابس التحكم التليمتري بحقول صافر:** تشغيل **48 صمام تحكم هيدروليكي مؤتمت ومحابس إلكترونية مكاملة برمجياً** بأنظمة Emerson لرصد معدلات ضغط وضخ الغاز والنفط ومنع الاختناقات التشغيلية.
 
 ### 📡 3. مصفوفة مستشعرات الكثافة الفائقة لإنترنت الأشياء (750,000 مستشعر نشط)
 *   **تليمتري مكامن الغاز والأنابيب وحظر التلاعب:** مستشعرات تدفق فوق صوتية (Ultrasonic Flow-meters) ومستشعرات ضغط نانوية حرارية واهتزازات صوتية ممتدة كل 25 متراً على طول أنابيب النفط والغاز التابعة لحقول صافر ومحطات الغاز لكشف أي تسريب أو محاولات سحب غير مشروعة فوراً.
