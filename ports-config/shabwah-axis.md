@@ -6,10 +6,11 @@
 *   **Wave Mitigation Infrastructure:** Dynamic concrete breakwater matrices engineered across the open Arabian Sea coastline to secure a highly stabilized harbor basin.
 *   **Dredging Structural Depth:** Continuous, tide-independent deep draft of -24.5 meters.
 
-### ⚙️ 2. Automated Superstructure Asset Allocation
-*   **Ship-to-Shore (STS) Quay Cranes:** 40 Units (Equipped with high-velocity twin-lift hoist arrays, outreach 26 rows).
-*   **Automated Stacking Cranes (ASC):** 140 Units (Enforcing absolute physical and logistical isolation between container traffic and fluid hydrocarbon lines).
-*   **Automated Guided Vehicles (AGV):** 200 Units (Laser-guided, automated terminal vehicle loops).
+### ⚙️ 2. Automated Superstructure Asset Allocation & Hydrocarbon Logistics Separation (Shabwah Metrics)
+Machinery infrastructure layouts are deployed to absorb open Arabian Sea wave actions and enforce absolute programmatic isolation between general freight blocks and liquid energy loops:
+*   **🌊 Dynamic Breakwaters & Dedicated Multi-Mission Berths:** Structural installation of concrete dynamic breakwater matrices (Jan De Nul/Van Oord) to secure a stabilized basin, housing **3 ultra-large container berths operating in parallel at a -24.5m draft**, alongside **2 independent isolated liquid berths for crude and spot LNG**.
+*   **🏗️ Ship-to-Shore Quay Cranes & ASC Yard Infrastructures:** Allocation of **8 automated super quay cranes operating in parallel per single vessel** (totaling **24 Super Post-Panamax STS Units** across the 3 container berths) at **65+ moves/hour**, interlocked with **84 Automated Stacking Cranes (ASC)** for high-density slot shuffling.
+*   **🛸 Autonomous Guided Vehicles (AGV Fleet Assets):** Provisioning of **120 laser-guided Autonomous Guided Vehicles (AGVs)** communicating over Nokia Enterprise Private 5G networks to transfer containers instantly under zero-latency platooning grids.
 
 ### 📡 3. Hyper-Dense Industrial IoT Matrix (750,000 active nodes)
 *   **Petrochemical Fluid Telemetry:** Heavy-duty optical laser flowmeters, acoustic vibration sensors, and nanoscale pressure transmitters installed every 25 meters along pipeline corridors from upstream fields to Al-Nashima and Balhaf.
@@ -36,10 +37,11 @@
 *   **البنية التحتية لحماية الأرصفة:** بناء منظومة كواسر أمواج إسمنتية مسلحة ممتدة (Dynamic Breakwater Matrices) لامتصاص طاقة الأمواج المكشوفة لبحر العرب وتأمين قنوات ملاحية وحياض دوران هادئة ومستدامة.
 *   **عمق القنوات الملاحية:** غاطس ثابت وعميق يتراوح بين (-22.5 متر إلى -24.5 متر) لاستيعاب متزامن لأضخم السفن والناقلات العملاقة (ULCV و VLCC).
 
-### ⚙️ 2. توزيع الأصول الآلية للبنية الفوقية
-*   **رافعات الرصيف الجسرية (STS):** 40 وحدة (مجهزة بأنظمة رافوعات آلية مزدوجة خارقة السرعة ومحصنة برمجياً من الـ Anti-Sway لرفع معدل المناولة لـ 65+ حركة/ساعة).
-*   **رافعات الساحة الآلية الرأسية (ASC):** 140 وحدة (تدار برمجياً بالكامل لفرض العزل الفيزيائي واللوجستي التام والمحمي بين تدفق الحاويات التجارية وخطوط إمداد المشتقات الطاقية السائلة).
-*   **الناقلات الأرضية الآلية (AGV):** 200 وحدة (شاحنات ساحة ذاتية القيادة موجهة بالليزر والمجالات المغناطيسية بزمن تأخير صفري).
+### ⚙️ 2. توزيع الأصول الآلية وكواسر الأمواج وفصل المسارات اللوجستية (Shabwah Asset Matrix)
+يتم تصميم مصفوفة الأصول الهندسية لامتصاص طاقة أمواج بحر العرب المفتوحة وفرض عزل فيزيائي برمي تام بين الحاويات التجارية والصب الطاقي السائل:
+*   **🌊 كواسر الأمواج والأرصفة التخصصية (Dynamic Breakwaters & Berths):** بناء منظومة كواسر أمواج إسمنتية مسلحة ممتدة (Jan De Nul/Van Oord) لتأمين حوض مائي هادئ، يضم **3 أرصفة حاويات عملاقة بالتزامن غاطس -24.5 متر**، بالتوازي المعزول مع **رصيفين مخصصين لشحن النفط والغاز المسال (LNG)**.
+*   **🏗️ رافعات الرصيف الجسرية والساحات (STS & ASC Fleet):** تركيب **8 رافعات جسرية عملاقة تعمل بالتوازي لكل سفينة** حاويات (بإجمالي **24 رافعة STS** فئة Super Post-Panamax للـ 3 أرصفة) بمعدل مناولة **65+ حركة/ساعة**، مكاملة برمجياً بـ **84 رافعة ساحة آلية (ASC)** لفرض الرص والتفكيك اللوجستي الآلي فوري السرعة.
+*   **🛸 شاحنات الساحة والناقلات الأرضية الآلية (AGV Fleet):** تخصيص **120 ناقلة أرضية آلية ذاتية القيادة موجهة بالليزر (AGV)** موصلة بشبكات الجيل الخامس الخاصة لـ Nokia لضمان نقل البضائع من الأرصفة للساحات بزمن تأخير صفري بنظام الـ Platooning.
 
 ### 📡 3. مصفوفة مستشعرات الكثافة الفائقة لإنترنت الأشياء (750,000 مستشعر نشط)
 *   **تليمتري التدفق الهيدروكربوني وحظر الفساد:** مستشعرات تدفق ليزرية حرارية (Optical Flow-meters) ومستشعرات ضغط واهتزازات صوتية ممتدة كل 25 متراً على طول أنابيب النفط والغاز الممتدة من الحقول إلى النشيمة وبلحاف لحظر التلاعب بالكميات المصدّرة.
