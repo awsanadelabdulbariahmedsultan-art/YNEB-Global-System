@@ -6,10 +6,11 @@
 *   **Target Mineral Output:** Full-scale extraction, auditing, and refining loops for gold, copper, zinc, and industrial granite.
 *   **Target Agricultural Output:** Automated grain and livestock reserves utilizing nanoscale circular-drip irrigation.
 
-### ⚙️ 2. Automated Industrial Asset Allocation
-*   **Autonomous Mining Equipment:** Crewless heavy drilling rigs, smart robotic excavators, and driverless stone haulers.
-*   **Autonomous Agricultural Fleet:** Satellite-guided (GNSS) driverless heavy tractors and smart harvesters interlocked with local maps.
-*   **Power Substation Grid:** High-Voltage Direct Current (HVDC) converter substations and digitized transformers linking directly into the GCCIA.
+### ⚙️ 2. Automated Industrial Asset Allocation & High-Voltage Interconnection (Northern Frontier Metrics)
+Heavy industrial machinery, automated agricultural assets, and macro-grid substations are deployed under explicit programmatic parameters across mining and crop basins:
+*   **⛏️ Autonomous Heavy Mining Fleets Infrastructure:** Allocation and engineering deployment of **45 hyper-scale automated robotic excavators and mining drills**, interlocked via live telemetry with **120 driverless heavy-duty rock haulers guided by AI systems** from *Komatsu* and *Caterpillar* across Saada and Hajjah precious metal mines.
+*   **🚜 Autonomous AgTech Fleet & Intelligent Center-Pivot Irrigation:** Deployment of **160 satellite-guided (GNSS) driverless heavy tractors** by *John Deere*, synchronized with **80 automated smart harvesters**, and software-actuated center-pivot drip arrays connected to the *Yara International* crop telemetry core across Al-Jawf.
+*   **🔌 High-Voltage Direct Current (HVDC) Substation Grids:** Construction of **2 primary digitized HVDC converter stations** by *Hitachi Energy* and *Siemens Energy*, deploying **24 digitized automated distribution transformers** to govern cross-border power balancing with the GCCIA with zero transmission losses.
 
 ### 📡 3. Hyper-Dense Industrial IoT Matrix (850,000 active nodes)
 *   **Subterranean Geotechnical Telemetry:** Acoustic vibration sensors and laser displacement arrays inside gold and copper mines to monitor structural integrity, with active RFID and GNSS satellite tracking tags on bullion shipments.
@@ -35,10 +36,11 @@
 *   **المستهدف التعديني:** أتمتة وحوكمة مكامن استخراج وتكرير الذهب، النحاس، الزنك، والجرانيت، وحظر التلاعب ببيانات الشحن والمكتشفات الجيولوجية.
 *   **المستهدف الزراعي والأمن الغذائي:** تحويل حوض ومساحات الجوف إلى سلة الغذاء الرقمية الموجهة بالذكاء الاصطناعي لتأمين الاكتفاء الذاتي ومنع فواقد الإنتاج.
 
-### ⚙️ 2. توزيع الأصول والآليات الصناعية المؤتمتة بالكامل
-*   **أساطيل ومعدات التعدين الذكية:** حافرات آلية، شاحنات نقل صخور ذاتية القيادة بالكامل وموجهة بالذكاء الاصطناعي لحماية الأرواح ورفع مستويات الإنتاج.
-*   **أساطيل ومركبات الزراعة الرقمية:** جرارات زراعية ذاتية القيادة وموجهة بالأقمار الصناعية (GNSS) وآليات حصاد ذكية مكاملة برمجياً بخرائط الساحات الحقلية.
-*   **شبكة وممرات نقل الطاقة:** محطات تحويل تيار مستمر عالي الجهد (HVDC) ومحولات توزيع رقمية لربط المحاور مباشرة بـ هيئة الربط الخليجي.
+### ⚙️ 2. توزيع الأصول والآليات ومحطات التحويل فائقة الجهد (Northern Frontier Asset Matrix)
+يتم أتمتة وتوزيع الأصول والمعدات الثقيلة في حقول التعدين ومساحات الزراعة الذكية وممرات الطاقة وفق المحددات الهندسية الصارمة التالية:
+*   **⛏️ أساطيل التعدين الثقيل ذاتية القيادة (Autonomous Mining Fleet):** تخصيص وتوريد **45 حافرة آلية عملاقة ومؤتمتة**، بالتكامل التليمتري مع **120 شاحنة نقل صخور ثقيلة ذاتية القيادة بالكامل وموجّهة بالذكاء الاصطناعي** من شركتي *Komatsu* و *Caterpillar* لإدارة خطوط استخراج الذهب والنحاس والزنك بصعدة وحجة.
+*   **🚜 أساطيل ومركبات الزراعة الرقمية والري المحوري (Autonomous AgTech Fleet):** تشغيل **160 جراراً زراعياً ذاتي القيادة وموجهاً بالأقمار الصناعية (GNSS)** من *John Deere*، مكاملة بـ **80 آلة حصاد ذكية**، وأنظمة ري محوري وتنقيط أوتوماتيكية مبرمجة لربط مساحات إنتاج حوض الجوف الزراعي بنظام التغذية الرقمية لـ *Yara International*.
+*   **🔌 محطات التحويل وممرات الربط الكهربائي فائق الجهد (HVDC Sub-stations):** بناء وتدشين **محطتي تحويل رقميتين رئيستين للتيار المستمر عالي الجهد (HVDC)** لـ *Hitachi Energy* و *Siemens Energy*، مجهزتين بـ **24 محول توزيع ذكي مبرمج** لإدارة خطوط التبادل الطاقي والربط اللحظي بـ هيئة الربط الخليجي (GCCIA) بنسبة صفر فواقد كهربائية.
 
 ### 📡 3. مصفوفة مستشعرات الكثافة الفائقة لإنترنت الأشياء (850,000 مستشعر نشط)
 *   **تليمتري التعدين وتتبع الشحنات المشفرة:** مستشعرات اهتزازات ليزرية ومستشعرات ضغط داخل المناجم لمراقبة السلامة الهيكلية، مع دمج مستشعرات تتبع عبر الأقمار الصناعية (Active RFID & GNSS) في حاويات نقل السبائك والمواد الخام لمنع أي سرقة أو تلاعب دولي.
