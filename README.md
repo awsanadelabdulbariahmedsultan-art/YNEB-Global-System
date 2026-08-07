@@ -1468,6 +1468,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 #### ⚓ ثانياً: محور تعز (ميناء المخا) - بوابة الترانزيت الجيواستراتيجية والطاقة المتجددة
 
 
+<p align="center">
+  <img src="./Almakha_Super_Mega_Port.png" alt="Almakha_Super_Mega_Port" width="1254" height="1254"/>
+</p>
+
+---
+
 
 ### 🏗️ 1. الاستغلال الهيدروغرافي والبنية الفوقية لمستهدف 70+ مليون حاوية مكافئة (طراز المخا الفوق-عملاق)
 
