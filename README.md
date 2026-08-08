@@ -1943,7 +1943,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Burum_Mega_Port.png" alt="Burum_Mega_Port" width="1254" height="1254"/>
 </p>
 
 ---
@@ -1962,12 +1962,20 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Hadhramaut_Burum_Port.png" alt="Hadhramaut_Burum_Port" width="1254" height="1254"/>
 </p>
 
 ---
 
 ### ⚡ 3. معالجة الحافة، التشفير الكمومي لحماية التدفقات الممتدة، والشبكة الطاقية المستقلة
+
+---
+
+<p align="center">
+  <img src="./Hadhramaut_Port_Cluster.png" alt="Hadhramaut_Port_Cluster" width="1254" height="1254"/>
+</p>
+
+---
 
 لحماية البنية التحتية لمنظومة الموانئ من الشلل التشغيلي في حالات الحروب السيبرانية، وتأمين تدفقات المقاصة والتوكين والامتثال الدولي، يتم فرض القواعد الأمنية التالية:
 
