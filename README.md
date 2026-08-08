@@ -1409,7 +1409,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 <p align="center">
-  <img src="./Aden_Super-Mega_Port.png" alt="Aden_Super-Mega_Port" width="1254" height="1254"/>
+  <img src="./Aden_Super-Mega_Port3.png" alt="Aden_Super-Mega_Port3" width="1254" height="1254"/>
 </p>
 
 ---
@@ -1432,6 +1432,11 @@ Sustaining the immense operational demand of a global super-mega port dictates h
     *   *المستهدف الأمني والمالي:* دمج طبقة تشفير لا مركزية مقاومة للحواسب الكمومية (Post-Quantum Cryptography) لحماية شبكة البلوكشين الحاكمة للميناء. يضمن هذا التشفير حماية بوالص الشحن الإلكترونية (eBL) من التزوير، وتأمين التدفقات النقدية الفورية لـ **منظومة الريال الرقمي (YRD)**، وحماية منصة توكين الأصول (AST) التي تدير أصولاً بمليارات الدولارات.
     *   *الشركات المرشحة:* شركة **IBM Quantum (الولايات المتحدة)** بالتكامل مع مكاتب الأمن السيبراني لشركة **Deloitte**.
 
+      
+
+<p align="center">
+  <img src="./Aden_super_mega_port2.png" alt="Aden_super_mega_port2" width="1254" height="1254"/>
+</p>
 
 
 *   **🌐 البنية التحتية لإنترنت الأشياء وشبكات الجيل الخامس السيادية:**
