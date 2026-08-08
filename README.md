@@ -1595,11 +1595,19 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 ## 🌊 ثالثا: محور سقطرى - بوابة المحيط ومركز الترانزيت العالمي لتموين السفن
+---
+
+<p align="center">
+  <img src="./8_ultra-large_container_berths_operating.png" alt="8_ultra-large_container_berths_operating" width="1254" height="1254"/>
+</p>
+
+
+---
 
 <p align="center">
   <img src="./Socotra_Super-Mega.png" alt="Socotra_Super-Mega" width="1254" height="1254"/>
 </p>
-
+---
 
 ### 🏗️ 1. الاستغلال الهيدروغرافي والبنية الفوقية لمستهدف 70+ مليون حاوية مكافئة (طراز سقطرى الفوق-عملاق وعالي العمق)
 
@@ -1684,6 +1692,15 @@ Sustaining the immense operational demand of a global super-mega port dictates h
   <img src="./Al-Hodeidah_Red_Sea_Shipping_Corridor&Smart_Food_S.png" alt="Al-Hodeidah_Red_Sea_Shipping_Corridor&Smart_Food_S" width="1254" height="1254"/>
 </p>
 
+--
+
+<p align="center">
+  <img src="./8_ultra-large_container_berth_operating.png" alt="8_ultra-large_container_berth_operating" width="1254" height="1254"/>
+</p>
+
+
+---
+
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية المستدامة لمستهدف 70+ مليون حاوية (طراز الحديدة الفوق-عملاق)
 
@@ -1751,6 +1768,13 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ## 📍 خامسا : محور المهرة (ميناء نشطون) - البوابة الشرقية وممر الترانزيت البري الخليجي
 
+---
+
+<p align="center">
+  <img src="./Nishtun_Port.png" alt="Nishtun_Port" width="1254" height="1254"/>
+</p>
+---
+
 <p align="center">
   <img src="./Almahra_Sea_Land_Transite_corridor.png" alt="Almahra_Sea_Land_Transite_corridor" width="1254" height="1254"/>
 </p>
@@ -1760,6 +1784,8 @@ Sustaining the immense operational demand of a global super-mega port dictates h
   <img src="./platooning.png" alt="platooning" width="1254" height="1254"/>
 </p>
 ---
+
+
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية المستدامة لمستهدف 70+ مليون حاوية (طراز المهرة الفوق-عملاق)
 
@@ -1865,7 +1891,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Nishtun_Port.png" alt="Nishtun_Port" width="1254" height="1254"/>
+  <img src="./8_ultra-large_container_berthss_operating.png" alt="8_ultra-large_container_berthss_operating" width="1254" height="1254"/>
 </p>
 
 ---
