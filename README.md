@@ -1597,7 +1597,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ## 🌊 ثالثا: محور سقطرى - بوابة المحيط ومركز الترانزيت العالمي لتموين السفن
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Socotra_Super-Mega.png" alt="Socotra_Super-Mega" width="1254" height="1254"/>
 </p>
 
 
@@ -1621,7 +1621,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Socatra.png" alt="Socatra" width="1254" height="1254"/>
 </p>
 
 ---
@@ -1652,7 +1652,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Socatra_Axes.png" alt="Socatra_Axes" width="1254" height="1254"/>
 </p>
 
 ---
@@ -1683,6 +1683,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 <p align="center">
   <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
 </p>
+
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية المستدامة لمستهدف 70+ مليون حاوية (طراز الحديدة الفوق-عملاق)
 
