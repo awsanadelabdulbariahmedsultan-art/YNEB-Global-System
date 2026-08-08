@@ -2088,8 +2088,17 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ## 📈 تاسعا : محور مأرب :
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Mareb Strategic Energy Stability&Smart Grid Hub.png" alt="Mareb Strategic Energy Stability&Smart Grid Hub" width="1254" height="1254"/>
 </p>
+
+---
+
+
+<p align="center">
+  <img src="./Marib2.png" alt="Marib2" width="1254" height="1254"/>
+</p>
+
+---
 
 
 ### ⚡ 1. البنية التحتية الهيكلية والتوليد الغازي الفائق لمحور مأرب (طراز استقرار الطاقة)
@@ -2107,7 +2116,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Mareb_Strategic_Energy_Stability.png" alt="Mareb_Strategic_Energy_Stability" width="1254" height="1254"/>
 </p>
 
 ---
@@ -2129,7 +2138,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Marib.png" alt="Marib" width="1254" height="1254"/>
 </p>
 
 ---
