@@ -1522,7 +1522,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./AlMokha_Super-Mega_Port.png" alt="AlMokha_Super-Mega_Port" width="1254" height="1254"/>
 </p>
 
 ---
@@ -1540,6 +1540,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 *   **🔐 التشفير الكمومي السيبراني لحماية سلاسل الإمداد (Quantum-Safe Cryptography):**
     *   *المستهدف الأمني:* إضافة طبقة تشفير مقاوم للحواسب الكمومية لحماية شبكة البلوكشين وتأمين بوالص الشحن الإلكترونية (eBL) لمنع تزوير البيانات، وحماية التدفقات المالية وتفتيت أي محاولات لاختراق حسابات السفن بنسبة 100%، بالتكامل مع أنظمة التخليص المالي الفوري اللحظي عبر **منظومة الريال الرقمي (YRD)** وبوابات الدخول الذكية (Smart Gates).
     *   *الشركات المرشحة:* شركة **IBM Quantum (الولايات المتحدة)** بالتكامل مع مجموعة الأمن السيبراني لشركة **Deloitte**.
+
+      
+
+<p align="center">
+  <img src="./Almokha_Port.png" alt="Almokha_Port" width="1254" height="1254"/>
+</p>
  
 
 
@@ -1547,12 +1553,19 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 للاطلاع على المواصفات الفنية الكاملة لكثافة إنترنت الأشياء (Hyper-Dense IoT)، أنظمة التشفير الكمومي (Post-Quantum Cryptography)، ومعالجة الحافة (Edge AI)، يرجى مراجعة المستند الفني المستقل:
 👉 [اضغط هنا للاطلاع على البروتوكول السيادي للأمن والاتصال المشفر](./protocols/3iot-quantum-security-protocol.md)
 
+---
 
+    
+
+<p align="center">
+  <img src="./Almokha2_port.png" alt="Almokha2_port" width="1254" height="1254"/>
+</p>
+ 
 
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Almokha_Super_Mega_Port3.png" alt="Almokha_Super_Mega_Port3" width="1254" height="1254"/>
 </p>
 
 ---
