@@ -1752,7 +1752,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ## 📍 خامسا : محور المهرة (ميناء نشطون) - البوابة الشرقية وممر الترانزيت البري الخليجي
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Almahra_Sea_Land_Transite_corridor.png" alt="Almahra_Sea_Land_Transite_corridor" width="1254" height="1254"/>
 </p>
 
 
@@ -1772,7 +1772,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./AlMahrah Sea-Land Transit Corridor.png" alt="AlMahrah Sea-Land Transit Corridor" width="1254" height="1254"/>
 </p>
 
 ---
@@ -1801,13 +1801,21 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Almahrah_Sea_land_Transit.png" alt="Almahrah_Sea_land_Transit" width="1254" height="1254"/>
 </p>
 
 ---
 
 
 ### ⚡ 3. الممر الأخضر الجمركي الفوري، التشفير الكمومي لحماية سلاسل الإمداد، والشبكة الطاقية
+
+---
+
+<p align="center">
+  <img src="./platooning.png" alt="platooning" width="1254" height="1254"/>
+</p>
+
+---
 
 لتفادي تحول الحدود البرية الإقليمية إلى نقاط اختناق كارثية، يفرض النظام قاعدة جمركية لا مركزية مبنية على الشفافية الائتمانية والحلول الطاقية المستقلة:
 
