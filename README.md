@@ -2022,7 +2022,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ## 📍 ثامنا : محور صعدة والجوف وحجة :
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Northern_Frontier_Axes.png" alt="Northern_Frontier_Axes" width="1254" height="1254"/>
 </p>
 
 
@@ -2039,7 +2039,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Northern_Frontier_Axes(Sada'a,Aljawf,Hajjah.png" alt="Northern_Frontier_Axes(Sada'a,Aljawf,Hajjah" width="1254" height="1254"/>
 </p>
 
 ---
@@ -2064,7 +2064,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+  <img src="./Northern_Frontier_Axes(Sada'a,Aljawf,Haja'a).png" alt="Northern_Frontier_Axes(Sada'a,Aljawf,Haja'a)" width="1254" height="1254"/>
 </p>
 
 ---
