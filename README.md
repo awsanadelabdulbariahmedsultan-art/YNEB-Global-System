@@ -1408,6 +1408,11 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 ---
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
 
 
 ### 🤖 2. الطبقة البرمجية والرقمنة الفنية للثورة الصناعية الرابعة (Soft-Stack & AI Core)
@@ -1442,6 +1447,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 👉 [اضغط هنا للاطلاع على البروتوكول السيادي للأمن والاتصال المشفر](./protocols/3iot-quantum-security-protocol.md)
 
 
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -1505,6 +1516,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
+
 ### 🤖 2. بروتوكول حزمة تكنولوجيا إنترنت الأشياء الفوقية والتقنيات الكمومية المستقلة (Soft-Stack & AI Core)
 
 إدارة تدفقات شحن عملاقة بحجم 70+ مليون حاوية عند الغاطس الطبيعي للمخا تتطلب بنية برمجية معزولة وبدون زمن تأخير، تدار تليمترياً بواسطة **نظام أوسان للذكاء الاصطناعي (AWSAN AI)**:
@@ -1526,6 +1543,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 👉 [اضغط هنا للاطلاع على البروتوكول السيادي للأمن والاتصال المشفر](./protocols/3iot-quantum-security-protocol.md)
 
 
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -1555,6 +1578,9 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ## 🌊 ثالثا: محور سقطرى - بوابة المحيط ومركز الترانزيت العالمي لتموين السفن
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 
 ### 🏗️ 1. الاستغلال الهيدروغرافي والبنية الفوقية لمستهدف 70+ مليون حاوية مكافئة (طراز سقطرى الفوق-عملاق وعالي العمق)
@@ -1573,6 +1599,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
     *   *آلية المناولة:* نقل الحاويات أوتوماتيكياً من السفن الراسية في الأرصفة العائمة إلى ساحات تخزين معلقة ومؤتمتة بالكامل تدار بواسطة رافعات الساحة الآلية الرأسية المزدوجة (Automated Stacking Cranes - ASC).
     *   *إنتاجية الرافعات الاستراتيجية:* تحقيق معدل مناولة للرافعات الجسرية الفوقية (Super Post-Panamax Cranes) يبلغ **65+ حركة/ساعة** لكل رافعة، لضمان أعلى كفاءة تفريغ وشحن بضائع ترانزيت في المحيط الهندي.
     *   *الشركات المرشحة:* شركة **ZPMC (الصين)** لتوريد الرافعات الآلية، بالتكامل مع تحالف **Adani Ports (الهند)** وشركة **DP World**.
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -1601,6 +1633,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
+
 ### ⚡ 3. مصفوفة الطاقة النظيفة المطلقة، أساطيل درون المسح والأنظمة الدفاعية السيادية لسقطرى
 
 يتم استغلال الوفورات المالية لبناء أكبر مختبر طاقة نظيفة مستقل في العالم لحماية الطبيعة، مدعوماً بشبكات رصد وتتبع دفاعية عريضة المدى لتأمين ممر المحيط:
@@ -1624,6 +1662,9 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ## 🚢 رابعاً: محور الحديدة - ممر الشحن اللوجستي والأمن الغذائي الذكي في البحر الأحمر
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية المستدامة لمستهدف 70+ مليون حاوية (طراز الحديدة الفوق-عملاق)
 
@@ -1637,6 +1678,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
     *   *آلية التشغيل والمناولة:* نظرًا للكثافة التدفقية الضخمة، يتم نقل الحاويات فوراً عبر سكك حديدية مبرمجة وممرات برية معزولة وسريعة إلى منطقة لوجستية وميناء جاف خلفي (خارج النطاق المدني الكثيف). تدار الساحات والمحطة بنسبة 100% بواسطة رافعات الساحة الآلية الرأسية المزدوجة (Automated Stacking Cranes - ASC).
     *   *إنتاجية الرافعات الاستراتيجية:* رفع مستهدف إنتاجية المناولة لتبلغ **65+ حركة/ساعة** لكل رافعة، باستخدام رافعات جسرية آلية عملاقة (Super Post-Panamax Cranes) لتقليص زمن انتظار السفن في الممر المائي.
     *   *الشركات المرشحة:* شركة **ZPMC (الصين)** لتوريد الرافعات الآلية، بالتكامل مع شركة **Adani Ports (الهند)** وشركة **DP World (الإمارات)** لإعادة هندسة وتدفق الساحات والموانئ الجافّة.
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -1660,6 +1707,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
+
 ### ⚡ 3. الشبكة الطاقية المستقلة، التشفير الكمومي السيبراني وبوابات المسح السريع الجمركي
 
 تأمين التشغيل المستمر ومكافحة هجمات شل خطوط الإمداد يتطلب طاقة مستقلة 100% وحماية سيبرانية من الفئة الأولى لتأمين منصات المقاصة والتوكين:
@@ -1679,7 +1732,9 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ## 📍 خامسا : محور المهرة (ميناء نشطون) - البوابة الشرقية وممر الترانزيت البري الخليجي
 
-
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية المستدامة لمستهدف 70+ مليون حاوية (طراز المهرة الفوق-عملاق)
@@ -1697,6 +1752,11 @@ Sustaining the immense operational demand of a global super-mega port dictates h
       
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
 
 
 ### 🛣️ 2. بروتوكول ممر الترانزيت والخط البري الدولي السريع وأتمتة أساطيل الشحن الثقيل
@@ -1718,6 +1778,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ### 🔐 بروتوكول إنترنت الأشياء الفوقية والتقنيات الكمومية المستقلة
 للاطلاع على المواصفات الفنية الكاملة لكثافة إنترنت الأشياء (Hyper-Dense IoT)، أنظمة التشفير الكمومي (Post-Quantum Cryptography)، ومعالجة الحافة (Edge AI)، يرجى مراجعة المستند الفني المستقل:
 👉 [اضغط هنا للاطلاع على البروتوكول السيادي للأمن والاتصال المشفر](./protocols/3iot-quantum-security-protocol.md)
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -1745,7 +1811,9 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ## ⚓ سادسا : محور شبوه (ميناء النشيمه و ميناء قنا) 
 
 
-
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 
 
@@ -1764,6 +1832,11 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
 
 ### 🤖 2. بروتوكول الكثافة الفائقة لإنترنت الأشياء والتحكم التليمتري لحظر التلاعب (Soft-Stack & AI Core)
 
@@ -1779,6 +1852,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ### 🔐 بروتوكول إنترنت الأشياء الفوقية والتقنيات الكمومية المستقلة
 للاطلاع على المواصفات الفنية الكاملة لكثافة إنترنت الأشياء (Hyper-Dense IoT)، أنظمة التشفير الكمومي (Post-Quantum Cryptography)، ومعالجة الحافة (Edge AI)، يرجى مراجعة المستند الفني المستقل:
 👉 [اضغط هنا للاطلاع على البروتوكول السيادي للأمن والاتصال المشفر](./protocols/3iot-quantum-security-protocol.md)
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 
 ---
@@ -1831,6 +1910,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
+
 
 ### 🤖 2. بروتوكول الكثافة الفائقة لإنترنت الأشياء والتحكم التليمتري لمصفاة ومنشآت حضرموت
 
@@ -1841,6 +1926,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
     *   *مهام شركة Emerson Process Management (أمريكا):* تتولى الريادة الهندسية الرقمية لتصميم وتوريد مستشعرات التدفق والضغط النانوية فوق الصوتية، وأتمتة التحكم في صمامات الضخ والتدفق التليمتري لمنشآت التصدير البتروكيماوي والغاز لقطع الطريق أمام أي ثغرات تلاعب بالكميات (بديل Halliburton/Schlumberger).
     *   *مهام شركة Siemens Digital Industries (ألمانيا):* تتولى بناء برمجيات المنظومة الصناعية المشتركة وتفعيل "التوأم الرقمي الحي" (3D Digital Twin) لكامل منظومة موانئ حضرموت المدمجة وحقول التغذية لتوقع الاختناقات التشغيلية قبل حدوثها.
     *   *مهام شركة Ericsson / Cisco Systems (السويد/أمريكا):* تتولى التأسيس الكامل لشبكة اتصالات لاسلكية سيادية ومغلقة من الجيل الخامس الخاصة (**Private 5G Network**) لضمان النقل الفوري عالي الكفاءة لبيانات الـ 800,000 مستشعر بدون زمن تأخير (**Zero Latency**).
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -1864,6 +1955,10 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ## 📍 ثامنا : محور صعدة والجوف وحجة :
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
 
 ### ⛏️ 1. قطاع التعدين الثقيل والمعادن العالمية الحرة (صعدة وحجة والجوف)
 
@@ -1875,6 +1970,13 @@ Sustaining the immense operational demand of a global super-mega port dictates h
     *   *مهام شركة Barrick Gold (كندا):* تتولى حصرية عمليات الاستكشاف المتقدم، وإدارة وتطوير مناجم ومكامن الذهب والمعادن الثمينة وحوكمة المسح الجيولوجي ثلاثي الأبعاد للمغارات الحيوية.
     *   *مهام شركة Komatsu / Caterpillar (اليابان/أمريكا):* تتولى توريد وهندسة أساطيل الحفر والآليات الثقيلة والشاحنات ذاتية القيادة والمربوطة بالكامل بالشبكة البرمجية للمشروع.
 
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
 
 ---### 🌾 2. مشروع سلة الجوف الرقمية للزراعة المستدامة والأمن الغذائي الاستراتيجي
 
@@ -1892,6 +1994,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 للاطلاع على المواصفات الفنية الكاملة لكثافة مستشعرات التعدين والتربة (Hyper-Dense Mining & AgTech IoT)، أنظمة الربط الكهربائي الخليجي الموحد فائقة الجهد (HVDC)، والتشفير الكمومي لحماية الثروات الوطنية، يرجى مراجعة المستند الفني المستقل:
 👉 [اضغط هنا للاطلاع على البروتوكول السيادي للتعدين والزراعة الرقمية والمناجم ذاتية القيادة](./protocols/heavy-mining-agtech-protocol.md)
 
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 
@@ -1913,6 +2021,11 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ## 📈 تاسعا : محور مأرب :
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+
 ### ⚡ 1. البنية التحتية الهيكلية والتوليد الغازي الفائق لمحور مأرب (طراز استقرار الطاقة)
 
 يتم تحديث وإعادة هيكلة البنية التحتية للطاقة والصناعة في محور مأرب لتحويله إلى المنصة المركزية الأولى لتأمين الطاقة المحلية، وتوليد الكهرباء بالغاز، واستقرار الشبكة الوطنية عبر النظم المؤتمتة التالية:
@@ -1924,6 +2037,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 *   **🔌 شبكات التوزيع والتحكم اللحظي الذكي بالشبكة (Smart Grid Matrix):**
     *   *المستهدف التشغيلي:* بناء خطوط نقل ومحطات تحويل رقمية لربط مأرب بممرات الطاقة الإقليمية، وتجهيز "شبكة وطنية ذكية ومحصنة" تدار خوارزمياً عبر نظام **أوسان للذكاء الاصطناعي (AWSAN AI)** لإعادة توزيع الأحمال أوتوماتيكياً ومنع انقطاع التيار (Blackouts).
     *   *الشركات المرشحة:* شركة **Hitachi Energy (اليابان/سويسرا)** لهندسة وتشييد محطات التحويل والربط الذكي ومراقبة سريان التيار تليمترياً بمعزل عن الشبكات التقليدية.
+
+---
+
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
 
 ---
 ### 🤖 2. بروتوكول الكثافة الفائقة لإنترنت الأشياء وحوكمة مكامن الغاز بمارب (Soft-Stack & AI Core)
@@ -1943,6 +2062,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 ---
 
+<p align="center">
+  <img src="./Image_02.png" alt="Image_02" width="1254" height="1254"/>
+</p>
+
+---
+
 ### ⚡ 3. معالجة الحافة لحماية الإمداد، التشفير الكمومي للبيانات المالية وحوكمة الاستقرار تنموياً
 
 لحماية منشآت الطاقة بمأرب من الاختراقات السيبرانية، وتأمين تدفقات التخليص المالي والامتثال، يتم فرض القواعد الأمنية التالية:
@@ -1955,7 +2080,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 
-## 🤖 9. تفصيل القواعد الخوارزمية والمحددات المنطقية لمحرك نظام أوسان للذكاء الاصطناعي (AWSAN AI Engine Core)
+## 🤖 تفصيل القواعد الخوارزمية والمحددات المنطقية لمحرك نظام أوسان للذكاء الاصطناعي (AWSAN AI Engine Core)
 
 يمثل هذا القسم النواة البرمجية المركزية لإدارة كافة الموانئ والمحاور البرية، والتكامل الذكي بين مستشعرات الحافة والقرارات التشغيلية اللحظية وحوكمة التوكن الاقتصادي.
 
@@ -1986,7 +2111,7 @@ sequential_workflow PipelineOptimization {
 
 ---
 
-## 📈 10. مصفوفة تتبع الاستثمارات والنفقات الرأسمالية والتقديرات المالية الكلية (CAPEX & Investment Tracker)
+## 📈 مصفوفة تتبع الاستثمارات والنفقات الرأسمالية والتقديرات المالية الكلية (CAPEX & Investment Tracker)
 
 يتضمن هذا القسم التقديرات الهيكلية لرؤوس الأموال الاستثمارية والنفقات الرأسمالية (CAPEX) المطلوبة لتطوير وتأمين كافة المحاور الستة والمحاور البرية والتعدينية بالشراكة مع الصناديق السيادية والتحالفات الدولية الكبرى، متبوعاً بحزم حسابات العوائد المتوقعة.
 
