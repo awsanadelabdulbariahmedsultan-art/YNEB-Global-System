@@ -1754,7 +1754,12 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 <p align="center">
   <img src="./Almahra_Sea_Land_Transite_corridor.png" alt="Almahra_Sea_Land_Transite_corridor" width="1254" height="1254"/>
 </p>
+---
 
+<p align="center">
+  <img src="./platooning.png" alt="platooning" width="1254" height="1254"/>
+</p>
+---
 
 ### 🏗️ 1. التوسعة الهيكلية والهندسة البحرية المستدامة لمستهدف 70+ مليون حاوية (طراز المهرة الفوق-عملاق)
 
