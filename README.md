@@ -1524,19 +1524,19 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 <p align="center">
-  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
 </p>
 
 
 <p align="center">
-  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 
 <p align="center">
-  <img src="./assets/Shuqrah_Port3.png" alt="Shuqrah_Port3  - View 1" width="49%">
-  <img src="./assets/Shuqrah _Port4.png" alt="Shuqrah_Port4  - View 2" width="49%">
+  <img src="./Shuqrah_Port3.png" alt="Shuqrah_Port3  - View 1" width="49%">
+  <img src="./Shuqrah _Port4.png" alt="Shuqrah_Port4  - View 2" width="49%">
 </p>
 
 
