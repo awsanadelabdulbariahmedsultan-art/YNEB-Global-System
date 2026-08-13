@@ -1524,7 +1524,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 <p align="center">
-  <img src="./assets/Shuqrah Port.png" alt="Shuqrah Port" width="1200">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
 </p>
 
 
