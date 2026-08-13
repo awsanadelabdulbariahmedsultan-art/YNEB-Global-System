@@ -1519,8 +1519,25 @@ Sustaining the immense operational demand of a global super-mega port dictates h
   * تركيب أنظمة كاميرات المراقبة وتفعيل نظام التخليص الجمركي الرقمي الموحد مع عدن، وإجراء تشغيل تجريبي (Dry Run) بتسيير أول بارجة حاويات، ثم الافتتاح الرسمي والتشغيل التجاري بنهاية الشهر الـ 12.
 
 
+---
 
 
+
+<p align="center">
+  <img src="./assets/Shuqrah Port.png" alt="Shuqrah Port" width="1200">
+</p>
+
+
+<p align="center">
+  <img src="./assets/Shuqrah Port.png" alt="Shuqrah Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah Port2.png" alt="Shuqrah Port2  - View 2" width="49%">
+</p>
+
+
+<p align="center">
+  <img src="./assets/Shuqrah Port3.png" alt="Shuqrah Port3  - View 1" width="49%">
+  <img src="./assets/Shuqrah Port4.png" alt="Shuqrah Port4  - View 2" width="49%">
+</p>
 
 
 
