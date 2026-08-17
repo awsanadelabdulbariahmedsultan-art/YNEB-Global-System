@@ -182,22 +182,21 @@ Select a module below to view the technical documentation and strategic maps.
 
 ---
 ---
-
-### 🤝 3. Global Big 5 Alliance (التحالف الخماسي العالمي)
-*The multi-polar partnership securing international investment.*
+### 🤝 3. Global Big 6 Alliance (التحالف السداسي العالمي)
+*The balanced multi-polar partnership securing international investment and fast-track execution.*
 
 *   **🇺🇸 USA Synergy:** [Tech Oversight & Security](./Documentation/Global-Partners/USA_Strategic_Tech_Security_Role.md)
+*   **🇹🇷 Turkey Synergy:** [Deepwater Fleet & Exploration Speed](./Documentation/Global-Partners/Turkey_TPAO_Deepwater_Fleet_Strategy.md)
 *   **🇨🇳 China Synergy:** [Infrastructure & Financing](./Documentation/Global-Partners/China_Sinopec_CHEC_Infrastructure_Financing.md)
 *   **🇸🇦 Saudi Arabia Synergy:** [Vision 2030 & Stability](./Documentation/Global-Partners/KSA_Strategic_Partnership_Vision_2030.md)
 *   **🇦🇪 UAE Synergy:** [Global Logistics & LNG](./Documentation/Global-Partners/UAE_DPWorld_ADNOC_Logistics_Gas_Strategy.md)
 *   **🇮🇳 India Synergy:** [Market Demand & Refining](./Documentation/Global-Partners/Global_Alliance_Big5_Structure.md)
 
-> **Visual Matrix:** [📷 Alliance Map](The Six Alliance.png)
+> **Visual Matrix:** [📷 Alliance Map](./The%20Six%20Alliance.png)
 ---
 
-
 <p align="center">
-  <img src="./The Six Alliance.png" alt="The Six Alliance" width="1254" height="1254"/>
+  <img src="./The%20Six%20Alliance.png" alt="The Six Alliance" width="1254" height="1254"/>
 </p>
 
 ---
