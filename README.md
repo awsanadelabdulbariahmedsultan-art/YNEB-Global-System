@@ -2331,7 +2331,7 @@ sequential_workflow PipelineOptimization {
 | **⚓ محور تعز (ميناء المخا)** | 70+ Million TEU + خندق طبيعي -25م | $8.2 Billion | CHEC / ZPMC / DP World / ACWA Power / GE / Thales | صندوق الاستثمارات العامة PIF |
 | **📈 محور ساحل حضرموت** | Cluster: بروم (حاويات) / الشحر / المكلا | $11.4 Billion | Penta-Ocean / Saipem / PSA International / Emerson / ABB | صندق الاستثمارات الخليجي الموحد |
 | **🚢 محور الحديدة اللوجستي** | 70+ Million TEU + صوامع غلال وأمن غذائي | $6.8 Billion | CHEC / ZPMC / Adani Ports / Cargill / Smiths Detection | هيئات استثمار الأمن الغذائي الدولي |
-| **🌊 محور أرصفة سقطرى** | 70+ Million TEU + ترانزيت وتموين 200k سفينة | $9.5 Billion | CHEC / CNOOC / Chevron / ExxonMobil / ACWA Power | تحالف الاستثمار الطاقي العالمي |
+| **🌊 محور أرصفة سقطرى** | 70+ ملوين حاوية مكافئة (TEU) + ترانزيت وتموين 200 ألف سفينة | $9.5 مليار دولار | مؤسسة البترول التركية (TPAO) / CHEC / CNOOC / Chevron / ExxonMobil / ACWA Power | تحالف الاستثمار اللوجستي والطاقي العالمي |
 | **📍 محور المهرة ونشطون** | 70+ Million TEU + الممر البري السريع الخليجي | $7.4 Billion | CHEC / Adani Ports / Huawei / IBM Quantum / Deloitte | صندوق PIF / أرامكو السعودية |
 | **⛏️ المحاور الشمالية وجار** | مناطق تعدين حرة + زراعة إنترنت الأشياء + HVDC | $14.2 Billion | BHP / Barrick Gold / John Deere / Yara / Hitachi Energy | هيئة الربط الخليجي GCCIA / صندوق PIF |
 | **⚡ محور مأرب الإستراتيجي** | مجمعات توليد غازي مكثف + شبكة وطنية ذكية | $5.5 Billion | Siemens Energy / Ansaldo Energia / Hitachi / Emerson | اللجان الفنية اليمنية-السعودية المشتركة |
@@ -2406,7 +2406,7 @@ This section details the structured capital expenditure (CAPEX) requirements, cl
 | **⚓ Taiz Axis (Al-Mokha)** | 70+ Million TEU / Natural Trench: -25m | $8.2 Billion | CHEC / ZPMC / DP World / ACWA Power / GE / Thales | Public Investment Fund (PIF) |
 | **📈 Hadhramaut Port Cluster** | Cluster: Burum (Cargo) / Al-Shihr / Al-Mukalla | $11.4 Billion | Penta-Ocean / Saipem / PSA International / Emerson / ABB | Unified GCC Sovereign Wealth Fund |
 | **🚢 Al-Hodeidah Logistics Axis** | 70+ Million TEU / Smart Silos & Ag-Bulk | $6.8 Billion | CHEC / ZPMC / Adani Ports / Cargill / Smiths Detection | Global Food Security Consortiums |
-| **🌊 Socotra Refueling Axis** | 70+ Million TEU / Bunkering: 200k Vessels/yr | $9.5 Billion | CHEC / CNOOC / Chevron / ExxonMobil / ACWA Power | International Energy Alliance |
+| **🌊 Socotra Refueling Axis** | 70+ Million TEU / Bunkering: 200k Vessels/yr | $9.5 Billion | TPAO (Turkish Petroleum) / CHEC / CNOOC / Chevron / ExxonMobil / ACWA Power | International Energy & Logistics Alliance |
 | **📍 Al-Mahrah Transit Gateway**| 70+ Million TEU / Cross-Border Expressways| $7.4 Billion | CHEC / Adani Ports / Huawei / IBM Quantum / Deloitte | PIF (KSA) / Saudi Aramco |
 | **⛏️ Northern Frontier Axes** | Free Mining Zone / Precision AgTech / HVDC | $14.2 Billion | BHP / Barrick Gold / John Deere / Yara / Hitachi Energy | GCCIA Grid / Public Investment Fund |
 | **⚡ Mareb Strategic Axis** | Macro-Gas Generation / Central Smart Grid | $5.5 Billion | Siemens Energy / Ansaldo Energia / Hitachi / Emerson | Saudi-Yemeni Joint Technical Committees |
