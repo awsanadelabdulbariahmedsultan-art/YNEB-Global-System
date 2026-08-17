@@ -823,13 +823,13 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ### 📍 1. محاور السيادة الجغرافية (Strategic Geo-Hubs)
 *البنية الهندسية والمكانية لنظام تفعيل الطاقة الثلاثي.*
 
-| المحور (Hub) | الدور الاستراتيجي (Strategic Role) | عرض الخريطة (View Map) | الوثائق الفنية (Technical Doc) |
-| :--- | :--- | :--- | :--- |
-| **شبوة** | محرك الانطلاق والعائد السريع على الاستثمار | [📷 عرض الخريطة](Image_08.png) | [📄 وثائق المحور](./Documentation/Geo-Hubs/Shabwah_Hub_Launch_Engine.md) |
-| **حضرموت**| طاقة التوسع والغاز الطبيعي المسال العالمي | [📷 عرض الخريطة](Image_13.png) | [📄 وثائق المحور](./Documentation/Geo-Hubs/Hadhramaut_Hub_Expansion_Power.md) |
-| **مأرب** | ركيزة الاستقرار وطاقة المجتمعات المحلية | [📷 عرض الخريطة](Image_12.png) | [📄 وثائق المحور](./Documentation/Geo-Hubs/Mareb_Hub_Stability_Anchor.md) |
-| **سقطرى** | بوابة المحيط ومحطة التزويد العالمية بالوقود | [📷 عرض الخريطة](Image_11.png) | [📄 وثائق المحور](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) |
-| **المحاور الحدودية**| التنمية والاستقرار في صعدة، الجوف، وحجة | [📷 عرض الخريطة](Image_22.png) | [📄 وثائق المحور](./Documentation/Geo-Hubs/Border_Hubs_Development_Saada_Jawf_Hajjah.md) |
+| المحور (Hub) | الدور الاستراتيجي (Strategic Role) | عرض الخريطة (View Map) | الوثائق الفنية (Technical Doc) | مستودع GitHub الحصري (Repository) |
+| :--- | :--- | :--- | :--- | :--- |
+| **شبوة** | محرك الإطلاق وتحقيق عوائد استثمارية سريعة | [📷 عرض الخريطة](Image_08.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Shabwah_Hub_Launch_Engine.md) | *مخصص للائتلاف الدولي فقط* |
+| **حضرموت** | قوة التوسع وتطوير الغاز الطبيعي المسال العالمي | [📷 عرض الخريطة](Image_13.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Hadhramaut_Hub_Expansion_Power.md) | *مخصص للائتلاف الدولي فقط* |
+| **مأرب** | ركيزة الاستقرار وتأمين الطاقة الاجتماعية | [📷 عرض الخريطة](Image_12.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Mareb_Hub_Stability_Anchor.md) | *مخصص للائتلاف الدولي فقط* |
+| 🌊 **سقطرى (Socotra)** | بوابة المحيط ومحطة التموين العالمية الفائقة | [📷 عرض الخريطة](Image_11.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) | [🚀 فتح المستودع الحصري](https://github.com) |
+| **محاور الحدود** | استقرار وتنمية صعدة والجوف وحجة | [📷 عرض الخريطة](Image_22.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Border_Hubs_Development_Saada_Jawf_Hajjah.md) | *مخصص للائتلاف الدولي فقط* |
 
 ---
 
