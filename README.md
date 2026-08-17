@@ -828,7 +828,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 | **شبوة** | محرك الإطلاق وتحقيق عوائد استثمارية سريعة | [📷 عرض الخريطة](Image_08.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Shabwah_Hub_Launch_Engine.md) | *مخصص للائتلاف الدولي فقط* |
 | **حضرموت** | قوة التوسع وتطوير الغاز الطبيعي المسال العالمي | [📷 عرض الخريطة](Image_13.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Hadhramaut_Hub_Expansion_Power.md) | *مخصص للائتلاف الدولي فقط* |
 | **مأرب** | ركيزة الاستقرار وتأمين الطاقة الاجتماعية | [📷 عرض الخريطة](Image_12.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Mareb_Hub_Stability_Anchor.md) | *مخصص للائتلاف الدولي فقط* |
-| 🌊 **سقطرى (Socotra)** | بوابة المحيط ومحطة التموين العالمية الفائقة | [📷 عرض الخريطة](Image_11.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) | [🚀 فتح المستودع الحصري](https://github.com) |
+| 🌊 **سقطرى (Socotra)** | بوابة المحيط ومحطة التموين العالمية الفائقة | [📷 عرض الخريطة](Image_11.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) | [🚀 فتح المستودع الحصري](https://github.com/awsanadelabdulbariahmedsultan-art/Yemen-Offshore-FastTrack-MasterPlan)  |
 | **محاور الحدود** | استقرار وتنمية صعدة والجوف وحجة | [📷 عرض الخريطة](Image_22.png) | [📄 وثيقة التوثيق](./Documentation/Geo-Hubs/Border_Hubs_Development_Saada_Jawf_Hajjah.md) | *مخصص للائتلاف الدولي فقط* |
 
 ---
