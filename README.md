@@ -732,7 +732,7 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 ---
 
 <p align="center">
-  <img src="./Image_06.png" alt="Image_06" width="1254" height="1254"/>
+  <img src="./The Six Alliance.png" alt="The Six Alliance" width="1254" height="1254"/>
 </p>
 
 ---
