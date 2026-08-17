@@ -898,23 +898,23 @@ Sustaining the immense operational demand of a global super-mega port dictates h
 
 
 ---
----
-### 🤝 3. التحالف الخماسي العالمي (Global Big 5 Alliance)
-*الشراكة متعددة الأقطاب لتأمين وحماية الاستثمارات الدولية.*
+---### 🤝 3. تحالف الستة الكبار العالمي (Global Big 6 Alliance)
+*الشراكة متعددة الأقطاب المتوازنة لتأمين الاستثمارات الدولية والمسار التشغيلي السريع.*
 
-*   **🇺🇸 الشراكة الأمريكية:** [الإشراف التقني والمنظومة الأمنية](./Documentation/Global-Partners/USA_Strategic_Tech_Security_Role.md)
-*   **🇨🇳 الشراكة الصينية:** [البنية التحتية والتمويل (Sinopec / CHEC)](./Documentation/Global-Partners/China_Sinopec_CHEC_Infrastructure_Financing.md)
-*   **🇸🇦 الشراكة السعودية:** [التكامل مع رؤية 2030 والاستقرار الإقليمي](./Documentation/Global-Partners/KSA_Strategic_Partnership_Vision_2030.md)
-*   **🇦🇪 الشراكة الإماراتية:** [اللوجستيات العالمية واستراتيجية الغاز (DP World / ADNOC)](./Documentation/Global-Partners/UAE_DPWorld_ADNOC_Logistics_Gas_Strategy.md)
-*   **🇮🇳 الشراكة الهندية:** [تلبية الطلب في السوق وتكرير النفط](./Documentation/Global-Partners/Global_Alliance_Big5_Structure.md)
+*   **🇺🇸 التكامل الأمريكي:** [الرقابة التقنية والأمن](./Documentation/Global-Partners/USA_Strategic_Tech_Security_Role.md)
+*   **🇹🇷 التكامل التركي:** [أسطول المياه العميقة وسرعة الاستكشاف](./Documentation/Global-Partners/Turkey_TPAO_Deepwater_Fleet_Strategy_Arabic.md)
+*   **🇨🇳 التكامل الصيني:** [البنية التحتية والتمويل](./Documentation/Global-Partners/China_Sinopec_CHEC_Infrastructure_Financing.md)
+*   **🇸🇦 التكامل السعودي:** [رؤية 2030 والاستقرار الإقليمي](./Documentation/Global-Partners/KSA_Strategic_Partnership_Vision_2030.md)
+*   **🇦🇪 التكامل الإماراتي:** [اللوجستيات العالمية والغاز المسال](./Documentation/Global-Partners/UAE_DPWorld_ADNOC_Logistics_Gas_Strategy.md)
+*   **🇮🇳 التكامل الهندي:** [الطلب في الأسواق العالمية والتكرير](./Documentation/Global-Partners/Global_Alliance_Big5_Structure.md)
 
-> **المصفوفة البصرية للتحالف:** [📷 خريطة التحالف الدولي](Image_06.png)
-
+> **المصفوفة البصرية:** [📷 خارطة التحالف السداسي](./The%20Six%20Alliance.png)
 ---
 
 <p align="center">
-  <img src="./Image_06.png" alt="Image_06" width="1254" height="1254"/>
+  <img src="./The%20Six%20Alliance.png" alt="The Six Alliance" width="1254" height="1254"/>
 </p>
+
 
 ---
 
