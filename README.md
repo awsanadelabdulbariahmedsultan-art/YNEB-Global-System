@@ -87,7 +87,7 @@ Select a module below to view the technical documentation and strategic maps.
 | **Shabwah** | The Launch Engine & Rapid ROI | [📷 View Map](Image_08.png) | [📄 Documentation](./Documentation/Geo-Hubs/Shabwah_Hub_Launch_Engine.md) | *Consortium Use Only* |
 | **Hadhramaut**| Expansion Power & Global LNG | [📷 View Map](Image_13.png) | [📄 Documentation](./Documentation/Geo-Hubs/Hadhramaut_Hub_Expansion_Power.md) | *Consortium Use Only* |
 | **Mareb** | Stability Anchor & Social Energy | [📷 View Map](Image_12.png) | [📄 Documentation](./Documentation/Geo-Hubs/Mareb_Hub_Stability_Anchor.md) | *Consortium Use Only* |
-| 🌊 [**Socotra (سقطرى)**](https://github.com/awsanadelabdulbariahmedsultan-art/Yemen-Offshore-FastTrack-MasterPlan) | Ocean Gate & Global Bunkering | [📷 View Map](Image_11.png) | [📄 Documentation (سقطرى خصوصاً)](https://github.com) | [🚀 Open Repository](https://github.com/awsanadelabdulbariahmedsultan-art/Yemen-Offshore-FastTrack-MasterPlan) |
+| 🌊 [**Socotra (سقطرى)**](./Documentation/Geo-Hubs/Socotra_Hub_Ocean_Gate.md) | Ocean Gate & Global Bunkering | [📷 View Map](Image_11.png) | [📄 Documentation (سقطرى خصوصاً)](https://github.com) | [🚀 Open Repository](https://github.com/awsanadelabdulbariahmedsultan-art/Yemen-Offshore-FastTrack-MasterPlan) |
 | **Border Hubs**| Saada, Jawf & Hajjah Stability | [📷 View Map](Image_22.png) | [📄 Documentation](./Documentation/Geo-Hubs/Border_Hubs_Development_Saada_Jawf_Hajjah.md) | *Consortium Use Only* |
 
 ---
