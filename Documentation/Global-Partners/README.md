@@ -36,6 +36,36 @@ This folder contains the master strategic documentation, operational mandates, a
 *   **Key Partners:** Reliance Industries, Adani Ports.
 *   **Role:** Ensuring long-term energy demand offtake, modular refining chemistry synergy, specialized commodity terminals management, and digital supply chain integration.
 
+
+
+---
+## 🏗️ High-Level Partnership Structure
+
+### 1. 🇺🇸 USA (Technology & Security)
+*   **Key Partners:** ExxonMobil, Chevron, Halliburton, Schlumberger, GE Energy.
+*   **Role:** Technical oversight, reservoir management, deepwater drilling, digital field integrity, and maritime security corridor coordination.
+
+### 2. 🇨🇳 China (Construction & Finance)
+*   **Key Partners:** SINOPEC, CHEC (China Harbour), United Energy Group (UEG), ZhenHua Oil, CNOOC.
+*   **Role:** Rapid infrastructure development (Strategic Pipeline Corridors & Port Expansion via Port Readiness protocols), offshore platforms scaling, and flexible financing models.
+
+### 3. 🇹🇷 Turkey (Deepwater Fleet & Exploration Speed)
+*   **Key Partners:** Türkiye Petrolleri Anonim Ortaklığı (TPAO).
+*   **Role:** Deploying cutting-edge, state-owned deepwater drillship fleets to eliminate global rig-rental overheads, leading high-risk oceanic exploration campaigns in prospective blocks, and driving regional maritime integration through specialized technical energy frameworks.
+
+### 4. 🇸🇦 Saudi Arabia (Stability & Regional Integration)
+*   **Key Partners:** Public Investment Fund (PIF), Saudi Aramco, ACWA Power, SDRPY.
+*   **Role:** Heavy sovereign infrastructure investment, utility-scale renewable deployment, upstream/downstream technical coalition, and linking Yemen directly to the Gulf fabric via **Saudi Vision 2030** and the GCC grid.
+
+### 5. 🇦🇪 UAE (Logistics & Gas Excellence)
+*   **Key Partners:** DP World, ADNOC.
+*   **Role:** Global port automation and maritime terminal management using the **Jebel Ali Model**, and midstream LNG operations at Balhaf.
+
+### 6. 🇮🇳 India (Global Market & Demand)
+*   **Key Partners:** Reliance Industries, Adani Ports.
+*   **Role:** Ensuring long-term energy demand offtake, modular refining chemistry synergy, specialized commodity terminals management, and digital supply chain integration.
+
+
 ---
 
 ## 🗺️ Asset Allocation & Granular Operational Matrix
